@@ -1,2 +1,2 @@
 # CasaOS-i18n
-casaos' multilingual internationalization project
+CasaOS Internationalization(i18n) Project
