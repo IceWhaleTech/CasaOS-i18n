@@ -58,7 +58,7 @@ export default {
     "Settings": "系统设置",
     "Dashboard Setting": "系统设置",
     "Search Engine": "搜索引擎",
-    "WebUI port": "网页界面端口",
+    "WebUI Port": "网页界面端口",
     "Currently the latest version": "当前已经是最新版",
     "A new version is available!": "有新的可用版本！",
     "Edit Web UI port": "修改网页界面端口",
@@ -109,7 +109,12 @@ export default {
     'Choose "Show device ID"': '选择 "显示设备ID"',
     "Copy the Device ID": "复制设备ID",
     "There you go!": "一切就绪",
-    "Your data has started to sync.<br>It may take some minutes to fulfill synchronization.": "你的数据已经开始同步,完成同步可能需要几分钟时间。",
+    "Your data has started to sync.It may take some minutes to fulfill synchronization.": "你的数据已经开始同步,完成同步可能需要几分钟时间。",
+    "Up to Date":"已同步",
+    "Synchronizing":"同步中",
+    "Synchronized":"同步完成",
+    "Total":"总计",
+    "Add New Device":"添加新设备",
 
     // Iot
     "Have an idea? Shoot it on Discord!": "有想法？在 Discord 上告诉我们！",
@@ -170,5 +175,13 @@ export default {
     "optional configuration items": "可选配置项",
     "These include but are not limited to these cases and <b>still need to be confirmed or modified by you.</b>": "这些包括但不限于这些情况，<b>还需要你确认或修改。</b>",
     "Feel free to suggest improvements to this feature in Discord Server!": "欢迎随时随时在 Discord 中对此功能提出改进建议！",
-    "Using localhost or 127.0.0.1 will cause the application to be inaccessible, please use the real ip to access.":"当你使用 localhost 或 127.0.0.1 时将会导致App无法打开, 请使用实际IP地址来访问。"
+    "Using localhost or 127.0.0.1 will cause the application to be inaccessible, please use the real ip to access.":"当你使用 localhost 或 127.0.0.1 时将会导致App无法打开, 请使用实际IP地址来访问。",
+    "CATEGORY":"分类",
+    "DEVELOPER":"开发者",
+    "REQUIRE":"需要",
+    "MEMORY":"内存",
+    "DISK":"磁盘",
+    "App Store":"应用中心",
+    "Community Apps":"社区App",
+    "From community contributors, not optimized for CasaOS, but provides a basic App experience.":"来自社区贡献者。提供了基础的App体验，但不是专门为CasaOS优化的。",
 }
