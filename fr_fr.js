@@ -91,7 +91,7 @@ export default {
     "Get Syncthing for": "Obtenir Syncthing pour {os}",
     "Download APK": "Téléchargez l'APK",
     "Show all Platforms": "Afficher toutes les plates-formes",
-    'Install and open the downloaded application, then click the "Next" button.': 'Installez et ouvrez l'application téléchargée, puis cliquez sur le bouton "Suivant".',
+    'Install and open the downloaded application, then click the "Next" button.': 'Installez et ouvrez l\'application téléchargée, puis cliquez sur le bouton "Suivant".',
     "Device ID": "ID du périphérique",
     "Fill in your Device ID to continue": "Remplissez le code de votre appareil pour continuer",
     "How to get Device ID": "Comment obtenir le numéro d'identification du périphérique ?",
