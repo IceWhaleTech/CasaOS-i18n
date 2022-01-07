@@ -130,7 +130,7 @@ export default {
     "Uninstall": "Удалить",
     "Attention": "Внимание",
     "Data cannot be recovered after deletion! <br>Continue on to uninstall this application?": "Данные не подлежат восстановлению после удаления!<br>Продолжить, чтобы удалить это приложение?",
-    "Featured Apps": "Избранные приложения",
+    "Featured Apps": "Популярные приложения",
     "Custom Install": "Своя установка",
     "Continue in background": "Продолжить в фоне",
     "Install a new App manually": "Установить новое приложение вручную",
