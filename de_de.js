@@ -184,4 +184,5 @@ export default {
     "App Store":"App Store",
     "Community Apps":"Community Apps",
     "From community contributors, not optimized for CasaOS, but provides a basic App experience.":"Von der Community zur Verfügung gestellt, aber nicht für CasaOS optimiert. Grundlegende App-Funktionen sind jedoch problemlos nutzbar.",
+    "Sort by":"Sortieren nach",
 }
