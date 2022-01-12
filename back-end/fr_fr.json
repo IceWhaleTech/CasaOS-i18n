@@ -1,14 +1,14 @@
 {
   "Deluge": {
     "tagline": "Un client BitTorrent léger et gratuit.",
-    "overview": "Deluge contient les fonctionnalités communes aux clients BitTorrent telles que le cryptage de protocole, la DHT, la découverte de pairs locaux (LSD), l'échange de pairs (PEX), UPnP, NAT-PMP, la prise en charge de proxy, seeds Web, les limites de vitesse globale et par torrent. Comme Deluge utilise largement la bibliothèque libtorrent, il dispose d'une liste complète des fonctionnalités fournies."
+    "overview": "Deluge contient les fonctionnalités communes aux clients BitTorrent telles que le cryptage de protocole, la DHT, la découverte de pairs locaux (LSD), l\'échange de pairs (PEX), UPnP, NAT-PMP, la prise en charge de proxy, seeds Web, les limites de vitesse globale et par torrent. Comme Deluge utilise largement la bibliothèque libtorrent, il dispose d'une liste complète des fonctionnalités fournies."
   },
   "FileBrowser": {
     "tagline": "Téléchargez, supprimez, prévisualisez, renommez, modifiez et partagez vos fichiers.",
     "overview": "Navigateur de fichiers basé sur le Web comprenant des fonctions de partage, etc."
   },
   "Home Assistant": {
-    "tagline": "La domotique open source qui donne la priorité au contrôle local et à la confidentialité. Alimenté par une communauté mondiale de bricoleurs et d'amateurs de bricolage. Parfait pour fonctionner sur un Raspberry Pi ou un serveur local."
+    "tagline": "La domotique open source qui donne la priorité au contrôle local et à la confidentialité. Alimenté par une communauté mondiale de bricoleurs et d\'amateurs de bricolage. Parfait pour fonctionner sur un Raspberry Pi ou un serveur local."
   },
   "Jellyfin": {
     "tagline": "Vous avez le contrôle de vos médias.",
@@ -24,19 +24,19 @@
   },
   "Pi-hole": {
     "tagline": "Blocage des publicités sur l\'ensemble du réseau",
-    "overview": "La domotique open source qui donne la priorité au contrôle local et à la confidentialité. Alimenté par une communauté mondiale de bricoleurs et d'amateurs de bricolage. Parfait pour fonctionner sur un Raspberry Pi ou un serveur local."
+    "overview": "La domotique open source qui donne la priorité au contrôle local et à la confidentialité. Alimenté par une communauté mondiale de bricoleurs et d\'amateurs de bricolage. Parfait pour fonctionner sur un Raspberry Pi ou un serveur local."
   },
   "Plex": {
     "tagline": "La maison pour tous vos divertissements.",
-    "overview": "Plex organise les vidéos, la musique et les photos des médiathèques personnelles et les diffuse sur les téléviseurs intelligents, les boîtiers de streaming et les appareils mobiles. Ce conteneur est emballé comme un serveur multimédia Plex autonome. a toujours été une priorité absolue. Une conception simple et des actions groupées permettent de faire les choses plus rapidement."
+    "overview": "Plex organise les vidéos, la musique et les photos des médiathèques personnelles et les diffuse sur les téléviseurs intelligents, les boîtiers de streaming et les appareils mobiles. Ce conteneur est emballé comme un serveur multimédia Plex autonome a toujours été une priorité absolue. Une conception simple et des actions groupées permettent de faire les choses plus rapidement."
   },
   "Radarr": {
     "tagline": "Le gestionnaire de collection de films pour les utilisateurs de Usenet et de BitTorrent",
-    "overview": "Radarr est un gestionnaire de collection de films pour les utilisateurs de Usenet et BitTorrent. Il peut surveiller plusieurs flux RSS pour les nouveaux films et s\'interfacer avec les clients et les indexeurs pour les saisir, les trier et les renommer. Il peut également être configuré pour améliorer automatiquement la qualité des fichiers existants dans la bibliothèque lorsqu'un format de meilleure qualité est disponible. Notez qu'un seul type d'un film donné est pris en charge. Si vous voulez à la fois une version 4k et une version 1080p d'un film donné, vous aurez besoin de plusieurs instances."
+    "overview": "Radarr est un gestionnaire de collection de films pour les utilisateurs de Usenet et BitTorrent. Il peut surveiller plusieurs flux RSS pour les nouveaux films et s\'interfacer avec les clients et les indexeurs pour les saisir, les trier et les renommer. Il peut également être configuré pour améliorer automatiquement la qualité des fichiers existants dans la bibliothèque lorsqu\'un format de meilleure qualité est disponible. Notez qu\'un seul type d\'un film donné est pris en charge. Si vous voulez à la fois une version 4k et une version 1080p d\'un film donné, vous aurez besoin de plusieurs instances."
   },
   "Sonarr": {
     "tagline": "Le PVR pour les utilisateurs de Usenet et BitTorrent",
-    "overview": "Sonarr est un PVR pour les utilisateurs de Usenet et BitTorrent. Il peut surveiller plusieurs flux RSS à la recherche de nouveaux épisodes de vos émissions préférées et les capturer, les trier et les renommer. Il peut également être configuré pour améliorer automatiquement la qualité des fichiers déjà téléchargés lorsqu'un format de meilleure qualité est disponible."
+    "overview": "Sonarr est un PVR pour les utilisateurs de Usenet et BitTorrent. Il peut surveiller plusieurs flux RSS à la recherche de nouveaux épisodes de vos émissions préférées et les capturer, les trier et les renommer. Il peut également être configuré pour améliorer automatiquement la qualité des fichiers déjà téléchargés lorsqu\'un format de meilleure qualité est disponible."
   },
   "Syncthing": {
     "tagline": "Outil de synchronisation de fichiers gratuit, sécurisé et distribué.",
