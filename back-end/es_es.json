@@ -1,0 +1,50 @@
+{
+  "Deluge": {
+    "tagline": "Un cliente BitTorrent ligero y gratuito.",
+    "overview": "Deluge contiene las características comunes a los clientes de BitTorrent, como el cifrado de protocolos, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, soporte de proxy, semillas web, límites de velocidad globales y por torrent. Como Deluge utiliza en gran medida la biblioteca libtorrent, tiene una lista completa de las características proporcionadas."
+  },
+  "FileBrowser": {
+    "tagline": "Sube, elimina, previsualiza, renombra, edita y comparte tus archivos.",
+    "overview": "File Browser - Navegador de archivos basado en la web que incluye funciones para compartir, etc."
+  },
+  "Home Assistant": {
+    "tagline": "Despierta tu hogar",
+    "overview": "Automatización del hogar de código abierto que da prioridad al control local y a la privacidad. Impulsado por una comunidad mundial de aficionados al bricolaje. Perfecto para ejecutar en una Raspberry Pi o en un servidor local."
+  },
+  "Jellyfin": {
+    "tagline": "Te permite controlar tus medios de comunicación.",
+    "overview": "Jellyfin te permite recopilar, gestionar y transmitir tus archivos multimedia. Ejecute el servidor Jellyfin en su sistema y acceda al principal sistema de entretenimiento de software libre, con campanas y silbatos incluidos."
+  },
+  "Nextcloud": {
+    "tagline": "La plataforma de productividad que te mantiene en control",
+    "overview": "Nextcloud pone tus datos al alcance de tu mano, bajo tu control. Almacena tus documentos, calendario, contactos y fotos en un servidor en casa, en uno de nuestros proveedores o en un centro de datos de confianza."
+  },
+  "PhotoPrism": {
+    "tagline": "Navegar, organizar y compartir tu colección de fotos",
+    "overview": "PhotoPrism® es una aplicación basada en la inteligencia artificial para navegar, organizar y compartir tu colección de fotos. Hace uso de las últimas tecnologías para etiquetar y encontrar fotos automáticamente sin entrometerse en tu camino. Puedes utilizarla en casa, en un servidor privado o en la nube."
+  },
+  "Pi-hole": {
+    "tagline": "Bloqueo de anuncios en toda la red",
+    "overview": "Automatización del hogar de código abierto que da prioridad al control local y a la privacidad. Impulsado por una comunidad mundial de aficionados al bricolaje. Perfecto para ejecutar en una Raspberry Pi o en un servidor local."
+  },
+  "Plex": {
+    "tagline": "El hogar para todo su entretenimiento.",
+    "overview": "Plex organiza los vídeos, la música y las fotos de las bibliotecas multimedia personales y los transmite a televisores inteligentes, cajas de streaming y dispositivos móviles. Este contenedor está empaquetado como un servidor multimedia independiente Plex siempre ha sido una prioridad. El diseño sencillo y las acciones masivas permiten hacer las cosas más rápidamente."
+  },
+  "Radarr": {
+    "tagline": "El gestor de colecciones de películas para usuarios de Usenet y BitTorrent",
+    "overview": "Radarr es un gestor de colecciones de películas para usuarios de Usenet y BitTorrent. Puede monitorizar múltiples fuentes RSS para nuevas películas y se interconectará con clientes e indexadores para cogerlas, ordenarlas y renombrarlas. También puede configurarse para actualizar automáticamente la calidad de los archivos existentes en la biblioteca cuando esté disponible un formato de mejor calidad. Tenga en cuenta que sólo se admite un tipo de película determinada. Si quieres una versión 4k y una versión 1080p de una película determinada, necesitarás varias instancias."
+  },
+  "Sonarr": {
+    "tagline": "El PVR para usuarios de Usenet y BitTorrent",
+    "overview": "Sonarr es un PVR para usuarios de Usenet y BitTorrent. Puede monitorizar múltiples canales RSS para buscar nuevos episodios de tus programas favoritos y los cogerá, clasificará y renombrará. También puede configurarse para que mejore automáticamente la calidad de los archivos ya descargados cuando esté disponible un formato de mejor calidad."
+  },
+  "Syncthing": {
+    "tagline": "Herramienta de sincronización de archivos gratuita, segura y distribuida.",
+    "overview": "Syncthing es un programa de sincronización continua de archivos. Sincroniza archivos entre dos o más ordenadores en tiempo real, protegidos de forma segura de miradas indiscretas. Sus datos son sólo suyos y usted merece elegir dónde se almacenan, si se comparten con algún tercero y cómo se transmiten por Internet."
+  },
+  "qBittorrent": {
+    "tagline": "Descargador gratuito de BitTorrent",
+    "overview": "El proyecto qBittorrent pretende ofrecer una alternativa de software de código abierto a µTorrent."
+  }
+}
