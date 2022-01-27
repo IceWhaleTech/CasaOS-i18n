@@ -197,7 +197,7 @@ export default {
     "Available Total": "{name} | Disponible: {avl} (Total: {total})",
     "Health": "Santé",
     "Healthy": "Sain",
-    "Damage": "Endommager",
+    "Damage": "Endommagé",
     "Temp": "Température",
     "WARNING!": "ATTENTION!",
     "This selected drive will be emptied if there is data on it. Make sure again that there is no important data on the selected drive that has not been backed up. If there is data to be migrated, the related apps will be stopped during the migration process.": "Ce lecteur sélectionné sera vidé s'il contient des données. Assurez-vous à nouveau qu'il n'y a pas de données importantes sur le lecteur sélectionné qui n'ont pas été sauvegardées. S'il y a des données à migrer, les applications associées seront arrêtées pendant le processus de migration.",
