@@ -59,7 +59,7 @@ export default {
     "Dashboard Setting": "Réglage du tableau de bord",
     "Search Engine": "Moteur de recherche",
     "WebUI Port": "Port de l'interface Web",
-    "Currently the latest version": "La dernière version en date",
+    "Currently the latest version": "Vous êtes à jour!",
     "A new version is available!": "Une nouvelle version est disponible !",
     "Edit Web UI port": "Editer le port WebUI",
 
@@ -148,7 +148,7 @@ export default {
     "App Description": "Description de l'appli",
     "No ports now, click “+” to add one.": "Aucun port pour le moment, cliquez sur “+” pour en ajouter un.",
     "No volumes now, click “+” to add one.": "Aucun volume pour le moment, cliquez sur “+” pour en ajouter un.",
-    "No environment variables now, click “+” to add one.": "Pas de variables d'environnement maintenant, cliquez sur “+” pour en ajouter une.",
+    "No environment variables now, click “+” to add one.": "Pas de variables d'environnement pour le moment, cliquez sur “+” pour en ajouter une.",
     "No devices now, click “+” to add one.": "Aucun appareil pour le moment, cliquez sur “+” pour en ajouter un.",
     "e.g.,hello-world:latest": "e.g.,hello-world:latest",
     "Your custom App Name": "Votre nom d'application personnalisé",
