@@ -29,7 +29,7 @@ export default {
     "This field must have more than 5 characters": "Ce champ doit comporter plus de 5 caractères",
 
     // Init Page
-    "Welcome to CasaOS": "Bienvenue à CasaOS",
+    "Welcome to CasaOS": "Bienvenue sur CasaOS",
     "Let's create your initial account": "Créons votre compte initial",
     "Go →": "Allez →",
     "Create Account": "Créer un compte",
