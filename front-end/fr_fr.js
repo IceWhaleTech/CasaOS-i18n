@@ -187,9 +187,9 @@ export default {
     "Sort by":"Trier par",
 
     //Storage
-    "Create Storage": "Create Storage",
-    "Storage Manager": "Storage Manager",
-    "Storage": "Storage",
+    "Create Storage": "Créer un stockage",
+    "Storage Manager": "Gestionnaire de stockage",
+    "Storage": "Stockage",
     "Drive": "Drive",
     "Single Drive Storage": "Single Drive Storage",
     "Format": "Format",
