@@ -8,7 +8,8 @@
     "overview": "Navigateur de fichiers basé sur le Web comprenant des fonctions de partage, etc."
   },
   "Home Assistant": {
-    "tagline": "La domotique open source qui donne la priorité au contrôle local et à la confidentialité. Alimenté par une communauté mondiale de bricoleurs et d\'amateurs de bricolage. Parfait pour fonctionner sur un Raspberry Pi ou un serveur local."
+    "tagline": "Réveillez votre maison",
+    "overview": "La domotique open source qui donne la priorité au contrôle local et à la confidentialité. Alimenté par une communauté mondiale de bricoleurs et d\'amateurs de bricolage. Parfait pour fonctionner sur un Raspberry Pi ou un serveur local."
   },
   "Jellyfin": {
     "tagline": "Vous avez le contrôle de vos médias.",
