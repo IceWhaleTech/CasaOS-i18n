@@ -1,0 +1,50 @@
+{
+  "Deluge": {
+    "tagline": "Ein leichtgewichtiger und kostenloser BitTorrent-Client.",
+    "overview": "Deluge enthält die für BitTorrent-Clients üblichen Funktionen wie Protokollverschlüsselung, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, Proxy-Unterstützung, Web-Seeds, sowie globale- und pro Torrent-Geschwindigkeitsbegrenzungen."
+  },
+  "FileBrowser": {
+    "tagline": "Vielfältige Dateibearbeitung direkt im Browser.",
+    "overview": "File Browser ist ein webbasierter Dateibrowser mit Freigabefunktionen."
+  },
+  "Home Assistant": {
+    "tagline": "Mach dein Zuhause smart.",
+    "overview": "Open-Source-Heimautomatisierung, bei der lokale Kontrolle und Datenschutz an erster Stelle stehen. Angetrieben von einer weltweiten Gemeinschaft von Tüftlern und Heimwerkern."
+  },
+  "Jellyfin": {
+    "tagline": "Gibt dir die Kontrolle über deine Medien.",
+    "overview": "Mit Jellyfin kannst du deine Medien sammeln, verwalten und streamen. Führen den Jellyfin-Server auf deinem System aus und erhalte Zugang zum führenden Free-Software-Entertainment-System, inklusive allem Schnickschnack."
+  },
+  "Nextcloud": {
+    "tagline": "Die Produktivitätsplattform, mit der du die Kontrolle behältst.",
+    "overview": "Mit Nextcloud haben hast du deine Daten jederzeit unter Kontrolle. Speichere deine Dokumente, Kalender, Kontakte und Fotos auf einem Server zu Hause."
+  },
+  "PhotoPrism": {
+    "tagline": "Durchsuchen, Organisieren und Teilen deiner Fotosammlung.",
+    "overview": "PhotoPrism® ist eine KI-gestützte App zum Durchsuchen, Organisieren und Teilen deiner Fotosammlung. Sie nutzt die neuesten Technologien, um Bilder automatisch zu markieren und zu finden, ohne dir in die Quere zu kommen."
+  },
+  "Pi-hole": {
+    "tagline": "Netzwerkweiter DNS-Werbeblocker.",
+    "overview": "Pi-hole ist eine Server-Software mit der Funktion eines Tracking- und Werbeblockers sowie eines optionalen DHCP-Servers."
+  },
+  "Plex": {
+    "tagline": "Das Zuhause für all deine Unterhaltung.",
+    "overview": "Plex organisiert Videos, Musik und Fotos aus persönlichen Medienbibliotheken und streamt sie auf Smart-TVs, Streaming-Boxen und mobile Geräte. Dieser Container ist als eigenständiger Plex Media Server verpackt und hatte schon immer höchste Priorität. Einfaches Design und Massenaktionen bedeuten, dass Dinge schneller erledigt werden."
+  },
+  "Radarr": {
+    "tagline": "Der Filmsammlungsmanager für Usenet- und BitTorrent-Benutzer.",
+    "overview": "Radarr ist ein Filmsammlungsmanager für Usenet- und BitTorrent-Benutzer. Er kann mehrere RSS-Feeds auf neue Filme überwachen und wird mit Clients und Indexern zusammenarbeiten, um sie zu erfassen, zu sortieren und umzubenennen. Es kann auch so konfiguriert werden, dass die Qualität vorhandener Dateien in der Bibliothek automatisch verbessert wird, wenn ein besseres Qualitätsformat verfügbar wird."
+  },
+  "Sonarr": {
+    "tagline": "Der PVR für Usenet- und BitTorrent-Benutzer.",
+    "overview": "Sonarr ist ein PVR für Usenet- und BitTorrent-Nutzer. Es kann mehrere RSS-Feeds auf neue Episoden deiner Lieblingssendungen überwachen und wird sie erfassen, sortieren und umbenennen. Es kann auch so konfiguriert werden, dass die Qualität von bereits heruntergeladenen Dateien automatisch verbessert wird, wenn ein besseres Qualitätsformat verfügbar wird."
+  },
+  "Syncthing": {
+    "tagline": "Kostenloses, sicheres und verteiltes Dateisynchronisierungstool.",
+    "overview": "Syncthing ist ein Programm zur kontinuierlichen Dateisynchronisation. Es synchronisiert Dateien zwischen zwei oder mehr Computern in Echtzeit, sicher geschützt vor neugierigen Blicken. Deine Daten sind allein deine Daten und du hast das Recht zu entscheiden, wo sie gespeichert werden, ob sie mit Dritten geteilt werden und wie sie über das Internet übertragen werden."
+  },
+  "qBittorrent": {
+    "tagline": "Kostenloser BitTorrent-Downloader.",
+    "overview": "Das qBittorrent-Projekt zielt darauf ab, eine Open-Source-Software-Alternative zu µTorrent bereitzustellen."
+  }
+}
