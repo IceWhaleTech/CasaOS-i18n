@@ -60,24 +60,24 @@ export default {
     "Search Engine": "Wyszukiwarka",
     "WebUI Port": "Port interfejsu WebUI",
     "Currently the latest version": "Aktualnie najnowsza wersja",
-    "A new version is available!": "A new version is available!",
-    "Edit Web UI port": "Edit WebUI port",
+    "A new version is available!": "Dostępna jest nowa wersja!",
+    "Edit Web UI port": "Edycja portu WebUI",
 
     // Terminal & Logs
-    "Terminal & Logs": "Terminal & Logs",
+    "Terminal & Logs": "Terminal i logi",
     "Terminal": "Terminal",
-    "Logs": "Logs",
+    "Logs": "Logi",
 
     // Widgets
-    "Widgets Settings": "Widgets Settings",
+    "Widgets Settings": "Ustawienia widgetów",
     "Time": "Time",
-    "System Status": "System Status",
-    "Disk Status": "Disk Status",
-    "Network Status": "Network Status",
-    "available of": "{avl} available of {total}",
+    "System Status": "Stan systemu",
+    "Disk Status": "Stan dysku",
+    "Network Status": "Stan sieci",
+    "available of": "{avl} dostępny z {total}",
 
     // Search 
-    "Search...": "Search...",
+    "Search...": "Szukaj...",
 
     // Sync
     "Sync your data": "Sync your data",
