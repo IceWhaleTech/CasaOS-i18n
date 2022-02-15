@@ -117,10 +117,10 @@ export default {
     "Add New Device": "Dodaj nowe urządzenie",
 
     // Iot
-    "Have an idea? Shoot it on Discord!": "Have an idea? Shoot it on Discord!",
-    "Smarten up your home": "Smarten up your home",
-    "We want to give you a smart home experience with privacy, high speed, and localized storage.": "We want to give you a smart home experience with privacy, high speed, and localized storage.",
-    "In development": "In development",
+    "Have an idea? Shoot it on Discord!": "Masz pomysł? Przedstaw go na Discord!",
+    "Smarten up your home": "Inteligentny dom",
+    "We want to give you a smart home experience with privacy, high speed, and localized storage.": "Chcemy dać Ci możliwość korzystania z inteligentnego domu z prywatnością, dużą prędkością i lokalną infrastrukturą dyskową.",
+    "In development": "W przygotowaniu",
 
     // Apps
     "Apps": "Apps",
