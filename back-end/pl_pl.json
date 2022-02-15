@@ -1,0 +1,50 @@
+{
+  "Deluge": {
+    "tagline": "A lightweight and free BitTorrent client.",
+    "overview": "Deluge contains the common features to BitTorrent clients such as Protocol Encryption, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, Proxy support, Web seeds, global and per-torrent speed limits. As Deluge heavily utilises the ​libtorrent library it has a comprehensive list of the ​features provided."
+  },
+  "FileBrowser": {
+    "tagline": "Upload, delete, preview, rename, edit and share your files.",
+    "overview": "File Browser - Webbased File Browser including sharing functions etc."
+  },
+  "Home Assistant": {
+    "tagline": "Awaken your home",
+    "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
+  },
+  "Jellyfin": {
+    "tagline": "Puts you in control of your media.",
+    "overview": "Jellyfin enables you to collect, manage, and stream your media. Run the Jellyfin server on your system and gain access to the leading free-software entertainment system, bells and whistles included."
+  },
+  "Nextcloud": {
+    "tagline": "The productivity platform that keeps you in control",
+    "overview": "Nextcloud puts your data at your fingertips, under your control. Store your documents, calendar, contacts and photos on a server at home, at one of our providers or in a data center you trust."
+  },
+  "PhotoPrism": {
+    "tagline": "Browsing, organizing & sharing your photo collection",
+    "overview": "PhotoPrism® is an AI-powered app for browsing, organizing & sharing your photo collection. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud."
+  },
+  "Pi-hole": {
+    "tagline": "Network-wide Ad Blocking",
+    "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
+  },
+  "Plex": {
+    "tagline": "The home for all your entertainment.",
+    "overview": "Plex organizes video, music and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices. This container is packaged as a standalone Plex Media Server has always been a top priority. Straightforward design and bulk actions mean getting things done faster."
+  },
+  "Radarr": {
+    "tagline": "The movie collection manager for Usenet and BitTorrent users",
+    "overview": "Radarr is a movie collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new movies and will interface with clients and indexers to grab, sort, and rename them. It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available. Note that only one type of a given movie is supported. If you want both an 4k version and 1080p version of a given movie you will need multiple instances."
+  },
+  "Sonarr": {
+    "tagline": "The PVR for Usenet and BitTorrent users",
+    "overview": "Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available."
+  },
+  "Syncthing": {
+    "tagline": "Free, secure, and distributed file synchronisation tool.",
+    "overview": "Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet."
+  },
+  "qBittorrent": {
+    "tagline": "Free BitTorrent downloader",
+    "overview": "The qBittorrent project aims to provide an open-source software alternative to µTorrent."
+  }
+}
