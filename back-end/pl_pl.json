@@ -1,50 +1,50 @@
 {
   "Deluge": {
-    "tagline": "A lightweight and free BitTorrent client.",
-    "overview": "Deluge contains the common features to BitTorrent clients such as Protocol Encryption, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, Proxy support, Web seeds, global and per-torrent speed limits. As Deluge heavily utilises the ​libtorrent library it has a comprehensive list of the ​features provided."
+    "tagline": "Lekki i darmowy klient sieci BitTorrent.",
+    "overview": "Deluge zawiera funkcje typowe dla klientów BitTorrenta, takie jak szyfrowanie protokołu, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, obsługa proxy, Web seeds, globalne i per-torrentowe ograniczenia prędkości. Ponieważ Deluge w dużym stopniu korzysta z biblioteki libtorrent, posiada obszerną listę dostępnych funkcji."
   },
   "FileBrowser": {
-    "tagline": "Upload, delete, preview, rename, edit and share your files.",
-    "overview": "File Browser - Webbased File Browser including sharing functions etc."
+    "tagline": "Przesyłaj, usuwaj, przeglądaj, zmieniaj nazwy, edytuj i udostępniaj swoje pliki.",
+    "overview": "File Browser - przeglądarka plików oparta na sieci Web, zawierająca funkcje udostępniania itp."
   },
   "Home Assistant": {
     "tagline": "Awaken your home",
-    "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
+    "overview": "Automatyka domowa o otwartym kodzie źródłowym, która stawia na pierwszym miejscu lokalną kontrolę i prywatność. Zasilana przez światową społeczność majsterkowiczów i entuzjastów DIY. Idealny do uruchomienia na Raspberry Pi lub lokalnym serwerze."
   },
   "Jellyfin": {
-    "tagline": "Puts you in control of your media.",
-    "overview": "Jellyfin enables you to collect, manage, and stream your media. Run the Jellyfin server on your system and gain access to the leading free-software entertainment system, bells and whistles included."
+    "tagline": "Zapewnia kontrolę nad mediami.",
+    "overview": "Jellyfin umożliwia gromadzenie, zarządzanie i strumieniowanie twoich mediów. Uruchom serwer Jellyfin na swoim systemie i uzyskaj dostęp do najlepszego systemu rozrywki opartego na wolnym oprogramowaniu, z wszystkimi bajerami i gadżetami."
   },
   "Nextcloud": {
-    "tagline": "The productivity platform that keeps you in control",
-    "overview": "Nextcloud puts your data at your fingertips, under your control. Store your documents, calendar, contacts and photos on a server at home, at one of our providers or in a data center you trust."
+    "tagline": "Wlasny dropbox, nad którym masz kontrole",
+    "overview": "Nextcloud sprawia, że Twoje dane są na wyciągnięcie ręki, pod Twoją kontrolą. Przechowuj swoje dokumenty, kalendarz, kontakty i zdjęcia na serwerze w domu, u jednego z naszych dostawców lub w zaufanym centrum danych."
   },
   "PhotoPrism": {
-    "tagline": "Browsing, organizing & sharing your photo collection",
-    "overview": "PhotoPrism® is an AI-powered app for browsing, organizing & sharing your photo collection. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud."
+    "tagline": "Przeglądanie, organizowanie i udostępnianie kolekcji zdjęć",
+    "overview": "PhotoPrism® to napędzana przez sztuczną inteligencję aplikacja do przeglądania, organizowania i udostępniania kolekcji zdjęć. Wykorzystuje ona najnowsze technologie do automatycznego tagowania i wyszukiwania zdjęć, nie przeszkadzając Ci w tym. Możesz ją uruchomić w domu, na prywatnym serwerze lub w chmurze."
   },
   "Pi-hole": {
-    "tagline": "Network-wide Ad Blocking",
+    "tagline": "Blokowanie reklam w sieci",
     "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
   },
   "Plex": {
-    "tagline": "The home for all your entertainment.",
-    "overview": "Plex organizes video, music and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices. This container is packaged as a standalone Plex Media Server has always been a top priority. Straightforward design and bulk actions mean getting things done faster."
+    "tagline": "Miejsce dla wszystkich Twoich rozrywek.",
+    "overview": "Plex organizuje wideo, muzykę i zdjęcia z osobistych bibliotek multimediów i przesyła je do inteligentnych telewizorów, odtwarzaczy strumieniowych i urządzeń mobilnych.  "
   },
   "Radarr": {
-    "tagline": "The movie collection manager for Usenet and BitTorrent users",
-    "overview": "Radarr is a movie collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new movies and will interface with clients and indexers to grab, sort, and rename them. It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available. Note that only one type of a given movie is supported. If you want both an 4k version and 1080p version of a given movie you will need multiple instances."
+    "tagline": "Menedżer kolekcji filmów dla użytkowników sieci Usenet i BitTorrent",
+    "overview": "Radarr to menedżer kolekcji filmów dla użytkowników sieci Usenet i BitTorrent. Może monitorować wiele kanałów RSS w poszukiwaniu nowych filmów i będzie współpracować z klientami i indeksatorami, aby je pobierać, sortować i zmieniać ich nazwy. Można go również skonfigurować tak, aby automatycznie podnosił jakość istniejących plików w bibliotece, gdy dostępny jest format o lepszej jakości. Należy pamiętać, że obsługiwany jest tylko jeden typ danego filmu. Jeśli chcesz mieć zarówno wersję 4k, jak i 1080p danego filmu, będziesz potrzebował wielu instancji."
   },
   "Sonarr": {
-    "tagline": "The PVR for Usenet and BitTorrent users",
-    "overview": "Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available."
+    "tagline": "PVR dla użytkowników sieci Usenet i BitTorrent",
+    "overview": "Sonarr to PVR dla użytkowników sieci Usenet i BitTorrent. Może monitorować wiele kanałów RSS w poszukiwaniu nowych odcinków Twoich ulubionych programów, a następnie pobierać je, sortować i zmieniać ich nazwy. Można go również skonfigurować tak, aby automatycznie podnosił jakość już pobranych plików, gdy dostępny staje się format o lepszej jakości."
   },
   "Syncthing": {
-    "tagline": "Free, secure, and distributed file synchronisation tool.",
-    "overview": "Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet."
+    "tagline": "Darmowe, bezpieczne i rozprowadzane narzędzie do synchronizacji plików.",
+    "overview": "Syncthing jest programem do ciągłej synchronizacji plików. Synchronizuje on pliki pomiędzy dwoma lub więcej komputerami w czasie rzeczywistym, bezpiecznie chroniąc je przed wścibskimi oczami. Twoje dane są tylko Twoje i zasługujesz na to, aby wybrać gdzie są przechowywane, czy są udostępniane osobom trzecim i jak są przesyłane przez Internet.."
   },
   "qBittorrent": {
-    "tagline": "Free BitTorrent downloader",
-    "overview": "The qBittorrent project aims to provide an open-source software alternative to µTorrent."
+    "tagline": "Darmowy downloader BitTorrent",
+    "overview": "Projekt qBittorrent ma na celu dostarczenie oprogramowania open-source będącego alternatywą dla µTorrent."
   }
 }
