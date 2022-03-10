@@ -19,8 +19,10 @@ Copy the en_us.js (front-end) or en_us.json (back-end) to a new file named de_de
 | :-----| :----- | :---- |
 | English | 100% | [IceWhaleTech](https://github.com/IceWhaleTech) |
 | 中文 | 100% | [IceWhaleTech](https://github.com/IceWhaleTech) |
-| Deutsch | 100% | [thueske](https://github.com/thueske) [patrickhilker](https://github.com/patrickhilker)|
-| Español | 90% | [baptiste313](https://github.com/baptiste313) |
-| Français | 90% | [baptiste313](https://github.com/baptiste313) |
-| Italiano | 90% | [albanobattistella](https://github.com/albanobattistella) |
-| Русский | 90% | [ImOstrovskiy](https://github.com/ImOstrovskiy) |
+| Deutsch | 90% | [thueske](https://github.com/thueske) [patrickhilker](https://github.com/patrickhilker)|
+| Español | 80% | [baptiste313](https://github.com/baptiste313) |
+| Français | 100% | [baptiste313](https://github.com/baptiste313) [zarevskaya](https://github.com/zarevskaya)|
+| Italiano | 80% | [albanobattistella](https://github.com/albanobattistella) |
+| Русский | 80% | [ImOstrovskiy](https://github.com/ImOstrovskiy) |
+| Polska | 90% | [sgastol](https://github.com/sgastol) |
+| Português (Brasil) | 90% | [delki8](https://github.com/delki8) |
