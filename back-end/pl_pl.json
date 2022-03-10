@@ -1,0 +1,50 @@
+{
+  "Deluge": {
+    "tagline": "Lekki i darmowy klient sieci BitTorrent.",
+    "overview": "Deluge zawiera funkcje typowe dla klientów BitTorrenta, takie jak szyfrowanie protokołu, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, obsługa proxy, Web seeds, globalne i per-torrentowe ograniczenia prędkości. Ponieważ Deluge w dużym stopniu korzysta z biblioteki libtorrent, posiada obszerną listę dostępnych funkcji."
+  },
+  "FileBrowser": {
+    "tagline": "Przesyłaj, usuwaj, przeglądaj, zmieniaj nazwy, edytuj i udostępniaj swoje pliki.",
+    "overview": "File Browser - przeglądarka plików oparta na sieci Web, zawierająca funkcje udostępniania itp."
+  },
+  "Home Assistant": {
+    "tagline": "Awaken your home",
+    "overview": "Automatyka domowa o otwartym kodzie źródłowym, która stawia na pierwszym miejscu lokalną kontrolę i prywatność. Zasilana przez światową społeczność majsterkowiczów i entuzjastów DIY. Idealny do uruchomienia na Raspberry Pi lub lokalnym serwerze."
+  },
+  "Jellyfin": {
+    "tagline": "Zapewnia kontrolę nad mediami.",
+    "overview": "Jellyfin umożliwia gromadzenie, zarządzanie i strumieniowanie twoich mediów. Uruchom serwer Jellyfin na swoim systemie i uzyskaj dostęp do najlepszego systemu rozrywki opartego na wolnym oprogramowaniu, z wszystkimi bajerami i gadżetami."
+  },
+  "Nextcloud": {
+    "tagline": "Wlasny dropbox, nad którym masz kontrole",
+    "overview": "Nextcloud sprawia, że Twoje dane są na wyciągnięcie ręki, pod Twoją kontrolą. Przechowuj swoje dokumenty, kalendarz, kontakty i zdjęcia na serwerze w domu, u jednego z naszych dostawców lub w zaufanym centrum danych."
+  },
+  "PhotoPrism": {
+    "tagline": "Przeglądanie, organizowanie i udostępnianie kolekcji zdjęć",
+    "overview": "PhotoPrism® to napędzana przez sztuczną inteligencję aplikacja do przeglądania, organizowania i udostępniania kolekcji zdjęć. Wykorzystuje ona najnowsze technologie do automatycznego tagowania i wyszukiwania zdjęć, nie przeszkadzając Ci w tym. Możesz ją uruchomić w domu, na prywatnym serwerze lub w chmurze."
+  },
+  "Pi-hole": {
+    "tagline": "Blokowanie reklam w sieci",
+    "overview": "Automatyka domowa o otwartym kodzie źródłowym, która stawia na pierwszym miejscu lokalną kontrolę i prywatność. Idealny do uruchomienia na Raspberry Pi lub lokalnym serwerze."
+  },
+  "Plex": {
+    "tagline": "Miejsce dla wszystkich Twoich rozrywek.",
+    "overview": "Plex organizuje wideo, muzykę i zdjęcia z osobistych bibliotek multimediów i przesyła je do inteligentnych telewizorów, odtwarzaczy strumieniowych i urządzeń mobilnych.  "
+  },
+  "Radarr": {
+    "tagline": "Menedżer kolekcji filmów dla użytkowników sieci Usenet i BitTorrent",
+    "overview": "Radarr to menedżer kolekcji filmów dla użytkowników sieci Usenet i BitTorrent. Może monitorować wiele kanałów RSS w poszukiwaniu nowych filmów i będzie współpracować z klientami i indeksatorami, aby je pobierać, sortować i zmieniać ich nazwy. Można go również skonfigurować tak, aby automatycznie podnosił jakość istniejących plików w bibliotece, gdy dostępny jest format o lepszej jakości. Należy pamiętać, że obsługiwany jest tylko jeden typ danego filmu. Jeśli chcesz mieć zarówno wersję 4k, jak i 1080p danego filmu, będziesz potrzebował wielu instancji."
+  },
+  "Sonarr": {
+    "tagline": "PVR dla użytkowników sieci Usenet i BitTorrent",
+    "overview": "Sonarr to PVR dla użytkowników sieci Usenet i BitTorrent. Może monitorować wiele kanałów RSS w poszukiwaniu nowych odcinków Twoich ulubionych programów, a następnie pobierać je, sortować i zmieniać ich nazwy. Można go również skonfigurować tak, aby automatycznie podnosił jakość już pobranych plików, gdy dostępny staje się format o lepszej jakości."
+  },
+  "Syncthing": {
+    "tagline": "Darmowe, bezpieczne i rozprowadzane narzędzie do synchronizacji plików.",
+    "overview": "Syncthing jest programem do ciągłej synchronizacji plików. Synchronizuje on pliki pomiędzy dwoma lub więcej komputerami w czasie rzeczywistym, bezpiecznie chroniąc je przed wścibskimi oczami. Twoje dane są tylko Twoje i zasługujesz na to, aby wybrać gdzie są przechowywane, czy są udostępniane osobom trzecim i jak są przesyłane przez Internet.."
+  },
+  "qBittorrent": {
+    "tagline": "Darmowy downloader BitTorrent",
+    "overview": "Projekt qBittorrent ma na celu dostarczenie oprogramowania open-source będącego alternatywą dla µTorrent."
+  }
+}
