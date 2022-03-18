@@ -132,7 +132,7 @@ export default {
     "Uninstall": "Désinstaller",
     "Attention": "Attention",
     "Data cannot be recovered after deletion! <br>Continue on to uninstall this application?": "Les données ne peuvent pas être récupérées après la suppression ! <br>Continuer pour désinstaller cette application ?",
-    "Featured Apps": "Apps à la une",
+    "Featured Apps": "Apps à la Une",
     "Custom Install": "Installation personnalisée",
     "Continue in background": "Continuer en arrière-plan",
     "Install a new App manually": "Installer une nouvelle application manuellement",
