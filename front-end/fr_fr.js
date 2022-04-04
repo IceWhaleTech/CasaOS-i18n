@@ -60,7 +60,7 @@ export default {
     "Dashboard Setting": "Réglage du tableau de bord",
     "Search Engine": "Moteur de recherche",
     "WebUI Port": "Port de l'interface Web",
-    "Currently the latest version": "La dernière version en date",
+    "Currently the latest version": "Actuellement la dernière version",
     "A new version is available!": "Une nouvelle version est disponible !",
     "Edit Web UI port": "Editer le port WebUI",
 
