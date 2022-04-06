@@ -1,4 +1,8 @@
 {
+  "2FAuth": {
+    "tagline": "A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
+    "overview": "2FAuth is a web based self-hosted alternative to One Time Passcode (OTP) generators like Google Authenticator, designed for both mobile and desktop."
+  },
   "Deluge": {
     "tagline": "A lightweight and free BitTorrent client.",
     "overview": "Deluge contains the common features to BitTorrent clients such as Protocol Encryption, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, Proxy support, Web seeds, global and per-torrent speed limits. As Deluge heavily utilises the ​libtorrent library it has a comprehensive list of the ​features provided."
@@ -29,7 +33,7 @@
   },
   "Plex": {
     "tagline": "The home for all your entertainment.",
-    "overview": "Plex organizes video, music and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices. This container is packaged as a standalone Plex Media Server has always been a top priority. Straightforward design and bulk actions mean getting things done faster."
+    "overview": "Plex organizes video, music and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices. This container is packaged as a standalone Plex Media Server. has always been a top priority. Straightforward design and bulk actions mean getting things done faster."
   },
   "Radarr": {
     "tagline": "The movie collection manager for Usenet and BitTorrent users",
