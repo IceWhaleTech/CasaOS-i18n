@@ -3,17 +3,45 @@
     "tagline": "A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
     "overview": "2FAuth is a web based self-hosted alternative to One Time Passcode (OTP) generators like Google Authenticator, designed for both mobile and desktop."
   },
+  "AdGuard Home": {
+    "tagline": "Network-wide ads & trackers blocking DNS server ",
+    "overview": "AdGuard Home is a network-wide software for blocking ads and tracking. After you set it up, it'll cover all your home devices, and you won't need any client-side software for that. Learn more on our official Github repository."
+  },
+  "AllTube Download": {
+    "tagline": "Web GUI for youtube-dl",
+    "overview": "Easily download videos from YouTube, Dailymotion, Vimeo and other websites."
+  },
+  "Calibre-web": {
+    "tagline": "Web app for browsing, reading and downloading eBooks stored in a Calibre database",
+    "overview": "Calibre-web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. It is also possible to integrate google drive and edit metadata and your calibre library through the app itself."
+  },
   "Deluge": {
     "tagline": "A lightweight and free BitTorrent client.",
     "overview": "Deluge contains the common features to BitTorrent clients such as Protocol Encryption, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, Proxy support, Web seeds, global and per-torrent speed limits. As Deluge heavily utilises the ​libtorrent library it has a comprehensive list of the ​features provided."
+  },
+  "Duplicati": {
+    "tagline": "Store securely encrypted backups in the cloud!",
+    "overview": "Duplicati is a free, open source, backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers."
+  },
+  "Emby": {
+    "tagline": "TAKE YOUR MEDIA ANYWHERE WITH EMBY",
+    "overview": "Bringing all of your home videos, music, and photos together into one place has never been easier. Your personal Emby Server automatically converts and streams your media on-the-fly to play on any device."
   },
   "FileBrowser": {
     "tagline": "Upload, delete, preview, rename, edit and share your files.",
     "overview": "File Browser - Webbased File Browser including sharing functions etc."
   },
+  "Grafana": {
+    "tagline": "Grafana is a complete observability stack that allows you to monitor and analyze metrics, logs and traces. It allows you to query, visualize, alert on and understand your data no matter where it is stored. ",
+    "overview": "Grafana open source is open source visualization and analytics software.Visualizations: Fast and flexible client side graphs with a multitude of options. Panel plugins offer many different ways to visualize metrics and logs. Dynamic Dashboards: Create dynamic & reusable dashboards with template variables that appear as dropdowns at the top of the dashboard. Explore Metrics: Explore your data through ad-hoc queries and dynamic drilldown. Split view and compare different time ranges, queries and data sources side by side. Explore Logs: Experience the magic of switching from metrics to logs with preserved label filters. Quickly search through all your logs or streaming them live. Alerting: Visually define alert rules for your most important metrics. Grafana will continuously evaluate and send notifications to systems like Slack, PagerDuty, VictorOps, OpsGenie. Mixed Data Sources: Mix different data sources in the same graph! You can specify a data source on a per-query basis. This works for even custom datasources."
+  },
   "Home Assistant": {
     "tagline": "Awaken your home",
     "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
+  },
+  "Jackett": {
+    "tagline": "Jackett works as a proxy server",
+    "overview": "it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar3, Lidarr, DuckieTV, qBittorrent, Nefarious etc.) into tracker-site-specific http queries, parses the html or json response, and then sends results back to the requesting software. This allows for getting recent uploads (like RSS) and performing searches. Jackett is a single repository of maintained indexer scraping & translation logic - removing the burden from other apps."
   },
   "Jellyfin": {
     "tagline": "Puts you in control of your media.",
@@ -22,6 +50,10 @@
   "Nextcloud": {
     "tagline": "The productivity platform that keeps you in control",
     "overview": "Nextcloud puts your data at your fingertips, under your control. Store your documents, calendar, contacts and photos on a server at home, at one of our providers or in a data center you trust."
+  },
+  "Node-RED": {
+    "tagline": "Low-code programming for event-driven applications",
+    "overview": "Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.  It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click."
   },
   "PhotoPrism": {
     "tagline": "Browsing, organizing & sharing your photo collection",
@@ -46,6 +78,18 @@
   "Syncthing": {
     "tagline": "Free, secure, and distributed file synchronisation tool.",
     "overview": "Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet."
+  },
+  "Transmission": {
+    "tagline": "Transmission is a cross-platform BitTorrent client ",
+    "overview": "Transmission is an open source, volunteer-based project. Unlike some BitTorrent clients, Transmission doesn't play games with its users to make money:  Transmission doesn't bundle toolbars, pop-up ads, flash ads, twitter tools, or anything else. It doesn't hold some features back for a payware version. Its source code is available for anyone to review. We don't track our users, and our website and forums have no third-party ads or analytics."
+  },
+  "Unifi-controller": {
+    "tagline": "The Unifi-controller software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance.",
+    "overview": "For Unifi to adopt other devices, e.g. an Access Point, it is required to change the inform IP address. Because Unifi runs inside Docker by default it uses an IP address not accessible by other devices. To change this go to Settings > System Settings > Controller Configuration and set the Controller Hostname/IP to a hostname or IP address accessible by your devices. Additionally the checkbox \"Override inform host with controller hostname/IP\" has to be checked, so that devices can connect to the controller during adoption (devices use the inform-endpoint during adoption)."
+  },
+  "Vaultwarden": {
+    "tagline": "A self-hosted Bitwarden server",
+    "overview": "Alternative implementation of the Bitwarden server API written in Rust and compatible with upstream Bitwarden clients*, perfect for self-hosted deployment where running the official resource-heavy service might not be ideal."
   },
   "qBittorrent": {
     "tagline": "Free BitTorrent downloader",
