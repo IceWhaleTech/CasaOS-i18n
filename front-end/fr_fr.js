@@ -186,7 +186,7 @@ export default {
     "Using localhost or 127.0.0.1 will cause the application to be inaccessible, please use the real ip to access.": "L'utilisation de localhost ou 127.0.0.1 rendra l'application inaccessible, veuillez utiliser l'ip réelle pour accéder.",
     "CATEGORY": "CATÉGORIE",
     "DEVELOPER": "DÉVELOPPEUR",
-    "REQUIRE": "EXIGER",
+    "REQUIRE": "REQUIS",
     "MEMORY": "MÉMOIRE",
     "DISK": "DISQUE",
     "App Store": "Magasin d'applications",
