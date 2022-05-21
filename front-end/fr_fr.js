@@ -130,7 +130,7 @@ export default {
     "Apps": "Applications",
     "App": "Application",
     "Open": "Ouvrir",
-    "Setting": "Réglage de",
+    "Setting": "Réglages",
     "Uninstall": "Désinstaller",
     "Attention": "Attention",
     "Data cannot be recovered after deletion! <br>Continue on to uninstall this application?": "Les données ne peuvent pas être récupérées après la suppression ! <br>Continuer pour désinstaller cette application ?",
