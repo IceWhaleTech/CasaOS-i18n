@@ -86,7 +86,7 @@ export default {
 
     // Sync
     "Sync your data": "데이터 동기화",
-    "Follow the guide to start syncing your files across multiple devices.": "Follow the guide to start syncing your files across multiple devices.",
+    "Follow the guide to start syncing your files across multiple devices.": "가이드에 따라 여러 기기에서 파일 동기화를 시작하십시오.",
     "Go !": "출발 !",
     "Sync Guide": "동기화 가이드",
     "Install": "설치",
@@ -98,7 +98,7 @@ export default {
     "Show all Platforms": "모든 플랫폼 표시",
     'Install and open the downloaded application, then click the "Next" button.': '다운로드한 애플리케이션을 설치하고 연 후 "다음" 버튼을 클릭합니다.',
     "Device ID": "기기 식별자",
-    "Fill in your Device ID to continue": "계속하려면 기기 식별자를 입력하십시오",
+    "Fill in your Device ID to continue": "계속하려면 이 입력란에 기기 식별자를 입력하십시오",
     "How to get Device ID": "기기 식별자을 알아내는 방법",
     "What do I need to do on my device?": "내 기기에서 무엇을 해야 합니까?",
     "Open the SyncTrayzor": "SyncTrayzor을 엽니다",
