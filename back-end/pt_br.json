@@ -1,0 +1,98 @@
+{
+  "2FAuth": {
+    "tagline": "Um web app para gerenciar suas contas de Autenticação de Dois Fatores (2FA) e gerar seus códigos de segurança",
+    "overview": "2FAuth é uma alternativa baseada na web para os geradores de OTP (One Time Passcode) como o Google Authenticator, projetado tanto para celular quanto para desktop."
+  },
+  "AdGuard Home": {
+    "tagline": "Um servidor DNS que bloqueia rastreadores e anúncios ao nível de rede ",
+    "overview": "O AdGuard Home é um software para bloqueio e rastreamento de anúncios em toda a rede. Depois de configurá-lo, ele cobrirá todos os seus dispositivos domésticos, e você não precisará de nenhum software do lado do cliente para isso. Saiba mais em nosso repositório oficial do Github."
+  },
+  "AllTube Download": {
+    "tagline": "GUI Web para o youtube-dl",
+    "overview": "Baixe facilmente vídeos do YouTube, Dailymotion, Vimeo e outros websites."
+  },
+  "Calibre-web": {
+    "tagline": "Aplicação web para navegar, ler e baixar livros eletrônicos armazenados em um banco de dados Calibre",
+    "overview": "Calibre-web é um aplicativo web que fornece uma interface limpa para navegação, leitura e download de eBooks usando um banco de dados Calibre existente. Também é possível integrar o Google Drive e editar metadados e sua biblioteca Calibre através do próprio aplicativo."
+  },
+  "Deluge": {
+    "tagline": "Um cliente BitTorrent gratuito e leve.",
+    "overview": "Deluge contains the common features to BitTorrent clients such as Protocol Encryption, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, Proxy support, Web seeds, global and per-torrent speed limits. As Deluge heavily utilises the ​libtorrent library it has a comprehensive list of the ​features provided."
+  },
+  "Duplicati": {
+    "tagline": "Armazene backups criptografados com segurança na nuvem!",
+    "overview": "Duplicati is a free, open source, backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers."
+  },
+  "Emby": {
+    "tagline": "LEVE SUA MÍDIA A QUALQUER LUGAR COM O EMBY",
+    "overview": "Bringing all of your home videos, music, and photos together into one place has never been easier. Your personal Emby Server automatically converts and streams your media on-the-fly to play on any device."
+  },
+  "FileBrowser": {
+    "tagline": "Envie, apague, visualize, renomeie e edite seus arquivos.",
+    "overview": "File Browser - Webbased File Browser including sharing functions etc."
+  },
+  "Grafana": {
+    "tagline": "Grafana is a complete observability stack that allows you to monitor and analyze metrics, logs and traces. It allows you to query, visualize, alert on and understand your data no matter where it is stored. ",
+    "overview": "Grafana open source is open source visualization and analytics software.Visualizations: Fast and flexible client side graphs with a multitude of options. Panel plugins offer many different ways to visualize metrics and logs. Dynamic Dashboards: Create dynamic & reusable dashboards with template variables that appear as dropdowns at the top of the dashboard. Explore Metrics: Explore your data through ad-hoc queries and dynamic drilldown. Split view and compare different time ranges, queries and data sources side by side. Explore Logs: Experience the magic of switching from metrics to logs with preserved label filters. Quickly search through all your logs or streaming them live. Alerting: Visually define alert rules for your most important metrics. Grafana will continuously evaluate and send notifications to systems like Slack, PagerDuty, VictorOps, OpsGenie. Mixed Data Sources: Mix different data sources in the same graph! You can specify a data source on a per-query basis. This works for even custom datasources."
+  },
+  "Home Assistant": {
+    "tagline": "Libere o potencial de seu lar",
+    "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
+  },
+  "Jackett": {
+    "tagline": "Jackett funciona como um servidor proxy",
+    "overview": "it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar3, Lidarr, DuckieTV, qBittorrent, Nefarious etc.) into tracker-site-specific http queries, parses the html or json response, and then sends results back to the requesting software. This allows for getting recent uploads (like RSS) and performing searches. Jackett is a single repository of maintained indexer scraping & translation logic - removing the burden from other apps."
+  },
+  "Jellyfin": {
+    "tagline": "Coloca você no controle da sua mídia.",
+    "overview": "Jellyfin enables you to collect, manage, and stream your media. Run the Jellyfin server on your system and gain access to the leading free-software entertainment system, bells and whistles included."
+  },
+  "Nextcloud": {
+    "tagline": "A plataforma de produtividade que coloca você no controle",
+    "overview": "Nextcloud puts your data at your fingertips, under your control. Store your documents, calendar, contacts and photos on a server at home, at one of our providers or in a data center you trust."
+  },
+  "Node-RED": {
+    "tagline": "Low-code programming for event-driven applications",
+    "overview": "Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.  It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click."
+  },
+  "PhotoPrism": {
+    "tagline": "Navegue, organize e compartilhe sua coleção de fotos",
+    "overview": "PhotoPrism® is an AI-powered app for browsing, organizing & sharing your photo collection. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud."
+  },
+  "Pi-hole": {
+    "tagline": "Network-wide Ad Blocking",
+    "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
+  },
+  "Plex": {
+    "tagline": "A casa para todo o seu entretenimento.",
+    "overview": "Plex organizes video, music and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices. This container is packaged as a standalone Plex Media Server. has always been a top priority. Straightforward design and bulk actions mean getting things done faster."
+  },
+  "Radarr": {
+    "tagline": "The movie collection manager for Usenet and BitTorrent users",
+    "overview": "Radarr is a movie collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new movies and will interface with clients and indexers to grab, sort, and rename them. It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available. Note that only one type of a given movie is supported. If you want both an 4k version and 1080p version of a given movie you will need multiple instances."
+  },
+  "Sonarr": {
+    "tagline": "The PVR for Usenet and BitTorrent users",
+    "overview": "Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available."
+  },
+  "Syncthing": {
+    "tagline": "Ferramenta de sincronização de arquivos livre, segura e distribuída.",
+    "overview": "Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet."
+  },
+  "Transmission": {
+    "tagline": "O Transmission é um cliente bittorent multplataforma ",
+    "overview": "Transmission is an open source, volunteer-based project. Unlike some BitTorrent clients, Transmission doesn't play games with its users to make money:  Transmission doesn't bundle toolbars, pop-up ads, flash ads, twitter tools, or anything else. It doesn't hold some features back for a payware version. Its source code is available for anyone to review. We don't track our users, and our website and forums have no third-party ads or analytics."
+  },
+  "Unifi-controller": {
+    "tagline": "The Unifi-controller software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance.",
+    "overview": "For Unifi to adopt other devices, e.g. an Access Point, it is required to change the inform IP address. Because Unifi runs inside Docker by default it uses an IP address not accessible by other devices. To change this go to Settings > System Settings > Controller Configuration and set the Controller Hostname/IP to a hostname or IP address accessible by your devices. Additionally the checkbox \"Override inform host with controller hostname/IP\" has to be checked, so that devices can connect to the controller during adoption (devices use the inform-endpoint during adoption)."
+  },
+  "Vaultwarden": {
+    "tagline": "Um servidor Bitwarden auto-hospedado",
+    "overview": "Alternative implementation of the Bitwarden server API written in Rust and compatible with upstream Bitwarden clients*, perfect for self-hosted deployment where running the official resource-heavy service might not be ideal."
+  },
+  "qBittorrent": {
+    "tagline": "Um downloader para BitTorrent gratuito",
+    "overview": "The qBittorrent project aims to provide an open-source software alternative to µTorrent."
+  }
+}
