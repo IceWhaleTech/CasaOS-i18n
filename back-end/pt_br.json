@@ -17,31 +17,31 @@
   },
   "Deluge": {
     "tagline": "Um cliente BitTorrent gratuito e leve.",
-    "overview": "Deluge contains the common features to BitTorrent clients such as Protocol Encryption, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, Proxy support, Web seeds, global and per-torrent speed limits. As Deluge heavily utilises the ​libtorrent library it has a comprehensive list of the ​features provided."
+    "overview": "Deluge contém as características comuns aos clientes BitTorrent como Criptografia de Protocolo, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, Suporte a Proxy, Seeds Web, limites de velocidade globais e por torrent. Como o Deluge utiliza muito a biblioteca libtorrent, ele tem uma lista abrangente das características fornecidas."
   },
   "Duplicati": {
     "tagline": "Armazene backups criptografados com segurança na nuvem!",
-    "overview": "Duplicati is a free, open source, backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers."
+    "overview": "Duplicati é um cliente de backup gratuito, de código aberto, que armazena com segurança backups criptografados, incrementais e compactados em serviços de armazenamento em nuvem e servidores de arquivos remotos."
   },
   "Emby": {
     "tagline": "LEVE SUA MÍDIA A QUALQUER LUGAR COM O EMBY",
-    "overview": "Bringing all of your home videos, music, and photos together into one place has never been easier. Your personal Emby Server automatically converts and streams your media on-the-fly to play on any device."
+    "overview": "Reunir todos os vídeos, músicas e fotos de sua casa em um só lugar nunca foi tão fácil. Seu Servidor Emby pessoal converte e transmite automaticamente suas mídias em tempo real para serem reproduzidas em qualquer dispositivo."
   },
   "FileBrowser": {
     "tagline": "Envie, apague, visualize, renomeie e edite seus arquivos.",
-    "overview": "File Browser - Webbased File Browser including sharing functions etc."
+    "overview": "FileBrowser - Navegador de arquivos baseado na Web, incluindo funções de compartilhamento, etc."
   },
   "Grafana": {
-    "tagline": "Grafana is a complete observability stack that allows you to monitor and analyze metrics, logs and traces. It allows you to query, visualize, alert on and understand your data no matter where it is stored. ",
-    "overview": "Grafana open source is open source visualization and analytics software.Visualizations: Fast and flexible client side graphs with a multitude of options. Panel plugins offer many different ways to visualize metrics and logs. Dynamic Dashboards: Create dynamic & reusable dashboards with template variables that appear as dropdowns at the top of the dashboard. Explore Metrics: Explore your data through ad-hoc queries and dynamic drilldown. Split view and compare different time ranges, queries and data sources side by side. Explore Logs: Experience the magic of switching from metrics to logs with preserved label filters. Quickly search through all your logs or streaming them live. Alerting: Visually define alert rules for your most important metrics. Grafana will continuously evaluate and send notifications to systems like Slack, PagerDuty, VictorOps, OpsGenie. Mixed Data Sources: Mix different data sources in the same graph! You can specify a data source on a per-query basis. This works for even custom datasources."
+    "tagline": "Uma pilha completa de observabilidade que permite monitorar e analisar métricas, registros e traços. Permite consultar, visualizar, alertar e compreender seus dados, não importando onde estejam armazenados. ",
+    "overview": "O Grafana é um software de visualização e análise de código aberto. Possui gráficos rápidos e flexíveis do lado do cliente com uma infinidade de opções. Os plugins de painel oferecem muitas formas diferentes de visualização de métricas e logs. Crie painéis dinâmicos e reutilizáveis com variáveis de modelo que aparecem como dropdowns no topo do painel. Explore seus dados através de consultas ad-hoc e drilldown dinâmico. Divida sua visão e compare diferentes intervalos de tempo, consultas e fontes de dados lado a lado. Experimente a magia de mudar de métricas para logs com filtros de rótulos preservados. Pesquise rapidamente todos os seus logs ou faça streaming deles ao vivo. Defina visualmente regras de alerta para suas métricas mais importantes. O Grafana avaliará continuamente e enviará notificações para sistemas como Slack, PagerDuty, VictorOps, OpsGenie. Você pode até mesmo misturar diferentes fontes de dados no mesmo gráfico! Você pode especificar uma fonte de dados por consulta. Isto funciona até mesmo para fontes de dados personalizadas."
   },
   "Home Assistant": {
     "tagline": "Libere o potencial de seu lar",
-    "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
+    "overview": "Automação doméstica de código aberto que coloca o controle local e a privacidade em primeiro lugar. Impulsionada por uma comunidade mundial de hobbyistas e entusiastas DIY. Perfeito para rodar em um Raspberry Pi ou em um servidor local."
   },
   "Jackett": {
     "tagline": "Jackett funciona como um servidor proxy",
-    "overview": "it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar3, Lidarr, DuckieTV, qBittorrent, Nefarious etc.) into tracker-site-specific http queries, parses the html or json response, and then sends results back to the requesting software. This allows for getting recent uploads (like RSS) and performing searches. Jackett is a single repository of maintained indexer scraping & translation logic - removing the burden from other apps."
+    "overview": "ele traduz as consultas dos aplicativos (Sonarr, Radarr, SickRage, CouchPotato, Mylar3, Lidarr, DuckieTV, qBittorrent, Nefarious etc.) em consultas http específicas do local, analisa a resposta html ou json e depois envia os resultados de volta ao software solicitante. Isto permite obter uploads recentes (como RSS) e realizar buscas. Jackett é um repositório único de lógica de scraping e tradução de indexadores mantidos - removendo a carga de outros aplicativos."
   },
   "Jellyfin": {
     "tagline": "Coloca você no controle da sua mídia.",
@@ -52,7 +52,7 @@
     "overview": "Nextcloud puts your data at your fingertips, under your control. Store your documents, calendar, contacts and photos on a server at home, at one of our providers or in a data center you trust."
   },
   "Node-RED": {
-    "tagline": "Low-code programming for event-driven applications",
+    "tagline": "Programação de código baixo para aplicações orientadas a eventos",
     "overview": "Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.  It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click."
   },
   "PhotoPrism": {
@@ -60,7 +60,7 @@
     "overview": "PhotoPrism® is an AI-powered app for browsing, organizing & sharing your photo collection. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud."
   },
   "Pi-hole": {
-    "tagline": "Network-wide Ad Blocking",
+    "tagline": "Bloqueio de anúncios em nível de rede",
     "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
   },
   "Plex": {
@@ -68,11 +68,11 @@
     "overview": "Plex organizes video, music and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices. This container is packaged as a standalone Plex Media Server. has always been a top priority. Straightforward design and bulk actions mean getting things done faster."
   },
   "Radarr": {
-    "tagline": "The movie collection manager for Usenet and BitTorrent users",
+    "tagline": "Gerenciador de coleção de filmes para usuários da Usenet e BitTorrent",
     "overview": "Radarr is a movie collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new movies and will interface with clients and indexers to grab, sort, and rename them. It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available. Note that only one type of a given movie is supported. If you want both an 4k version and 1080p version of a given movie you will need multiple instances."
   },
   "Sonarr": {
-    "tagline": "The PVR for Usenet and BitTorrent users",
+    "tagline": "O PVR para usuários da Usenet e BitTorrent",
     "overview": "Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available."
   },
   "Syncthing": {
