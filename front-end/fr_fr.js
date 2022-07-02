@@ -383,7 +383,7 @@ export default {
     "is already your friend.": "est déjà ton ami.",
 
     // Download Modal
-    "Download to": "Enregistrer {file} sous",
+    "Download to": "Enregistrer {fichier} sous",
     "Download path": "Chemin de téléchargement",
     "Set as default download path": "Définir comme chemin de téléchargement par défaut",
     "Download has started": "Le téléchargement a commencé",
