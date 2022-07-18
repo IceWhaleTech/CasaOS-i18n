@@ -1,3 +1,4 @@
+
 # CasaOS-i18n
 CasaOS Internationalization(i18n) Project
 
@@ -21,7 +22,7 @@ Copy the en_us.js (front-end) or en_us.json (back-end) to a new file named de_de
 | 中文 | 100% | [IceWhaleTech](https://github.com/IceWhaleTech) |
 | Deutsch | 90% | [thueske](https://github.com/thueske) [patrickhilker](https://github.com/patrickhilker)|
 | Español | 80% | [baptiste313](https://github.com/baptiste313) |
-| Français | 100% | [baptiste313](https://github.com/baptiste313) [zarevskaya](https://github.com/zarevskaya)|
+| Français | 90% | [baptiste313](https://github.com/baptiste313) [zarevskaya](https://github.com/zarevskaya)|
 | Italiano | 80% | [albanobattistella](https://github.com/albanobattistella) |
 | Русский | 80% | [ImOstrovskiy](https://github.com/ImOstrovskiy) |
 | Polska | 90% | [sgastol](https://github.com/sgastol) |
