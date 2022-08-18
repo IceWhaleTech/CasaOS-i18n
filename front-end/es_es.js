@@ -81,7 +81,7 @@ export default {
     "Terminal & Logs": "Terminal & Registros",
     "Terminal": "Terminal",
     "Logs": "Registros",
-    "Please check if the username and port are correct, and make sure that ssh server is installed.":"Please check if the username and port are correct, and make sure that ssh server is installed.",
+    "Please check if the username and port are correct, and make sure that ssh server is installed.":"Por favor, compruebe si el nombre de usuario y el puerto son correctos, y asegúrese de que el servidor ssh está instalado.",
 
     // Widgets
     "Widgets Settings": "Configuración de widgets",
