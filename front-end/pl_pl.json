@@ -1,8 +1,5 @@
-// Polish
+{
 
-export default {
-    // Commons
-    "": "",
     "OK": "OK",
     "Cancel": "Anuluj",
     "Submit": "Prześlij",
@@ -23,6 +20,7 @@ export default {
     "Language": "Język",
     "Change": "Change",
     "Start": "Start",
+    "Connect": "Connect",
 
     "This field is required": "To pole jest wymagane",
     "This field must be a valid email": "W tym polu musi znajdować się prawidłowy adres e-mail",
@@ -31,7 +29,6 @@ export default {
     "This field must have more than 5 characters": "To pole musi mieć więcej niż 5 znaków",
     "You entered an invalid RFC1123 hostname": "You entered an invalid RFC1123 hostname",
 
-    // Init Page
     "Welcome to CasaOS": "Witamy w CasaOS",
     "Let's create your initial account": "Załóż swoje pierwsze konto",
     "Go →": "Idź →",
@@ -41,12 +38,9 @@ export default {
     "Username or Password error!": "Błąd nazwy użytkownika lub hasła!",
     "All things done!": "Wszystko gotowe!",
 
-
-    // Login
     "Login": "Logowanie",
     "Password error!": "Błąd hasła!",
 
-    // Account
     "Account": "Konto użytkownika",
     "Logout": "Wyloguj",
     "Name": "Użytkownik",
@@ -57,7 +51,6 @@ export default {
     "New password": "Nowe hasło",
     "Confirm the new password again": "Ponownie potwierdź nowe hasło",
 
-    // Dashboard Settings
     "Settings": "Ustawienia",
     "Dashboard Setting": "Ustawienia panelu kontrolnego",
     "Search Engine": "Wyszukiwarka",
@@ -72,13 +65,18 @@ export default {
     "Show Recommended Apps": "Show Recommended Apps",
     "Upgrade Now": "Upgrade Now",
     "Enabling this function may cause boot failures when the Raspberry Pi device is booted from USB": "Enabling this function may cause boot failures when the Raspberry Pi device is booted from USB",
+    "There seems to be a problem with the upgrade process, please try again!": "There seems to be a problem with the upgrade process, please try again!",
+    "Update completed": "Update completed",
+    "Let more friends know": "Let more friends know",
+    "Please share to friends who are concerned about family and data privacy to join and use CasaOS.": "Please share to friends who are concerned about family and data privacy to join and use CasaOS.",
+    "CasaOS upgrade successfully": "CasaOS upgrade successfully",
+    "CasaOS upgrade failed": "CasaOS upgrade failed",
 
-    // Terminal & Logs
     "Terminal & Logs": "Terminal i logi",
     "Terminal": "Terminal",
     "Logs": "Logi",
+    "Please check if the username and port are correct, and make sure that ssh server is installed.": "Please check if the username and port are correct, and make sure that ssh server is installed.",
 
-    // Widgets
     "Widgets Settings": "Ustawienia widgetów",
     "Time": "Time",
     "Cores": "Cores",
@@ -87,10 +85,8 @@ export default {
     "Network Status": "Stan sieci",
     "available of": "{avl} dostępny z {total}",
 
-    // Search 
     "Search...": "Szukaj...",
 
-    // Sync
     "Sync your data": "Zsynchronizuj swoje dane",
     "Use Syncthing to sync your files between multiple devices.": "Use Syncthing to sync your files between multiple devices.",
     "Total": "Razem",
@@ -100,14 +96,11 @@ export default {
     "Syncthing is not running, start it?": "Syncthing is not running, start it?",
     "Starting Syncthing...": "Starting Syncthing...",
 
-
-    // Iot
     "Have an idea? Shoot it on Discord!": "Masz pomysł? Przedstaw go na Discord!",
     "Smarten up your home": "Inteligentny dom",
     "We want to give you a smart home experience with privacy, high speed, and localized storage.": "Chcemy dać Ci możliwość korzystania z inteligentnego domu z prywatnością, dużą prędkością i lokalną infrastrukturą dyskową.",
     "In development": "W przygotowaniu",
 
-    // Apps
     "Apps": "Aplikacje",
     "App": "Aplikacja",
     "Open": "Otwórz",
@@ -183,9 +176,9 @@ export default {
     "Port [Please add a ports set first]": "Port [Please add a ports set first]",
     "[Optional]": "[Optional]",
     "Notice: If there are multiple services, only the first set can be analyzed correctly": "Notice: If there are multiple services, only the first set can be analyzed correctly",
-    "There was an error loading the data, please try again!":"There was an error loading the data, please try again!",
+    "There was an error loading the data, please try again!": "There was an error loading the data, please try again!",
+    "Port": "Port",
 
-    //Storage
     "Create Storage": "Utwórz miejsce przechowywania",
     "Storage Manager": "Menedżer pamięci dyskowej",
     "Storage": "Pamięć",
@@ -213,8 +206,8 @@ export default {
     "The drive you select can be used directly as storage.": "Wybrany dysk może być używany bezpośrednio jako miejsce przechowywania danych.",
     "You can also choose to create it after formatting. If formatted, the selected drive will be emptied.": "Można również wybrać utworzenie go po sformatowaniu. W przypadku formatowania wybrany dysk zostanie opróżniony.",
     "Format and Create": "Formatuj i utwórz",
+    "Please insert a Drive to Create Storage": "Please insert a Drive to Create Storage",
 
-    // Feedback
     "Join Discord": "Dołącz do Discorda",
     "Visit our Github": "Odwiedź nasz Github",
     "Bug report": "Raport o błędzie",
@@ -222,8 +215,9 @@ export default {
     "Describe the bug": "Opisz błąd",
     "A clear and concise description of what the bug is.": "Jasny i zwięzły opis błędu.",
     "System infomation": "Informacja o systemie",
+    "Share CasaOS": "Share CasaOS",
+    "Please invite more friends who are concerned about family and data privacy to join and use CasaOS.": "Please invite more friends who are concerned about family and data privacy to join and use CasaOS.",
 
-    // Files
     "Files": "Files",
     "Upload or Create": "Upload or Create",
     "Upload Files": "Upload Files",
@@ -251,8 +245,8 @@ export default {
     "Code Editor": "Code Editor",
     "Saved": "Saved",
     "Want to save?": "Want to save?",
-    "Your changes will be lost if you don’t save them.": "Your changes will be lost if you don’t save them.",
-    "Don’t Save": "Don’t Save",
+    "Your changes will be lost if you don't save them.": "Your changes will be lost if you don't save them.",
+    "Don't Save": "Don't Save",
     "Drop your files here to upload": "Drop your files here to upload",
     "or": "or",
     "Date Modified": "Date Modified",
@@ -281,5 +275,45 @@ export default {
     "Set wallpaper successfully.": "Set wallpaper successfully.",
     "Save failed, please try again!": "Save failed, please try again!",
     "Upload failed, please try again!": "Upload failed, please try again!",
+    "Location": "Location",
+    "Share": "Share",
+    "Shared": "Shared",
+    "UnShare": "UnShare",
+    "Unsharing Folder": "Unsharing Folder",
+    "Are you sure you want to unshare this Folder?": "Are you sure you want to unshare this Folder?",
+    "New Local Storage": "New Local Storage",
+    "Connect Network Storage": "Connect Network Storage",
+    "Start sharing your files on the local network.": "Start sharing your files on the local network.",
+    "Shared Folders": "Shared Folders",
+    "Go to": "Go to",
+    "Get Share Link": "Get Share Link",
+    "Select Shared Folder": "Select Shared Folder",
+    "Folder has been shared": "Folder has been shared",
+    "Enter the following link to access the shared folder ( Samba ) .": "Enter the following link to access the shared folder ( Samba ) .",
+    "PC ( Windows explorer )": "PC ( Windows explorer )",
+    "Mac ( Finder )": "Mac ( Finder )",
+    "I Got it": "I Got it",
+    "Follow the guide to start sharing your files on the local network.": "Follow the guide to start sharing your files on the local network.",
+    "Eject Success": "Eject Success",
+    "Eject Failed": "Eject Failed",
+    "Server Address": "Server Address",
+    "eg : smb://192.168.1.1": "eg : smb://192.168.1.1",
+    "Support Samba Address eg : smb://192.168.1.1": "Support Samba Address eg : smb://192.168.1.1",
+    "Connect As Guest": "Connect As Guest",
+    "Username or password cannot be empty.": "Username or password cannot be empty.",
+    "Please enter a correct Samba address!": "Please enter a correct Samba address!",
+    "Create Folder": "Create Folder",
+    "Create File": "Create File",
+
+    "Add External Link/APP": "Aggiungi collegamento/applicazione esterni",
+    "Local URL,Pblic URL": "URL locale, URL Pblic ",
+    "Eg: //192.168.1.1:5000 or https://www.google.com": "Eg: //192.168.1.1:5000 or https://www.google.com",
+    "App Name": "Nome dell’applicazione",
+    "Customize your APP name": "Personalizza il tuo nome di applicazione ",
+    "Local URL": "URL locale",
+    "Custom Install APP": "APP di installazione personalizzata",
+    "Add external link/APP": "Aggiungi collegamento/applicazione esterni",
+    "Address": "Indirizzo",
+    "Performance": "Performance"
 
 }
