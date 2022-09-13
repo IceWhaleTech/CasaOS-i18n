@@ -20,14 +20,12 @@
     "Change": "Change",
     "Start": "Start",
     "Connect": "Connect",
-
     "This field is required": "Questo campo è obbligatorio",
-    "This field must be a valid email": "Questo campo deve avere un e-mail valida",
+    "This field must be a valid email": "Questo campo deve avere un'e-mail valida",
     "This field confirmation does not match": "La conferma di questo campo non corrisponde",
     "This field must have 2 options": "Questo campo deve avere 2 opzioni",
     "This field must have more than 5 characters": "Questo campo deve contenere più di 5 caratteri",
     "You entered an invalid RFC1123 hostname": "You entered an invalid RFC1123 hostname",
-
     "Welcome to CasaOS": "Benvenuto in CasaOS",
     "Let's create your initial account": "Creiamo il tuo primo account",
     "Go →": "Vai →",
@@ -36,20 +34,17 @@
     "Confirm Password": "Conferma Password",
     "Username or Password error!": "Nome utente o password errati!",
     "All things done!": "Tutto fatto!",
-
-    "Login": "Login",
+    "Login": "Accedi",
     "Password error!": "Password errata!",
-
     "Account": "Account",
-    "Logout": "Logout",
+    "Logout": "Esci",
     "Name": "Nome",
     "Password": "Password",
-    "Change name": "Cambia Nome",
-    "Change Password": "Cambia Password",
+    "Change name": "Cambia nome",
+    "Change Password": "Cambia password",
     "Original password": "Password originale",
     "New password": "Nuova password",
     "Confirm the new password again": "Conferma di nuovo la nuova password",
-
     "Settings": "Impostazioni",
     "Dashboard Setting": "Impostazione della Dashboard",
     "Search Engine": "Motore di ricerca",
@@ -70,12 +65,10 @@
     "Please share to friends who are concerned about family and data privacy to join and use CasaOS.": "Please share to friends who are concerned about family and data privacy to join and use CasaOS.",
     "CasaOS upgrade successfully": "CasaOS upgrade successfully",
     "CasaOS upgrade failed": "CasaOS upgrade failed",
-
-    "Terminal & Logs": "Terminale & Log",
+    "Terminal & Logs": "Terminale e registri",
     "Terminal": "Terminale",
     "Logs": "Log",
     "Please check if the username and port are correct, and make sure that ssh server is installed.": "Please check if the username and port are correct, and make sure that ssh server is installed.",
-
     "Widgets Settings": "Impostazioni widget",
     "Time": "Time",
     "Cores": "Cores",
@@ -83,9 +76,7 @@
     "Storage Status": "Storage Status",
     "Network Status": "Stato della rete",
     "available of": "{avl} disponibile di {total}",
-
     "Search...": "Cerca...",
-
     "Sync your data": "Sincronizza i tuoi dati",
     "Use Syncthing to sync your files between multiple devices.": "Use Syncthing to sync your files between multiple devices.",
     "Total": "Totale",
@@ -94,12 +85,10 @@
     "Failed to start, please try again.": "Failed to start, please try again.",
     "Syncthing is not running, start it?": "Syncthing is not running, start it?",
     "Starting Syncthing...": "Starting Syncthing...",
-
     "Have an idea? Shoot it on Discord!": "Hai un'idea? Girala su Discord!",
     "Smarten up your home": "Rendi più Smart la tua casa",
     "We want to give you a smart home experience with privacy, high speed, and localized storage.": "Vogliamo offrirti un'esperienza di casa intelligente con privacy, alta velocità e spazio di archiviazione localizzato.",
     "In development": "In sviluppo",
-
     "Apps": "Apps",
     "App": "App",
     "Open": "Opri",
@@ -177,7 +166,6 @@
     "Notice: If there are multiple services, only the first set can be analyzed correctly": "Notice: If there are multiple services, only the first set can be analyzed correctly",
     "There was an error loading the data, please try again!": "There was an error loading the data, please try again!",
     "Port": "Port",
-
     "Create Storage": "Create Storage",
     "Storage Manager": "Storage Manager",
     "Storage": "Storage",
@@ -206,7 +194,6 @@
     "You can also choose to create it after formatting. If formatted, the selected drive will be emptied.": "You can also choose to create it after formatting. If formatted, the selected drive will be emptied.",
     "Format and Create": "Format and Create",
     "Please insert a Drive to Create Storage": "Please insert a Drive to Create Storage",
-
     "Join Discord": "Join Discord",
     "Visit our Github": "Visit our Github",
     "Bug report": "Bug report",
@@ -216,7 +203,6 @@
     "System infomation": "System infomation",
     "Share CasaOS": "Share CasaOS",
     "Please invite more friends who are concerned about family and data privacy to join and use CasaOS.": "Please invite more friends who are concerned about family and data privacy to join and use CasaOS.",
-
     "Files": "Files",
     "Upload or Create": "Upload or Create",
     "Upload Files": "Upload Files",
@@ -303,7 +289,6 @@
     "Please enter a correct Samba address!": "Please enter a correct Samba address!",
     "Create Folder": "Create Folder",
     "Create File": "Create File",
-
     "Add External Link/APP": "Aggiungi collegamento/applicazione esterni",
     "Local URL,Pblic URL": "URL locale, URL Pblic ",
     "Eg: //192.168.1.1:5000 or https://www.google.com": "Eg: //192.168.1.1:5000 or https://www.google.com",
@@ -314,5 +299,4 @@
     "Add external link/APP": "Aggiungi collegamento/applicazione esterni",
     "Address": "Indirizzo",
     "Performance": "Performance"
-
 }
