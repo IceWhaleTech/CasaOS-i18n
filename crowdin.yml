@@ -1,0 +1,3 @@
+files:
+  - source: /source/casaos-ui/en.json
+    translation: /translate/%locale_with_underscore%.%file_extension%
