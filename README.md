@@ -3,7 +3,7 @@
 CasaOS Internationalization(i18n) Project
 
 ## The main branch of the front-end project is currently deprecated.
-Since weblate's free hosting audit did not pass, unfortunately we had to move again to Crowdin.
+Since weblate free hosting audit did not pass, unfortunately we had to move again to Crowdin.
 Feel free to visit: https://crwd.in/casaos to help us with our translation project.
 
 ## How to submit a new translation
