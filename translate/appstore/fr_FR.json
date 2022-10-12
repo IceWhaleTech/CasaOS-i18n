@@ -1,30 +1,30 @@
 {
   "2FAuth": {
-    "tagline": "A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
-    "overview": "2FAuth is a web based self-hosted alternative to One Time Passcode (OTP) generators like Google Authenticator, designed for both mobile and desktop."
+    "tagline": "Une application pour gérer vos comptes pour l'Authentification à Double Facteur (2FA) et générer leurs codes de sécurité",
+    "overview": "2FAuth est une alternative auto-hébergée aux générateurs de code d'accès unique (OTP) comme Google Authenticator, conçus à la fois pour les ordinateurs et smartphones."
   },
   "AdGuard Home": {
-    "tagline": "Network-wide ads & trackers blocking DNS server ",
+    "tagline": "Blocage de pubs et de traqueurs via DNS à l'échelle du réseau ",
     "overview": "AdGuard Home is a network-wide software for blocking ads and tracking. After you set it up, it'll cover all your home devices, and you won't need any client-side software for that. Learn more on our official Github repository."
   },
   "AllTube Download": {
-    "tagline": "Web GUI for youtube-dl",
-    "overview": "Easily download videos from YouTube, Dailymotion, Vimeo and other websites."
+    "tagline": "Interface web pour youtube-dl",
+    "overview": "Téléchargez facilement des vidéos depuis YouTube, Dailymotion, Vimeo et d'autres sites web."
   },
   "Bazarr": {
-    "tagline": "Letter generators for Sonarr and Radarr",
+    "tagline": "Générateurs de lettres pour Sonarr et Radarr",
     "overview": "Bazarr is a companion application to Sonarr and Radarr. It can manage and download subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you."
   },
   "Calibre-web": {
-    "tagline": "Web app for browsing, reading and downloading eBooks stored in a Calibre database",
+    "tagline": "Application web pour consulter, lire et télécharger des eBooks stockés dans une base de données Calibre",
     "overview": "Calibre-web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. It is also possible to integrate google drive and edit metadata and your calibre library through the app itself."
   },
   "Deluge": {
-    "tagline": "A lightweight and free BitTorrent client.",
+    "tagline": "Un client BitTorrent libre et léger.",
     "overview": "Deluge contains the common features to BitTorrent clients such as Protocol Encryption, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, Proxy support, Web seeds, global and per-torrent speed limits. As Deluge heavily utilises the ​libtorrent library it has a comprehensive list of the ​features provided."
   },
   "Duplicati": {
-    "tagline": "Store securely encrypted backups in the cloud!",
+    "tagline": "Stockez vos sauvegardes chiffrées dans le cloud !",
     "overview": "Duplicati is a free, open source, backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers."
   },
   "Emby": {
