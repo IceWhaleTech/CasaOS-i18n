@@ -160,7 +160,7 @@
   "Click icon to import.": "Cliquez sur l'icône pour importer.",
   "Drag icons to sort.": "Faites glisser les icônes pour les ordonner comme vous le souhaitez.",
   "Import to CasaOS": "Importer dans CasaOS",
-  "Existing Docker Apps": "Existing Docker Apps",
+  "Existing Docker Apps": "Applications Docker existantes",
   "Port [Please add a ports set first]": "Port [Please add a ports set first]",
   "[Optional]": "[Optional]",
   "Notice: If there are multiple services, only the first set can be analyzed correctly": "Notice: If there are multiple services, only the first set can be analyzed correctly",
