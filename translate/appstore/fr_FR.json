@@ -41,18 +41,18 @@
   },
   "Grafana": {
     "tagline": "Grafana est une plateforme d'observabilité complète qui vous permet de surveiller et d'analyser les métriques, les journaux et les traces. Elle vous permet d'interroger, de visualiser, d'alerter et de comprendre vos données, quel que soit l'endroit où elles sont stockées. ",
-    "overview": "Grafana open source is open source visualization and analytics software.Visualizations: Fast and flexible client side graphs with a multitude of options. Panel plugins offer many different ways to visualize metrics and logs. Dynamic Dashboards: Create dynamic & reusable dashboards with template variables that appear as dropdowns at the top of the dashboard. Explore Metrics: Explore your data through ad-hoc queries and dynamic drilldown. Split view and compare different time ranges, queries and data sources side by side. Explore Logs: Experience the magic of switching from metrics to logs with preserved label filters. Quickly search through all your logs or streaming them live. Alerting: Visually define alert rules for your most important metrics. Grafana will continuously evaluate and send notifications to systems like Slack, PagerDuty, VictorOps, OpsGenie. Mixed Data Sources: Mix different data sources in the same graph! You can specify a data source on a per-query basis. This works for even custom datasources."
+    "overview": "Grafana open source est un logiciel de visualisation et d'analyse open source.Visualisations : Graphiques côté client rapides et flexibles avec une multitude d'options. Les plugins Panneau offrent de nombreuses façons différentes de visualiser les métriques et les journaux. Tableaux de bord dynamiques : Créez des tableaux de bord dynamiques et réutilisables avec des modèles de variables qui apparaissent sous forme de listes déroulantes en haut du tableau de bord. Explorez les métriques : Explorez vos données par le biais de requêtes ad hoc et d'explorations dynamiques. Visualisez et comparez différentes plages de temps, requêtes et sources de données côte à côte. Explorez les journaux : Découvrez la magie du passage des métriques aux journaux avec des filtres d'étiquettes préservés. Effectuez des recherches rapides dans tous vos journaux ou diffusez-les en direct. Alertes : Définissez visuellement des règles d'alerte pour vos métriques les plus importantes. Grafana évaluera en permanence et enverra des notifications à des systèmes comme Slack, PagerDuty, VictorOps, OpsGenie. Sources de données mixtes : Mélangez différentes sources de données dans le même graphique ! Vous pouvez spécifier une source de données sur une base par requête. Cela fonctionne même pour les sources de données personnalisées."
   },
   "Home Assistant": {
-    "tagline": "Awaken your home",
-    "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
+    "tagline": "Réveillez votre maison",
+    "overview": "L'automatisation de la maison open source qui donne la priorité au contrôle local et à la protection des renseignements personnels. Propulsé par une communauté mondiale de bricolages et de passionnés de bricolage. Parfait pour tourner sur un Raspberry Pi ou un serveur local."
   },
   "Jackett": {
-    "tagline": "Jackett works as a proxy server",
-    "overview": "it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar3, Lidarr, DuckieTV, qBittorrent, Nefarious etc.) into tracker-site-specific http queries, parses the html or json response, and then sends results back to the requesting software. This allows for getting recent uploads (like RSS) and performing searches. Jackett is a single repository of maintained indexer scraping & translation logic - removing the burden from other apps."
+    "tagline": "Jackett fonctionne comme un serveur proxy",
+    "overview": "il traduit les requêtes des applications (Sonarr, Radarr, SickRage, CouchPotato, Mylar3, Lidarr, DuckieTV, qBittorrent, Nefarious etc.) en requêtes http spécifiques au site du tracker, analyse la réponse html ou json, puis renvoie les résultats au logiciel demandeur. Cela permet d'obtenir des téléchargements récents (comme le RSS) et d'effectuer des recherches. Jackett est un dépôt unique de la logique de scraping et de traduction de l'indexeur maintenu - enlevant la charge des autres applications."
   },
   "Jellyfin": {
-    "tagline": "Puts you in control of your media.",
+    "tagline": "Vous permet de contrôler vos médias.",
     "overview": "Jellyfin enables you to collect, manage, and stream your media. Run the Jellyfin server on your system and gain access to the leading free-software entertainment system, bells and whistles included."
   },
   "Lazylibrarian": {
