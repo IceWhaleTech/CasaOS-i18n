@@ -5,7 +5,7 @@
   },
   "AdGuard Home": {
     "tagline": "Blocage de pubs et de traqueurs via DNS à l'échelle du réseau ",
-    "overview": "AdGuard Home is a network-wide software for blocking ads and tracking. After you set it up, it'll cover all your home devices, and you won't need any client-side software for that. Learn more on our official Github repository."
+    "overview": "AdGuard Home est un logiciel de blocage des publicités et du pistage sur tout le réseau. Après l'avoir configuré, il couvrira tous vos appareils domestiques, et vous n'aurez pas de logiciel côté client pour cela. Apprenez-en plus sur notre dépôt officiel Github."
   },
   "AllTube Download": {
     "tagline": "Interface web pour youtube-dl",
@@ -13,34 +13,34 @@
   },
   "Bazarr": {
     "tagline": "Générateurs de lettres pour Sonarr et Radarr",
-    "overview": "Bazarr is a companion application to Sonarr and Radarr. It can manage and download subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you."
+    "overview": "Bazarr est une application complémentaire de Sonarr et Radarr. Elle permet de gérer et de télécharger des sous-titres en fonction de vos besoins. Vous définissez vos préférences par émission de télévision ou par film et Bazarr s'occupe de tout pour vous."
   },
   "Calibre-web": {
     "tagline": "Application web pour consulter, lire et télécharger des eBooks stockés dans une base de données Calibre",
-    "overview": "Calibre-web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. It is also possible to integrate google drive and edit metadata and your calibre library through the app itself."
+    "overview": "Calibre-web est une application web fournissant une interface propre pour naviguer, lire et télécharger des eBooks en utilisant une base de données Calibre existante. Il est également possible d'intégrer Google Drive et de modifier les métadonnées de votre bibliothèque Calibre via l'application elle-même."
   },
   "Deluge": {
     "tagline": "Un client BitTorrent libre et léger.",
-    "overview": "Deluge contains the common features to BitTorrent clients such as Protocol Encryption, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, Proxy support, Web seeds, global and per-torrent speed limits. As Deluge heavily utilises the ​libtorrent library it has a comprehensive list of the ​features provided."
+    "overview": "Deluge contient les fonctionnalités communes aux clients BitTorrent telles que le cryptage de protocole, la DHT, la découverte de pairs locaux (LSD), l'échange de pairs (PEX), UPnP, NAT-PMP, la prise en charge de proxy, les graines Web, les limites de vitesse globale et par torrent. Comme Deluge utilise largement la bibliothèque libtorrent, il dispose d'une liste complète des fonctionnalités fournies."
   },
   "Duplicati": {
     "tagline": "Stockez vos sauvegardes chiffrées dans le cloud !",
-    "overview": "Duplicati is a free, open source, backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers."
+    "overview": "Duplicati est un client de sauvegarde gratuit et open source qui stocke en toute sécurité des sauvegardes chiffrées, incrémentielles et compressées sur des services de stockage en cloud et des serveurs de fichiers distants."
   },
   "Emby": {
-    "tagline": "TAKE YOUR MEDIA ANYWHERE WITH EMBY",
-    "overview": "Bringing all of your home videos, music, and photos together into one place has never been easier. Your personal Emby Server automatically converts and streams your media on-the-fly to play on any device."
+    "tagline": "EMMENEZ VOS MÉDIAS PARTOUT AVEC EMBY",
+    "overview": "Il n'a jamais été aussi facile de rassembler toutes vos vidéos, musiques et photos personnelles en un seul endroit. Votre serveur Emby personnel convertit et diffuse automatiquement vos médias à la volée pour les lire sur n'importe quel appareil."
   },
   "Embystat": {
-    "tagline": "Calculate all kinds of statistics from your (local) Emby or Jellyfin server",
-    "overview": "EmbyStat is a personal web server that can calculate all kinds of statistics from your (local) Emby or Jellyfin server. Just install this on your server and let him calculate all kinds of fun stuff. This project is still in Alpha phase, but feel free to pull in on your computer and test it out yourself. When the time is right I will host a full informational website/release for common platforms and Wiki pages."
+    "tagline": "Calculer toutes sortes de statistiques à partir de votre serveur (local) Emby ou Jellyfin",
+    "overview": "EmbyStat est un serveur web personnel qui peut calculer toutes sortes de statistiques à partir de votre serveur (local) Emby ou Jellyfin. Il suffit de l'installer sur votre serveur et de le laisser calculer toutes sortes de choses amusantes. Ce projet est encore en phase Alpha, mais n'hésitez pas à le télécharger sur votre ordinateur et à le tester vous-même. Quand le moment sera venu, j'hébergerai un site web/une version complète d'information pour les plateformes communes et des pages Wiki."
   },
   "FileBrowser": {
-    "tagline": "Upload, delete, preview, rename, edit and share your files.",
-    "overview": "File Browser - Webbased File Browser including sharing functions etc."
+    "tagline": "Téléchargez, supprimez, prévisualisez, renommez, modifiez et partagez vos fichiers.",
+    "overview": "Navigateur de Fichiers - Navigateur de fichiers basé sur le Web comprenant des fonctions de partage, etc."
   },
   "Grafana": {
-    "tagline": "Grafana is a complete observability stack that allows you to monitor and analyze metrics, logs and traces. It allows you to query, visualize, alert on and understand your data no matter where it is stored. ",
+    "tagline": "Grafana est une plateforme d'observabilité complète qui vous permet de surveiller et d'analyser les métriques, les journaux et les traces. Elle vous permet d'interroger, de visualiser, d'alerter et de comprendre vos données, quel que soit l'endroit où elles sont stockées. ",
     "overview": "Grafana open source is open source visualization and analytics software.Visualizations: Fast and flexible client side graphs with a multitude of options. Panel plugins offer many different ways to visualize metrics and logs. Dynamic Dashboards: Create dynamic & reusable dashboards with template variables that appear as dropdowns at the top of the dashboard. Explore Metrics: Explore your data through ad-hoc queries and dynamic drilldown. Split view and compare different time ranges, queries and data sources side by side. Explore Logs: Experience the magic of switching from metrics to logs with preserved label filters. Quickly search through all your logs or streaming them live. Alerting: Visually define alert rules for your most important metrics. Grafana will continuously evaluate and send notifications to systems like Slack, PagerDuty, VictorOps, OpsGenie. Mixed Data Sources: Mix different data sources in the same graph! You can specify a data source on a per-query basis. This works for even custom datasources."
   },
   "Home Assistant": {
