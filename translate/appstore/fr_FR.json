@@ -53,19 +53,19 @@
   },
   "Jellyfin": {
     "tagline": "Vous permet de contrôler vos médias.",
-    "overview": "Jellyfin enables you to collect, manage, and stream your media. Run the Jellyfin server on your system and gain access to the leading free-software entertainment system, bells and whistles included."
+    "overview": "Jellyfin vous permet de collecter, gérer et diffuser vos médias. Exécutez le serveur Jellyfin sur votre système et accédez au principal système de divertissement en logiciel libre, toutes options comprises."
   },
   "Lazylibrarian": {
-    "tagline": "eBook Auto Downloader",
-    "overview": "Lazylibrarian is a program to follow authors and grab metadata for all your digital reading needs. It uses a combination of Goodreads Librarything and optionally GoogleBooks as sources for author info and book info. This container is based on the DobyTang fork."
+    "tagline": "téléchargement automatique d'eBooks",
+    "overview": "Lazylibrarian est un programme qui permet de suivre les auteurs et de récupérer les métadonnées pour tous vos besoins de lecture numérique. Il utilise une combinaison de Goodreads Librarything et éventuellement GoogleBooks comme sources d'informations sur les auteurs et les livres. Ce conteneur est basé sur le fork DobyTang."
   },
   "Lidarr": {
-    "tagline": "Music collection manager for Usenet and BitTorrent users",
-    "overview": "Lidarr is a music collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new albums from your favorite artists and will interface with clients and indexers to grab, sort, and rename them. It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available."
+    "tagline": "Gestionnaire de collections musicales pour les utilisateurs de Usenet et BitTorrent",
+    "overview": "Lidarr est un gestionnaire de collection musicale pour les utilisateurs de Usenet et BitTorrent. Il peut surveiller plusieurs flux RSS pour les nouveaux albums de vos artistes préférés et s'interfacer avec les clients et les indexeurs pour les saisir, les trier et les renommer. Il peut également être configuré pour améliorer automatiquement la qualité des fichiers existants dans la bibliothèque lorsqu'un format de meilleure qualité est disponible."
   },
   "Mylar3": {
-    "tagline": "Automatic comic book (cbr/cbz) downloader",
-    "overview": "Mylar is an automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. Mylar allows you to create a watchlist of series that it monitors for various things (new issues, updated information, etc). It will grab, sort, and rename downloaded issues. It will also allow you to monitor weekly pull-lists for items belonging to said watchlisted series to download, as well as being able to monitor and maintain story-arcs."
+    "tagline": "Téléchargement automatique de bandes dessinées (cbr/cbz)",
+    "overview": "Mylar est un programme de téléchargement automatique de bandes dessinées (cbr/cbz) à utiliser avec NZB et les torrents. Mylar vous permet de créer une liste de séries qu'il surveille pour diverses choses (nouveaux numéros, informations mises à jour, etc). Il saisira, triera et renommera les numéros téléchargés. Il vous permettra également de surveiller les listes d'extraction hebdomadaires pour les articles appartenant à ladite série de la liste de surveillance à télécharger, ainsi que d'être en mesure de surveiller et de maintenir les story-arcs."
   },
   "Nextcloud": {
     "tagline": "The productivity platform that keeps you in control",
