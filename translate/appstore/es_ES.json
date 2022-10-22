@@ -1,31 +1,31 @@
 {
   "2FAuth": {
-    "tagline": "A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
-    "overview": "2FAuth is a web based self-hosted alternative to One Time Passcode (OTP) generators like Google Authenticator, designed for both mobile and desktop."
+    "tagline": "Una aplicación web para administrar tus cuentas de Autenticación de Doble Factor (2FA) y generar sus códigos de seguridad",
+    "overview": "2FAuth es una alternativa web autoalojada a generadores de One Time Passcode (OTP) como Google Authenticator, diseñada tanto para móviles como para escritorio."
   },
   "AdGuard Home": {
-    "tagline": "Network-wide ads & trackers blocking DNS server ",
-    "overview": "AdGuard Home is a network-wide software for blocking ads and tracking. After you set it up, it'll cover all your home devices, and you won't need any client-side software for that. Learn more on our official Github repository."
+    "tagline": "Anuncios y rastreadores en toda la red que bloquean el servidor DNS ",
+    "overview": "AdGuard Home es un software de red para bloquear anuncios y rastreadores. Después de configurarlo, cubrirá todos sus dispositivos domésticos, y no necesitará ningún software de cliente para ello. Obtenga más información en nuestro repositorio oficial de Github."
   },
   "AllTube Download": {
-    "tagline": "Web GUI for youtube-dl",
-    "overview": "Easily download videos from YouTube, Dailymotion, Vimeo and other websites."
+    "tagline": "GUI Web para youtube-dl",
+    "overview": "Descarga fácilmente vídeos de YouTube, Dailymotion, Vimeo y otros sitios web."
   },
   "Bazarr": {
-    "tagline": "Letter generators for Sonarr and Radarr",
-    "overview": "Bazarr is a companion application to Sonarr and Radarr. It can manage and download subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you."
+    "tagline": "Generadores de letras para Sonarr y Radarr",
+    "overview": "Bazarr es una aplicación de acompañamiento para Sonarr y Radarr. Puede administrar y descargar subtítulos según sus necesidades. Usted define sus preferencias por programa de televisión o película y Bazarr se encarga de todo para usted."
   },
   "Calibre-web": {
-    "tagline": "Web app for browsing, reading and downloading eBooks stored in a Calibre database",
-    "overview": "Calibre-web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. It is also possible to integrate google drive and edit metadata and your calibre library through the app itself."
+    "tagline": "Aplicación web para navegar, leer y descargar libros electrónicos almacenados en una base de datos Calibre",
+    "overview": "Calibre-web es una aplicación web que proporciona una interfaz limpia para navegar, leer y descargar libros electrónicos utilizando una base de datos existente de Calibre. También es posible integrar google drive y editar metadatos y tu biblioteca de calificaciones a través de la propia aplicación."
   },
   "Deluge": {
-    "tagline": "A lightweight and free BitTorrent client.",
-    "overview": "Deluge contains the common features to BitTorrent clients such as Protocol Encryption, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, Proxy support, Web seeds, global and per-torrent speed limits. As Deluge heavily utilises the ​libtorrent library it has a comprehensive list of the ​features provided."
+    "tagline": "Un cliente de BitTorrent ligero y gratuito.",
+    "overview": "Deluge contiene las características comunes de los clientes de BitTorrent como Protocolo de Cifrado, DHT, Local Peer Discovery (LSD), Intercambio de pares (PEX), UPnP, NAT-PMP, soporte para proxy, semillas web, límites globales y por torrent. Mientras Deluge utiliza fuertemente la librería libtorrent, tiene una lista completa de las características proporcionadas."
   },
   "Duplicati": {
-    "tagline": "Store securely encrypted backups in the cloud!",
-    "overview": "Duplicati is a free, open source, backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers."
+    "tagline": "Almacena copias de seguridad cifradas en la nube!",
+    "overview": "Duplicati es un cliente de copia de seguridad gratuito y de código abierto que almacena de forma segura copias de seguridad cifradas, incrementales y comprimidas en servicios de almacenamiento en la nube y servidores de archivos remotos."
   },
   "Emby": {
     "tagline": "TAKE YOUR MEDIA ANYWHERE WITH EMBY",
