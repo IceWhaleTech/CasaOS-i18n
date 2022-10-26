@@ -1,115 +1,115 @@
 {
   "2FAuth": {
     "tagline": "Aplikacja webowa do zarządzania Uwierzytelnieniami Dwuskładnikowymi (2FA) i generowania kodów bezpieczeństwa",
-    "overview": "2FAuth is a web based self-hosted alternative to One Time Passcode (OTP) generators like Google Authenticator, designed for both mobile and desktop."
+    "overview": "2FAuth to internetowa, samoobsługowa alternatywa dla generatorów Haseł Jednorazowych (OTP), takich jak Google Authenticator, przeznaczonych."
   },
   "AdGuard Home": {
-    "tagline": "Network-wide ads & trackers blocking DNS server ",
-    "overview": "AdGuard Home is a network-wide software for blocking ads and tracking. After you set it up, it'll cover all your home devices, and you won't need any client-side software for that. Learn more on our official Github repository."
+    "tagline": "Serwer DNS blokujący reklamy i trackery w całej sieci ",
+    "overview": "AdGuard Home to sieciowe oprogramowanie do blokowania reklam i śledzenia. Po skonfigurowaniu go, obejmie ono wszystkie Twoje urządzenia domowe, a Ty nie będziesz potrzebował do tego żadnego oprogramowania po stronie klienta. Dowiedz się więcej na naszym oficjalnym repozytorium Github."
   },
   "AllTube Download": {
     "tagline": "Interfejs webowy dla youtube-dl",
-    "overview": "Easily download videos from YouTube, Dailymotion, Vimeo and other websites."
+    "overview": "Łatwe pobieranie filmów z serwisów YouTube, Dailymotion, Vimeo i innych."
   },
   "Bazarr": {
-    "tagline": "Letter generators for Sonarr and Radarr",
-    "overview": "Bazarr is a companion application to Sonarr and Radarr. It can manage and download subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you."
+    "tagline": "Generatory wiadomości dla Sonarr i Radarr",
+    "overview": "Bazarr to aplikacja uzupełniająca do Sonarr i Radarr. Może ona zarządzać i pobierać napisy w oparciu o Twoje wymagania. Określasz swoje preferencje według programu telewizyjnego lub filmu, a Bazarr zajmie się wszystkim za Ciebie."
   },
   "Calibre-web": {
     "tagline": "Aplikacja webowa do przeglądania, czytania i pobierania eBooków znajdujących się w bazie danych Calibre",
     "overview": "Calibre-web to aplikacja webowa zapewniająca prosty interfejs do przeglądania, czytania i pobierania ebooków przy wykorzystaniu aktualnej bazy danych Calibre. Możliwe jest również zintegrowanie dysku google i edytowanie metadanych i twojej biblioteki Calibre poprzez tę aplikację."
   },
   "Deluge": {
-    "tagline": "A lightweight and free BitTorrent client.",
-    "overview": "Deluge contains the common features to BitTorrent clients such as Protocol Encryption, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, Proxy support, Web seeds, global and per-torrent speed limits. As Deluge heavily utilises the ​libtorrent library it has a comprehensive list of the ​features provided."
+    "tagline": "Niewielki i darmowy klient sieci BitTorrent.",
+    "overview": "Deluge zawiera funkcje typowe dla klientów BitTorrent, takie jak szyfrowanie protokołu, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, obsługę proxy, Web seeds, globalne i per-torrentowe ograniczenia prędkości. Ponieważ Deluge w dużym stopniu korzysta z biblioteki libtorrent, posiada obszerną listę oferowanych funkcji."
   },
   "Duplicati": {
-    "tagline": "Store securely encrypted backups in the cloud!",
-    "overview": "Duplicati is a free, open source, backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers."
+    "tagline": "Przechowuj w chmurze szyfrowane kopie zapasowe w bezpieczny sposób!",
+    "overview": "Duplicati to darmowy, open source, klient kopii zapasowych, który bezpiecznie przechowuje zaszyfrowane, przyrostowe, skompresowane kopie zapasowe w serwisach chmurowych i na zdalnych serwerach plików."
   },
   "Emby": {
-    "tagline": "TAKE YOUR MEDIA ANYWHERE WITH EMBY",
-    "overview": "Bringing all of your home videos, music, and photos together into one place has never been easier. Your personal Emby Server automatically converts and streams your media on-the-fly to play on any device."
+    "tagline": "ZABIERZ SWOJE MULTIMEDIA W DOWOLNE MIEJSCE DZIĘKI EMBY",
+    "overview": "Przechowywanie wszystkich domowych filmów, muzyki i zdjęć w jednym miejscu nigdy nie było łatwiejsze. Twój własny serwer Emby automatycznie konwertuje i strumieniuje Twoje multimedia w locie, aby odtworzyć je na dowolnym urządzeniu."
   },
   "Embystat": {
-    "tagline": "Calculate all kinds of statistics from your (local) Emby or Jellyfin server",
+    "tagline": "Obliczanie wszelkiego rodzaju statystyk z Twojego (lokalnego) serwera Emby lub Jellyfin",
     "overview": "EmbyStat is a personal web server that can calculate all kinds of statistics from your (local) Emby or Jellyfin server. Just install this on your server and let him calculate all kinds of fun stuff. This project is still in Alpha phase, but feel free to pull in on your computer and test it out yourself. When the time is right I will host a full informational website/release for common platforms and Wiki pages."
   },
   "FileBrowser": {
-    "tagline": "Upload, delete, preview, rename, edit and share your files.",
-    "overview": "File Browser - Webbased File Browser including sharing functions etc."
+    "tagline": "Przesyłaj, usuwaj, podglądaj, zmieniaj nazwy, edytuj i udostępniaj swoje pliki.",
+    "overview": "File Browser - Aplikacja Webowa do przeglądania plików, zawierająca funkcje udostępniania itp."
   },
   "Grafana": {
     "tagline": "Grafana is a complete observability stack that allows you to monitor and analyze metrics, logs and traces. It allows you to query, visualize, alert on and understand your data no matter where it is stored. ",
     "overview": "Grafana open source is open source visualization and analytics software.Visualizations: Fast and flexible client side graphs with a multitude of options. Panel plugins offer many different ways to visualize metrics and logs. Dynamic Dashboards: Create dynamic & reusable dashboards with template variables that appear as dropdowns at the top of the dashboard. Explore Metrics: Explore your data through ad-hoc queries and dynamic drilldown. Split view and compare different time ranges, queries and data sources side by side. Explore Logs: Experience the magic of switching from metrics to logs with preserved label filters. Quickly search through all your logs or streaming them live. Alerting: Visually define alert rules for your most important metrics. Grafana will continuously evaluate and send notifications to systems like Slack, PagerDuty, VictorOps, OpsGenie. Mixed Data Sources: Mix different data sources in the same graph! You can specify a data source on a per-query basis. This works for even custom datasources."
   },
   "Home Assistant": {
-    "tagline": "Awaken your home",
+    "tagline": "Automatyzacja domu",
     "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
   },
   "Jackett": {
-    "tagline": "Jackett works as a proxy server",
-    "overview": "it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar3, Lidarr, DuckieTV, qBittorrent, Nefarious etc.) into tracker-site-specific http queries, parses the html or json response, and then sends results back to the requesting software. This allows for getting recent uploads (like RSS) and performing searches. Jackett is a single repository of maintained indexer scraping & translation logic - removing the burden from other apps."
+    "tagline": "Jackett działa jako serwer proxy",
+    "overview": "tłumaczy on zapytania z aplikacji (Sonarr, Radarr, SickRage, CouchPotato, Mylar3, Lidarr, DuckieTV, qBittorrent, Nefarious itp.) na specyficzne dla danego trackera zapytania http, przetwarza odpowiedź html lub json, a następnie wysyła wyniki z powrotem do proszącego oprogramowania. Pozwala to na uzyskanie informacji o ostatnio załadowanych plikach (jak RSS) oraz na przeszukiwanie. Jackett jest pojedynczym repozytorium logiki scrapingu i translation logic - zdejmując ciężar z innych aplikacji."
   },
   "Jellyfin": {
-    "tagline": "Puts you in control of your media.",
+    "tagline": "Zapewnia kontrolę nad mediami.",
     "overview": "Jellyfin enables you to collect, manage, and stream your media. Run the Jellyfin server on your system and gain access to the leading free-software entertainment system, bells and whistles included."
   },
   "Lazylibrarian": {
-    "tagline": "eBook Auto Downloader",
+    "tagline": "eBook Automatycznie Pobieranie",
     "overview": "Lazylibrarian is a program to follow authors and grab metadata for all your digital reading needs. It uses a combination of Goodreads Librarything and optionally GoogleBooks as sources for author info and book info. This container is based on the DobyTang fork."
   },
   "Lidarr": {
-    "tagline": "Music collection manager for Usenet and BitTorrent users",
-    "overview": "Lidarr is a music collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new albums from your favorite artists and will interface with clients and indexers to grab, sort, and rename them. It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available."
+    "tagline": "Menedżer zbiorów muzycznych dla użytkowników sieci Usenet i BitTorrent",
+    "overview": "Lidarr to menedżer zbiorów muzycznych dla użytkowników sieci Usenet i BitTorrent. Może monitorować wiele kanałów RSS w poszukiwaniu nowych albumów ulubionych artystów i będzie współpracować z klientami i indekserami w celu ich pobrania, posortowania i zmiany nazwy. Można go również skonfigurować tak, aby automatycznie podnosił jakość istniejących w bibliotece plików, gdy dostępny jest format o lepszej jakości."
   },
   "Mylar3": {
-    "tagline": "Automatic comic book (cbr/cbz) downloader",
+    "tagline": "Automatyczny pobieracz komiksów (cbr/cbz)",
     "overview": "Mylar is an automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. Mylar allows you to create a watchlist of series that it monitors for various things (new issues, updated information, etc). It will grab, sort, and rename downloaded issues. It will also allow you to monitor weekly pull-lists for items belonging to said watchlisted series to download, as well as being able to monitor and maintain story-arcs."
   },
   "Nextcloud": {
-    "tagline": "The productivity platform that keeps you in control",
+    "tagline": "Platforma produktywności, która zapewnia Ci kontrolę",
     "overview": "Nextcloud puts your data at your fingertips, under your control. Store your documents, calendar, contacts and photos on a server at home, at one of our providers or in a data center you trust."
   },
   "Node-RED": {
-    "tagline": "Low-code programming for event-driven applications",
+    "tagline": "Programowanie low-code dla aplikacji sterowanych zdarzeniami",
     "overview": "Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.  It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click."
   },
   "Nzbget": {
-    "tagline": "Efficient Usenet downloader",
+    "tagline": "Efektywny program do pobierania z sieci Usenet",
     "overview": "NZBGet can run on almost any device - classic PC, NAS, media player, SAT-receiver, WLAN-router, etc. The download area provides precompiled binaries for Windows, macOS, Linux (compatible with many CPUs and platform variants), FreeBSD and Android. For other platforms the program can be compiled from sources."
   },
   "Ombi": {
-    "tagline": "Friendly media request tool, automatically syncs with your media servers! ",
+    "tagline": "Przyjazne narzędzie do żądania mediów, automatycznie synchronizuje się z Twoimi serwerami medialnymi! ",
     "overview": "Ombi to samohostująca się aplikacja internetowa, która automatycznie daje użytkownikom korzystającym z systemu Plex lub Emby możliwość samodzielnego wnioskowania o materiały! Aplikacja Ombi może być połączona z wieloma narzędziami do nagrywania programów telewizyjnych i filmów, aby zapewnić użytkownikom kompletne rozwiązanie."
   },
   "OpenSpeedTest": {
-    "tagline": "HTML5 Network Speed Test Server.",
-    "overview": "An application for launching HTML5 Network Speed Test Server. You can test download & upload speed from any device within your network with a web browser that is IE10 or new."
+    "tagline": "HTML5 Test Prędkości Łącza Internetowego.",
+    "overview": "Aplikacja uruchamia Test Prędkości Łącza Internetowego HTML5. Możesz przetestować prędkość pobierania i wysyłania z dowolnego urządzenia w sieci za pomocą przeglądarki internetowej, takiej jak IE10 lub nowszej."
   },
   "PhotoPrism": {
-    "tagline": "Browsing, organizing & sharing your photo collection",
+    "tagline": "Przeglądanie, organizowanie i udostępnianie zbiorów zdjęć",
     "overview": "PhotoPrism® is an AI-powered app for browsing, organizing & sharing your photo collection. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud."
   },
   "Pi-hole": {
-    "tagline": "Network-wide Ad Blocking",
+    "tagline": "Blokowanie reklam w całej sieci",
     "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
   },
   "Plex": {
-    "tagline": "The home for all your entertainment.",
+    "tagline": "Dom dla wszystkich twoich zajęć dodatkowych.",
     "overview": "Plex organizes video, music and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices. This container is packaged as a standalone Plex Media Server. has always been a top priority. Straightforward design and bulk actions mean getting things done faster."
   },
   "Prowlarr": {
-    "tagline": "Integration of various PVR applications",
+    "tagline": "Integracja różnych aplikacji typu PVR",
     "overview": "Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports management of both Torrent Trackers and Usenet Indexers. It integrates seamlessly with Lidarr, Mylar3, Radarr, Readarr, and Sonarr offering complete management of your indexers with no per app Indexer setup required (we do it all)."
   },
   "Radarr": {
-    "tagline": "The movie collection manager for Usenet and BitTorrent users",
-    "overview": "Radarr is a movie collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new movies and will interface with clients and indexers to grab, sort, and rename them. It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available. Note that only one type of a given movie is supported. If you want both an 4k version and 1080p version of a given movie you will need multiple instances."
+    "tagline": "Menedżer zbiorów filmów dla użytkowników sieci Usenet i BitTorrent",
+    "overview": "Radarr to menedżer zbiorów filmów dla użytkowników sieci Usenet i BitTorrent. Może monitorować wiele kanałów RSS w poszukiwaniu nowych filmów i będzie współpracować z klientami i indekserami, aby je pobierać, sortować i zmieniać nazwy. Można go również skonfigurować tak, aby automatycznie podnosił jakość istniejących w bibliotece plików, gdy dostępny jest format o lepszej jakości. Zauważ, że tylko jeden typ danego filmu jest obsługiwany. Jeśli chcesz mieć zarówno wersję 4k, jak i 1080p danego filmu, będziesz potrzebował wielu instancji."
   },
   "Readarr": {
-    "tagline": "Ebook and audiobook collection manager for Usenet and BitTorrent users. ",
-    "overview": "Readarr is a ebook collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new books from your favorite authors and will interface with clients and indexers to grab, sort, and rename them."
+    "tagline": "Menedżer kolekcji książek i audiobooków dla użytkowników sieci Usenet i BitTorrent. ",
+    "overview": "Readarr to menedżer zbiorów ebooków dla użytkowników sieci Usenet i BitTorrent. Może monitorować wiele kanałów RSS w poszukiwaniu nowych książek od ulubionych autorów i będzie współpracować z klientami i indekserami, aby je pobierać, sortować i zmieniać nazwy."
   },
   "Sabnzbd": {
     "tagline": "Free and easy binary newsreader",
@@ -124,16 +124,16 @@
     "overview": " keeps track of your network latency."
   },
   "Sonarr": {
-    "tagline": "The PVR for Usenet and BitTorrent users",
-    "overview": "Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available."
+    "tagline": "Nagrywanie Programów dla użytkowników sieci Usenet i BitTorrent",
+    "overview": "Sonarr to program do Nagrywanie Programów dla użytkowników sieci Usenet i BitTorrent. Może monitorować wiele kanałów RSS w poszukiwaniu nowych odcinków Twoich ulubionych programów i będzie je pobierać, sortować i zmieniać ich nazwy. Można go również skonfigurować tak, aby automatycznie podnosił jakość już pobranych plików, gdy dostępny będzie format o lepszej jakości."
   },
   "Syncthing": {
     "tagline": "Free, secure, and distributed file synchronisation tool.",
     "overview": "Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet."
   },
   "Transmission": {
-    "tagline": "Transmission is a cross-platform BitTorrent client ",
-    "overview": "Transmission is an open source, volunteer-based project. Unlike some BitTorrent clients, Transmission doesn't play games with its users to make money:  Transmission doesn't bundle toolbars, pop-up ads, flash ads, twitter tools, or anything else. It doesn't hold some features back for a payware version. Its source code is available for anyone to review. We don't track our users, and our website and forums have no third-party ads or analytics."
+    "tagline": "Transmission to wieloplatformowy klient BitTorrenta ",
+    "overview": "Transmission jest projektem open source, opartym na wolontariacie. W przeciwieństwie do niektórych klientów BitTorrent, Transmission nie gra z użytkownikami w gry, aby zarobić pieniądze:  Transmission nie dołącza pasków narzędzi, reklam pop-up, reklam flash, narzędzi twitterowych ani niczego innego. Nie wstrzymuje niektórych funkcji dla wersji płatnej. Jego kod źródłowy jest dostępny do wglądu dla każdego. Nie śledzimy naszych użytkowników, a nasza strona i fora nie zawierają reklam ani analiz firm trzecich."
   },
   "Unifi-controller": {
     "tagline": "The Unifi-controller software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance.",
@@ -144,7 +144,7 @@
     "overview": "Alternative implementation of the Bitwarden server API written in Rust and compatible with upstream Bitwarden clients*, perfect for self-hosted deployment where running the official resource-heavy service might not be ideal."
   },
   "qBittorrent": {
-    "tagline": "Free BitTorrent downloader",
-    "overview": "The qBittorrent project aims to provide an open-source software alternative to µTorrent."
+    "tagline": "Darmowy downloader BitTorrent",
+    "overview": "Projekt qBittorrent ma na celu zapewnienie alternatywy dla µTorrenta w formie oprogramowania open-source."
   }
 }
