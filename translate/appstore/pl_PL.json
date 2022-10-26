@@ -1,6 +1,6 @@
 {
   "2FAuth": {
-    "tagline": "A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
+    "tagline": "Aplikacja webowa do zarządzania Uwierzytelnieniami Dwuskładnikowymi (2FA) i generowania kodów bezpieczeństwa",
     "overview": "2FAuth is a web based self-hosted alternative to One Time Passcode (OTP) generators like Google Authenticator, designed for both mobile and desktop."
   },
   "AdGuard Home": {
@@ -16,8 +16,8 @@
     "overview": "Bazarr is a companion application to Sonarr and Radarr. It can manage and download subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you."
   },
   "Calibre-web": {
-    "tagline": "Web app for browsing, reading and downloading eBooks stored in a Calibre database",
-    "overview": "Calibre-web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. It is also possible to integrate google drive and edit metadata and your calibre library through the app itself."
+    "tagline": "Aplikacja webowa do przeglądania, czytania i pobierania eBooków znajdujących się w bazie danych Calibre",
+    "overview": "Calibre-web to aplikacja webowa zapewniająca prosty interfejs do przeglądania, czytania i pobierania ebooków przy wykorzystaniu aktualnej bazy danych Calibre. Możliwe jest również zintegrowanie dysku google i edytowanie metadanych i twojej biblioteki Calibre poprzez tę aplikację."
   },
   "Deluge": {
     "tagline": "A lightweight and free BitTorrent client.",
@@ -81,7 +81,7 @@
   },
   "Ombi": {
     "tagline": "Friendly media request tool, automatically syncs with your media servers! ",
-    "overview": "Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users."
+    "overview": "Ombi to samohostująca się aplikacja internetowa, która automatycznie daje użytkownikom korzystającym z systemu Plex lub Emby możliwość samodzielnego wnioskowania o materiały! Aplikacja Ombi może być połączona z wieloma narzędziami do nagrywania programów telewizyjnych i filmów, aby zapewnić użytkownikom kompletne rozwiązanie."
   },
   "OpenSpeedTest": {
     "tagline": "HTML5 Network Speed Test Server.",
