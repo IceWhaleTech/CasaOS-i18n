@@ -33,7 +33,7 @@
   },
   "Embystat": {
     "tagline": "Obliczanie wszelkiego rodzaju statystyk z Twojego (lokalnego) serwera Emby lub Jellyfin",
-    "overview": "EmbyStat is a personal web server that can calculate all kinds of statistics from your (local) Emby or Jellyfin server. Just install this on your server and let him calculate all kinds of fun stuff. This project is still in Alpha phase, but feel free to pull in on your computer and test it out yourself. When the time is right I will host a full informational website/release for common platforms and Wiki pages."
+    "overview": "EmbyStat to osobisty serwer internetowy, który może obliczać wszystkie rodzaje statystyk z Twojego (lokalnego) Emby lub serwera Jellyfin. Po prostu zainstaluj to na swoim serwerze i pozwól mu obliczać wszelkie zabawne rzeczy. Ten projekt nadal znajduje się w fazie Alfa, ale możesz wyciągnąć na swoim komputerze i przetestować go. Gdy czas jest w porządku, będę przechowywał pełną stronę internetową/wersję informacyjną dla wspólnych platform i stron Wiki."
   },
   "FileBrowser": {
     "tagline": "Przesyłaj, usuwaj, podglądaj, zmieniaj nazwy, edytuj i udostępniaj swoje pliki.",
@@ -112,7 +112,7 @@
     "overview": "Readarr to menedżer zbiorów ebooków dla użytkowników sieci Usenet i BitTorrent. Może monitorować wiele kanałów RSS w poszukiwaniu nowych książek od ulubionych autorów i będzie współpracować z klientami i indekserami, aby je pobierać, sortować i zmieniać nazwy."
   },
   "Sabnzbd": {
-    "tagline": "Free and easy binary newsreader",
+    "tagline": "Darmowy i łatwy czytnik wiadomości",
     "overview": "SABnzbd is an Open Source Binary Newsreader written in Python. It's totally free, easy to use, and works practically everywhere. SABnzbd makes Usenet as simple and streamlined as possible by automating everything we can. All you have to do is add an .nzb. SABnzbd takes over from there, where it will be automatically downloaded, verified, repaired, extracted and filed away with zero human interaction. SABnzbd offers an easy setup wizard and has self-analysis tools to verify your setup."
   },
   "Sickchill": {
@@ -121,14 +121,14 @@
   },
   "Smokeping": {
     "tagline": "Free open source network performance monitoring tool",
-    "overview": " keeps track of your network latency."
+    "overview": " Śledzi opóźnienia w sieci."
   },
   "Sonarr": {
     "tagline": "Nagrywanie Programów dla użytkowników sieci Usenet i BitTorrent",
     "overview": "Sonarr to program do Nagrywanie Programów dla użytkowników sieci Usenet i BitTorrent. Może monitorować wiele kanałów RSS w poszukiwaniu nowych odcinków Twoich ulubionych programów i będzie je pobierać, sortować i zmieniać ich nazwy. Można go również skonfigurować tak, aby automatycznie podnosił jakość już pobranych plików, gdy dostępny będzie format o lepszej jakości."
   },
   "Syncthing": {
-    "tagline": "Free, secure, and distributed file synchronisation tool.",
+    "tagline": "Wolne, bezpieczne i rozproszone narzędzie synchronizacji plików.",
     "overview": "Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet."
   },
   "Transmission": {
@@ -140,8 +140,8 @@
     "overview": "For Unifi to adopt other devices, e.g. an Access Point, it is required to change the inform IP address. Because Unifi runs inside Docker by default it uses an IP address not accessible by other devices. To change this go to Settings > System Settings > Controller Configuration and set the Controller Hostname/IP to a hostname or IP address accessible by your devices. Additionally the checkbox \"Override inform host with controller hostname/IP\" has to be checked, so that devices can connect to the controller during adoption (devices use the inform-endpoint during adoption)."
   },
   "Vaultwarden": {
-    "tagline": "A self-hosted Bitwarden server",
-    "overview": "Alternative implementation of the Bitwarden server API written in Rust and compatible with upstream Bitwarden clients*, perfect for self-hosted deployment where running the official resource-heavy service might not be ideal."
+    "tagline": "Serwer Bitwarden samodzielnie hostowany",
+    "overview": "Alternatywna implementacja API serwera Bitwarden napisana w Rust i kompatybilna z klientami Bitwarden upstreamu*, idealne do samodzielnego wdrożenia, w którym obsługa oficjalnej usługi o dużym zużyciu zasobów może nie być idealna."
   },
   "qBittorrent": {
     "tagline": "Darmowy downloader BitTorrent",
