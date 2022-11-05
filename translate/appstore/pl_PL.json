@@ -40,12 +40,12 @@
     "overview": "File Browser - Aplikacja Webowa do przeglądania plików, zawierająca funkcje udostępniania itp."
   },
   "Grafana": {
-    "tagline": "Grafana is a complete observability stack that allows you to monitor and analyze metrics, logs and traces. It allows you to query, visualize, alert on and understand your data no matter where it is stored. ",
-    "overview": "Grafana open source is open source visualization and analytics software.Visualizations: Fast and flexible client side graphs with a multitude of options. Panel plugins offer many different ways to visualize metrics and logs. Dynamic Dashboards: Create dynamic & reusable dashboards with template variables that appear as dropdowns at the top of the dashboard. Explore Metrics: Explore your data through ad-hoc queries and dynamic drilldown. Split view and compare different time ranges, queries and data sources side by side. Explore Logs: Experience the magic of switching from metrics to logs with preserved label filters. Quickly search through all your logs or streaming them live. Alerting: Visually define alert rules for your most important metrics. Grafana will continuously evaluate and send notifications to systems like Slack, PagerDuty, VictorOps, OpsGenie. Mixed Data Sources: Mix different data sources in the same graph! You can specify a data source on a per-query basis. This works for even custom datasources."
+    "tagline": "Grafana to kompletny stos obserwacji, który umożliwia monitorowanie i analizowanie mierników, logów i śladów. Pozwala na zapytanie, wizualizację, ostrzeżenie i zrozumienie Twoich danych bez względu na miejsce ich przechowywania. ",
+    "overview": "Grafana open source to otwarte oprogramowanie do wizualizacji i analizacji.Wizualizacje: szybkie i elastyczne wykresy po stronie klienta z wieloma opcjami. Wtyczki panelu oferują wiele różnych sposobów wizualizacji metryk i logów. Dynamiczne panele: Utwórz dynamiczne i wielokrotne użycie kokpitów menedżerskich ze zmiennymi szablonów, które pojawiają się jako rozwijane w górnej części kokpitu menedżerskiego. Przeglądaj mierniki: Przeglądaj swoje dane poprzez zapytania ad-hoc i dynamiczne wiercenie. Podziel widok i porównaj różne zakresy czasowe, zapytania i źródła danych obok siebie. Przeglądaj dzienniki: Poznaj magię przełączania ze wskaźników na logi z zachowywanymi filtrami etykiet. Szybko przeszukaj wszystkie swoje wpisy lub strumieniuj je na żywo. Ostrzeżenie: Wizualnie definiuj reguły alertu dla Twoich najważniejszych wskaźników. Grafana będzie stale oceniać i wysyłać powiadomienia do takich systemów jak Slack, PagerDuty, VictorOps, OpsGenie. Mieszane źródła danych: Mieszaj różne źródła danych na tym samym wykresie! Możesz określić źródło danych na podstawie zapytania. To działa dla nawet niestandardowych zbiorów danych."
   },
   "Home Assistant": {
     "tagline": "Automatyzacja domu",
-    "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
+    "overview": "Automatyzacja domu z otwartym źródłem, która stawia na pierwszym miejscu kontrolę i prywatność. Wspierane przez światową społeczność inwentarzy i entuzjastów DIY. Idealne do uruchomienia na serwerze Raspberry Pi lub na serwerze lokalnym."
   },
   "Jackett": {
     "tagline": "Jackett działa jako serwer proxy",
@@ -53,11 +53,11 @@
   },
   "Jellyfin": {
     "tagline": "Zapewnia kontrolę nad mediami.",
-    "overview": "Jellyfin enables you to collect, manage, and stream your media. Run the Jellyfin server on your system and gain access to the leading free-software entertainment system, bells and whistles included."
+    "overview": "Jellyfin umożliwia zbieranie, zarządzanie i streamowanie twoich mediów. Uruchom serwer Jellyfin w swoim systemie i uzyskaj dostęp do wiodącego bezpłatnego systemu rozrywki, dzwonków i sygnalizatorów."
   },
   "Lazylibrarian": {
     "tagline": "eBook Automatycznie Pobieranie",
-    "overview": "Lazylibrarian is a program to follow authors and grab metadata for all your digital reading needs. It uses a combination of Goodreads Librarything and optionally GoogleBooks as sources for author info and book info. This container is based on the DobyTang fork."
+    "overview": "Lazylibrarian jest programem, który śledzi autorów i zbiera metadane dla wszystkich Twoich cyfrowych potrzeb. Używa kombinacji Goodreads Librarything i opcjonalnie GoogleBooks jako źródeł informacji o autorze i książce. Ten pojemnik opiera się na widle DobyTang."
   },
   "Lidarr": {
     "tagline": "Menedżer zbiorów muzycznych dla użytkowników sieci Usenet i BitTorrent",
@@ -65,19 +65,19 @@
   },
   "Mylar3": {
     "tagline": "Automatyczny pobieracz komiksów (cbr/cbz)",
-    "overview": "Mylar is an automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. Mylar allows you to create a watchlist of series that it monitors for various things (new issues, updated information, etc). It will grab, sort, and rename downloaded issues. It will also allow you to monitor weekly pull-lists for items belonging to said watchlisted series to download, as well as being able to monitor and maintain story-arcs."
+    "overview": "Mylar jest zautomatyzowanym programem do pobierania komiksów (cbr/cbz) do użytku z NZB i torrentami. Mylar pozwala na utworzenie listy obserwowanych seriali, które monitoruje pod kątem różnych rzeczy (nowe problemy, zaktualizowane informacje itp.). Spowoduje to pogrążenie, sortowanie i zmianę nazwy pobranych problemów. Pozwoli również na monitorowanie cotygodniowych list pociągów dla elementów należących do wymienionych szeregów obserwowanych do pobrania, a także możliwość monitorowania i utrzymywania łuków historii."
   },
   "Nextcloud": {
     "tagline": "Platforma produktywności, która zapewnia Ci kontrolę",
-    "overview": "Nextcloud puts your data at your fingertips, under your control. Store your documents, calendar, contacts and photos on a server at home, at one of our providers or in a data center you trust."
+    "overview": "Nextcloud stawia Twoje dane pod kontrolą Twoich palców. Przechowuj dokumenty, kalendarze, kontakty i zdjęcia na serwerze w domu, u jednego z naszych dostawców lub w centrum danych, którym ufasz."
   },
   "Node-RED": {
     "tagline": "Programowanie low-code dla aplikacji sterowanych zdarzeniami",
-    "overview": "Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.  It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click."
+    "overview": "Node-RED to narzędzie programistyczne do łączenia urządzeń sprzętowych, API i usług online na nowe i ciekawe sposoby. Dostarcza edytora przeglądarki, który ułatwia połączenie przepływów przy użyciu szerokiego wachlarza węzłów w paletach, które mogą być rozmieszczone w czasie jego uruchomienia za pomocą jednego kliknięcia."
   },
   "Nzbget": {
     "tagline": "Efektywny program do pobierania z sieci Usenet",
-    "overview": "NZBGet can run on almost any device - classic PC, NAS, media player, SAT-receiver, WLAN-router, etc. The download area provides precompiled binaries for Windows, macOS, Linux (compatible with many CPUs and platform variants), FreeBSD and Android. For other platforms the program can be compiled from sources."
+    "overview": "NZBGet może działać na prawie każdym urządzeniu - klasyczny komputer, NAS, odtwarzacz multimediów, odbiornik SAT, router WLAN, itp. Obszar pobierania zapewnia wstępnie skompilowane pliki binarne dla Windows, macOS, Linux (kompatybilne z wieloma procesorami i wariantami platform), FreeBSD i Android. Dla innych platform program może być opracowany ze źródeł."
   },
   "Ombi": {
     "tagline": "Przyjazne narzędzie do żądania mediów, automatycznie synchronizuje się z Twoimi serwerami medialnymi! ",
@@ -89,19 +89,19 @@
   },
   "PhotoPrism": {
     "tagline": "Przeglądanie, organizowanie i udostępnianie zbiorów zdjęć",
-    "overview": "PhotoPrism® is an AI-powered app for browsing, organizing & sharing your photo collection. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud."
+    "overview": "PhotoPrism® jest aplikacją opartą na AI do przeglądania, organizowania i udostępniania kolekcji zdjęć. Wykorzystuje najnowsze technologie do automatycznego znakowania i wyszukiwania zdjęć, nie wchodząc w twoją drogę. Możesz uruchomić go w domu, na prywatnym serwerze lub w chmurze."
   },
   "Pi-hole": {
     "tagline": "Blokowanie reklam w całej sieci",
-    "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
+    "overview": "Automatyzacja domu z otwartym źródłem, która stawia na pierwszym miejscu kontrolę i prywatność. Wspierane przez światową społeczność inwentarzy i entuzjastów DIY. Idealne do uruchomienia na serwerze Raspberry Pi lub na serwerze lokalnym."
   },
   "Plex": {
     "tagline": "Dom dla wszystkich twoich zajęć dodatkowych.",
-    "overview": "Plex organizes video, music and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices. This container is packaged as a standalone Plex Media Server. has always been a top priority. Straightforward design and bulk actions mean getting things done faster."
+    "overview": "Plex organizuje wideo, muzykę i zdjęcia z osobistych bibliotek multimedialnych i streamuje je do inteligentnych telewizorów, pól strumieniowych i urządzeń przenośnych. Ten kontener jest zapakowany jako samodzielny Plex Media Server. Zawsze był najwyższym priorytetem. Prostokątne projektowanie i akcje masowe oznaczają szybsze przygotowywanie rzeczy."
   },
   "Prowlarr": {
     "tagline": "Integracja różnych aplikacji typu PVR",
-    "overview": "Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports management of both Torrent Trackers and Usenet Indexers. It integrates seamlessly with Lidarr, Mylar3, Radarr, Readarr, and Sonarr offering complete management of your indexers with no per app Indexer setup required (we do it all)."
+    "overview": "Prowlarr jest menadżerem indeksatora/proxy zbudowanym na popularnym stacie bazowym *arr .net/reactjs aby zintegrować się z różnymi aplikacjami PVR. Prowlarr wspiera zarządzanie zarówno Torrent Trackers jak i Usenet Indexers. Bezproblemowo integruje się z produktem Lidarr, Mylar3, Radarr, Readarr, i Sonarr oferujący pełne zarządzanie indeksatorami bez wymaganej konfiguracji indeksatora aplikacji (robimy to wszystko)."
   },
   "Radarr": {
     "tagline": "Menedżer zbiorów filmów dla użytkowników sieci Usenet i BitTorrent",
@@ -113,14 +113,14 @@
   },
   "Sabnzbd": {
     "tagline": "Darmowy i łatwy czytnik wiadomości",
-    "overview": "SABnzbd is an Open Source Binary Newsreader written in Python. It's totally free, easy to use, and works practically everywhere. SABnzbd makes Usenet as simple and streamlined as possible by automating everything we can. All you have to do is add an .nzb. SABnzbd takes over from there, where it will be automatically downloaded, verified, repaired, extracted and filed away with zero human interaction. SABnzbd offers an easy setup wizard and has self-analysis tools to verify your setup."
+    "overview": "SABnzbd jest binarnym czytnikiem wiadomości Open Source napisanym w Pythonie. Jest całkowicie darmowy, łatwy w użyciu i działa praktycznie wszędzie. SABnzbd sprawia, że Usenet jest jak najbardziej prosty i usprawniony poprzez zautomatyzowanie wszystkiego, co możemy. Wszystko, co musisz zrobić, to dodać . zb. SABnzbd przejmuje stąd, gdzie będzie automatycznie pobierany, weryfikowany, naprawiany, wydobywany i wypełniany bez ludzkiej interakcji. SABnzbd oferuje łatwy kreator konfiguracji i posiada narzędzia do samokontroli do weryfikacji konfiguracji."
   },
   "Sickchill": {
-    "tagline": "Automatic video library manager for TV Shows",
-    "overview": "SickChill is an automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic: automatic torrent/nzb searching, downloading, and processing at the qualities you want."
+    "tagline": "Menedżer automatycznej biblioteki wideo dla seriali telewizyjnych",
+    "overview": "SickChill jest automatycznym menedżerem biblioteki wideo dla seriali telewizyjnych. Ogląda na nowe odcinki twoich ulubionych seriali, a gdy zostaną opublikowane, robi to jego magia: automatyczne wyszukiwanie torrentów / nzb, pobieranie i przetwarzanie na żądanych przez Ciebie cechach."
   },
   "Smokeping": {
-    "tagline": "Free open source network performance monitoring tool",
+    "tagline": "Bezpłatne narzędzie do monitorowania wydajności sieci",
     "overview": " Śledzi opóźnienia w sieci."
   },
   "Sonarr": {
@@ -129,15 +129,15 @@
   },
   "Syncthing": {
     "tagline": "Wolne, bezpieczne i rozproszone narzędzie synchronizacji plików.",
-    "overview": "Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet."
+    "overview": "Synchronizacja jest ciągłym programem synchronizacji plików. Synchronizuje pliki pomiędzy dwoma lub większą liczbą komputerów w czasie rzeczywistym, bezpiecznie chronionym przed pyskiem oczu. Twoje dane są same w sobie i zasługujesz na wybór miejsca ich przechowywania, czy jest ona udostępniana osobom trzecim i w jaki sposób jest przekazywana przez Internet."
   },
   "Transmission": {
     "tagline": "Transmission to wieloplatformowy klient BitTorrenta ",
     "overview": "Transmission jest projektem open source, opartym na wolontariacie. W przeciwieństwie do niektórych klientów BitTorrent, Transmission nie gra z użytkownikami w gry, aby zarobić pieniądze:  Transmission nie dołącza pasków narzędzi, reklam pop-up, reklam flash, narzędzi twitterowych ani niczego innego. Nie wstrzymuje niektórych funkcji dla wersji płatnej. Jego kod źródłowy jest dostępny do wglądu dla każdego. Nie śledzimy naszych użytkowników, a nasza strona i fora nie zawierają reklam ani analiz firm trzecich."
   },
   "Unifi-controller": {
-    "tagline": "The Unifi-controller software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance.",
-    "overview": "For Unifi to adopt other devices, e.g. an Access Point, it is required to change the inform IP address. Because Unifi runs inside Docker by default it uses an IP address not accessible by other devices. To change this go to Settings > System Settings > Controller Configuration and set the Controller Hostname/IP to a hostname or IP address accessible by your devices. Additionally the checkbox \"Override inform host with controller hostname/IP\" has to be checked, so that devices can connect to the controller during adoption (devices use the inform-endpoint during adoption)."
+    "tagline": "Oprogramowanie Unifi-controller jest potężnym, bezprzewodowym silnikiem oprogramowania przedsiębiorstwa idealnym do wdrażania klientów o dużej gęstości, wymagającym niskich opóźnień i wysokiej wydajności.",
+    "overview": "Aby Unifi mogło przyjmować inne urządzenia, np. punkt dostępu, konieczna jest zmiana informującego adresu IP. Ponieważ Unifi działa domyślnie wewnątrz Docker, używa adresu IP niedostępnego dla innych urządzeń. Aby zmienić to przejdź do Ustawienia > Ustawienia systemowe > Konfiguracja kontrolera i ustaw nazwę hosta / IP kontrolera na nazwę hosta lub adres IP dostępny dla Twoich urządzeń. Dodatkowo pole wyboru \"Override informuje hosta o nazwie hosta/IP kontrolera, tak aby urządzenia mogły podłączyć się do kontrolera podczas adopcji (urządzenia używają punktu końcowego informującego podczas adopcji)."
   },
   "Vaultwarden": {
     "tagline": "Serwer Bitwarden samodzielnie hostowany",
