@@ -68,83 +68,83 @@
     "overview": "Mylar est un programme de téléchargement automatique de bandes dessinées (cbr/cbz) à utiliser avec NZB et les torrents. Mylar vous permet de créer une liste de séries qu'il surveille pour diverses choses (nouveaux numéros, informations mises à jour, etc). Il saisira, triera et renommera les numéros téléchargés. Il vous permettra également de surveiller les listes d'extraction hebdomadaires pour les articles appartenant à ladite série de la liste de surveillance à télécharger, ainsi que d'être en mesure de surveiller et de maintenir les story-arcs."
   },
   "Nextcloud": {
-    "tagline": "The productivity platform that keeps you in control",
-    "overview": "Nextcloud puts your data at your fingertips, under your control. Store your documents, calendar, contacts and photos on a server at home, at one of our providers or in a data center you trust."
+    "tagline": "La plateforme de productivité qui vous permet de garder le contrôle",
+    "overview": "Nextcloud met vos données à portée de main, sous votre contrôle. Stockez vos documents, calendrier, contacts et photos sur un serveur chez vous, chez l'un de nos fournisseurs ou dans un centre de données en qui vous avez confiance."
   },
   "Node-RED": {
-    "tagline": "Low-code programming for event-driven applications",
-    "overview": "Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.  It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click."
+    "tagline": "Programmation low-code pour les applications événementielles",
+    "overview": "Node-RED est un outil de programmation permettant de connecter des périphériques matériels, des API et des services en ligne de manière nouvelle et intéressante. Il fournit un éditeur basé sur un navigateur qui facilite la connexion de flux à l'aide du large éventail de nœuds de la palette pouvant être déployés dans son environnement d'exécution en un seul clic."
   },
   "Nzbget": {
-    "tagline": "Efficient Usenet downloader",
-    "overview": "NZBGet can run on almost any device - classic PC, NAS, media player, SAT-receiver, WLAN-router, etc. The download area provides precompiled binaries for Windows, macOS, Linux (compatible with many CPUs and platform variants), FreeBSD and Android. For other platforms the program can be compiled from sources."
+    "tagline": "Application de téléchargement Usenet efficace",
+    "overview": "NZBGet peut fonctionner sur presque tous les appareils - PC classique, NAS, lecteur multimédia, récepteur SAT, routeur WLAN, etc. La zone de téléchargement fournit des binaires précompilés pour Windows, macOS, Linux (compatible avec de nombreux processeurs et variantes de plate-forme), FreeBSD et Android. Pour les autres plates-formes, le programme peut être compilé à partir des sources."
   },
   "Ombi": {
-    "tagline": "Friendly media request tool, automatically syncs with your media servers! ",
-    "overview": "Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users."
+    "tagline": "Outil de demande multimédia convivial, se synchronise automatiquement avec vos serveurs multimédia ! ",
+    "overview": "Ombi est une application Web auto-hébergée qui donne automatiquement à vos utilisateurs Plex ou Emby partagés la possibilité de demander eux-mêmes du contenu ! Ombi peut être lié à plusieurs outils TV Show et Movie DVR pour créer une expérience transparente de bout en bout pour vos utilisateurs."
   },
   "OpenSpeedTest": {
-    "tagline": "HTML5 Network Speed Test Server.",
-    "overview": "An application for launching HTML5 Network Speed Test Server. You can test download & upload speed from any device within your network with a web browser that is IE10 or new."
+    "tagline": "Serveur de test de vitesse de réseau HTML5.",
+    "overview": "Une application pour lancer le serveur de test de vitesse de réseau HTML5. Vous pouvez tester la vitesse de téléchargement et de téléchargement à partir de n'importe quel appareil de votre réseau avec un navigateur Web IE10 ou nouveau."
   },
   "PhotoPrism": {
-    "tagline": "Browsing, organizing & sharing your photo collection",
-    "overview": "PhotoPrism® is an AI-powered app for browsing, organizing & sharing your photo collection. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud."
+    "tagline": "Parcourir, organiser et partager votre collection de photos",
+    "overview": "PhotoPrism® est une application alimentée par l'IA pour parcourir, organiser et partager votre collection de photos. Il utilise les dernières technologies pour marquer et trouver automatiquement des images sans vous gêner. Vous pouvez l'exécuter à la maison, sur un serveur privé ou dans le cloud."
   },
   "Pi-hole": {
-    "tagline": "Network-wide Ad Blocking",
-    "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
+    "tagline": "Blocage des publicités sur tout le réseau",
+    "overview": "Une domotique open source qui donne la priorité au contrôle local et à la confidentialité. Propulsé par une communauté mondiale de bricoleurs et de passionnés de bricolage. Parfait pour fonctionner sur un Raspberry Pi ou un serveur local."
   },
   "Plex": {
-    "tagline": "The home for all your entertainment.",
-    "overview": "Plex organizes video, music and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices. This container is packaged as a standalone Plex Media Server. has always been a top priority. Straightforward design and bulk actions mean getting things done faster."
+    "tagline": "La maison pour tous vos divertissements.",
+    "overview": "Plex organise des vidéos, de la musique et des photos à partir de bibliothèques multimédias personnelles et les diffuse sur des téléviseurs intelligents, des boîtiers de diffusion en continu et des appareils mobiles. Ce conteneur est conditionné en tant que Plex Media Server autonome. a toujours été une priorité absolue. Une conception simple et des actions groupées signifient que les choses sont faites plus rapidement."
   },
   "Prowlarr": {
-    "tagline": "Integration of various PVR applications",
-    "overview": "Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports management of both Torrent Trackers and Usenet Indexers. It integrates seamlessly with Lidarr, Mylar3, Radarr, Readarr, and Sonarr offering complete management of your indexers with no per app Indexer setup required (we do it all)."
+    "tagline": "Intégration de diverses applications PVR",
+    "overview": "Prowlarr est un gestionnaire/proxy d'indexeur construit sur la pile de base populaire *arr .net/reactjs pour s'intégrer à vos diverses applications PVR. Prowlarr prend en charge la gestion des trackers Torrent et des indexeurs Usenet. Il s'intègre de manière transparente à Lidarr, Mylar3, Radarr, Readarr et Sonarr, offrant une gestion complète de vos indexeurs sans aucune configuration d'indexeur par application requise (nous faisons tout)."
   },
   "Radarr": {
-    "tagline": "The movie collection manager for Usenet and BitTorrent users",
-    "overview": "Radarr is a movie collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new movies and will interface with clients and indexers to grab, sort, and rename them. It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available. Note that only one type of a given movie is supported. If you want both an 4k version and 1080p version of a given movie you will need multiple instances."
+    "tagline": "Le gestionnaire de collection de films pour les utilisateurs Usenet et BitTorrent",
+    "overview": "Radarr est un gestionnaire de collection de films pour les utilisateurs Usenet et BitTorrent. Il peut surveiller plusieurs flux RSS pour les nouveaux films et s'interfacera avec les clients et les indexeurs pour les saisir, les trier et les renommer. Il peut également être configuré pour mettre automatiquement à niveau la qualité des fichiers existants dans la bibliothèque lorsqu'un format de meilleure qualité devient disponible. Notez qu'un seul type d'un film donné est pris en charge. Si vous voulez à la fois une version 4k et une version 1080p d'un film donné, vous aurez besoin de plusieurs instances."
   },
   "Readarr": {
-    "tagline": "Ebook and audiobook collection manager for Usenet and BitTorrent users. ",
-    "overview": "Readarr is a ebook collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new books from your favorite authors and will interface with clients and indexers to grab, sort, and rename them."
+    "tagline": "Gestionnaire de collection de livres électroniques et de livres audio pour les utilisateurs Usenet et BitTorrent. ",
+    "overview": "Readarr est un gestionnaire de collection de livres électroniques pour les utilisateurs Usenet et BitTorrent. Il peut surveiller plusieurs flux RSS pour les nouveaux livres de vos auteurs préférés et s'interfacera avec les clients et les indexeurs pour les saisir, les trier et les renommer."
   },
   "Sabnzbd": {
-    "tagline": "Free and easy binary newsreader",
-    "overview": "SABnzbd is an Open Source Binary Newsreader written in Python. It's totally free, easy to use, and works practically everywhere. SABnzbd makes Usenet as simple and streamlined as possible by automating everything we can. All you have to do is add an .nzb. SABnzbd takes over from there, where it will be automatically downloaded, verified, repaired, extracted and filed away with zero human interaction. SABnzbd offers an easy setup wizard and has self-analysis tools to verify your setup."
+    "tagline": "Lecteur de nouvelles binaire gratuit et facile",
+    "overview": "SABnzbd est un lecteur de nouvelles binaire Open Source écrit en Python. Il est totalement gratuit, facile à utiliser et fonctionne pratiquement partout. SABnzbd rend Usenet aussi simple et rationalisé que possible en automatisant tout ce que nous pouvons. Tout ce que vous avez à faire est d'ajouter un .nzb. SABnzbd prend le relais à partir de là, où il sera automatiquement téléchargé, vérifié, réparé, extrait et classé sans aucune interaction humaine. SABnzbd propose un assistant de configuration simple et dispose d'outils d'auto-analyse pour vérifier votre configuration."
   },
   "Sickchill": {
-    "tagline": "Automatic video library manager for TV Shows",
-    "overview": "SickChill is an automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic: automatic torrent/nzb searching, downloading, and processing at the qualities you want."
+    "tagline": "Gestionnaire de vidéothèque automatique pour les émissions de télévision",
+    "overview": "SickChill est un gestionnaire de vidéothèque automatique pour les émissions de télévision. Il surveille les nouveaux épisodes de vos émissions préférées, et lorsqu'ils sont publiés, il fait sa magie : recherche, téléchargement et traitement automatiques de torrent/nzb selon les qualités que vous souhaitez."
   },
   "Smokeping": {
-    "tagline": "Free open source network performance monitoring tool",
-    "overview": " keeps track of your network latency."
+    "tagline": "Outil gratuit de surveillance des performances du réseau open source",
+    "overview": " garde une trace de la latence de votre réseau."
   },
   "Sonarr": {
-    "tagline": "The PVR for Usenet and BitTorrent users",
-    "overview": "Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available."
+    "tagline": "Français\n\nLe PVR pour les utilisateurs Usenet et BitTorrent",
+    "overview": "Sonarr est un PVR pour les utilisateurs Usenet et BitTorrent. Il peut surveiller plusieurs flux RSS pour les nouveaux épisodes de vos émissions préférées et les saisir, les trier et les renommer. Il peut également être configuré pour améliorer automatiquement la qualité des fichiers déjà téléchargés lorsqu'un format de meilleure qualité devient disponible."
   },
   "Syncthing": {
-    "tagline": "Free, secure, and distributed file synchronisation tool.",
-    "overview": "Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet."
+    "tagline": "Outil de synchronisation de fichiers gratuit, sécurisé et distribué.",
+    "overview": "Syncthing est un programme de synchronisation continue de fichiers. Il synchronise les fichiers entre deux ou plusieurs ordinateurs en temps réel, en toute sécurité à l'abri des regards indiscrets. Vos données sont vos seules données et vous méritez de choisir où elles sont stockées, si elles sont partagées avec un tiers et comment elles sont transmises sur Internet."
   },
   "Transmission": {
-    "tagline": "Transmission is a cross-platform BitTorrent client ",
-    "overview": "Transmission is an open source, volunteer-based project. Unlike some BitTorrent clients, Transmission doesn't play games with its users to make money:  Transmission doesn't bundle toolbars, pop-up ads, flash ads, twitter tools, or anything else. It doesn't hold some features back for a payware version. Its source code is available for anyone to review. We don't track our users, and our website and forums have no third-party ads or analytics."
+    "tagline": "Transmission est un client BitTorrent multiplateforme ",
+    "overview": "Transmission est un projet open source basé sur le volontariat. Contrairement à certains clients BitTorrent, Transmission ne joue pas à des jeux avec ses utilisateurs pour gagner de l'argent : Transmission ne regroupe pas les barres d'outils, les publicités pop-up, les publicités flash, les outils Twitter ou quoi que ce soit d'autre. Il ne retient pas certaines fonctionnalités pour une version payante. Son code source est accessible à tous. Nous ne suivons pas nos utilisateurs, et notre site Web et nos forums ne contiennent aucune publicité ou analyse de tiers."
   },
   "Unifi-controller": {
-    "tagline": "The Unifi-controller software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance.",
-    "overview": "For Unifi to adopt other devices, e.g. an Access Point, it is required to change the inform IP address. Because Unifi runs inside Docker by default it uses an IP address not accessible by other devices. To change this go to Settings > System Settings > Controller Configuration and set the Controller Hostname/IP to a hostname or IP address accessible by your devices. Additionally the checkbox \"Override inform host with controller hostname/IP\" has to be checked, so that devices can connect to the controller during adoption (devices use the inform-endpoint during adoption)."
+    "tagline": "Le logiciel Unifi-controller est un puissant moteur logiciel sans fil d'entreprise idéal pour les déploiements de clients haute densité nécessitant une faible latence et des performances de disponibilité élevées.",
+    "overview": "Pour Unifi d'adopter d'autres appareils, par ex. un point d'accès, il est nécessaire de changer l'adresse IP d'information. Comme Unifi s'exécute par défaut dans Docker, il utilise une adresse IP non accessible par d'autres appareils. Pour modifier cela, accédez à Paramètres > Paramètres système > Configuration du contrôleur et définissez le nom d'hôte/IP du contrôleur sur un nom d'hôte ou une adresse IP accessible par vos appareils. De plus, la case \"Override inform host with controller hostname/IP\" doit être cochée, afin que les appareils puissent se connecter au contrôleur lors de l'adoption (les appareils utilisent le point de terminaison inform lors de l'adoption)."
   },
   "Vaultwarden": {
-    "tagline": "A self-hosted Bitwarden server",
-    "overview": "Alternative implementation of the Bitwarden server API written in Rust and compatible with upstream Bitwarden clients*, perfect for self-hosted deployment where running the official resource-heavy service might not be ideal."
+    "tagline": "Un serveur Bitwarden auto-hébergé",
+    "overview": "Implémentation alternative de l'API du serveur Bitwarden écrite en Rust et compatible avec les clients Bitwarden en amont*, parfaite pour un déploiement auto-hébergé où l'exécution du service officiel gourmand en ressources n'est peut-être pas idéale."
   },
   "qBittorrent": {
-    "tagline": "Free BitTorrent downloader",
-    "overview": "The qBittorrent project aims to provide an open-source software alternative to µTorrent."
+    "tagline": "Application de téléchargement BitTorrent gratuit",
+    "overview": "Le projet qBittorrent vise à fournir une alternative logicielle open-source à µTorrent."
   }
 }
