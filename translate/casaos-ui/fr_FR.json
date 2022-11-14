@@ -317,5 +317,17 @@
   " to continue.": " continuer.",
   "APPs is running": "Les applications sont en cours d'exécution",
   "restart APPs to continue.": "redémarrer l'APPs pour continuer.",
-  "Add a shortcut": "Ajouter un raccourci"
+  "Add a shortcut": "Ajouter un raccourci",
+  "Failed to create docker folder": "Failed to create docker folder",
+  "Accapt": "Accapt",
+  "We appreciate any feedback you may have.": "We appreciate any feedback you may have.",
+  "Show Existing Docker Apps": "Show Existing Docker Apps",
+  "Get News About CasaOS": "Get News About CasaOS",
+  "CasaOS request get the latest news through the internet when you visit.": "CasaOS request get the latest news through the internet when you visit.",
+  "Feedback": "Feedback",
+  "Submit feedback or bugs:": "Submit feedback or bugs:",
+  "App request、Bug report、Feature request.": "App request、Bug report、Feature request.",
+  "Describe": "Describe",
+  "A clear and concise desctiption.": "A clear and concise desctiption.",
+  "Go to github for feedback": "Go to github for feedback"
 }
