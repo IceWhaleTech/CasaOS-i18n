@@ -317,5 +317,17 @@
   " to continue.": "继续",
   "APPs is running": "应用正在运行中",
   "restart APPs to continue.": "重启 APP 以继续。",
-  "Add a shortcut": "添加快捷方式"
+  "Add a shortcut": "添加快捷方式",
+  "Failed to create docker folder": "Failed to create docker folder",
+  "Accapt": "Accapt",
+  "We appreciate any feedback you may have.": "We appreciate any feedback you may have.",
+  "Show Existing Docker Apps": "Show Existing Docker Apps",
+  "Get News About CasaOS": "Get News About CasaOS",
+  "CasaOS request get the latest news through the internet when you visit.": "CasaOS request get the latest news through the internet when you visit.",
+  "Feedback": "Feedback",
+  "Submit feedback or bugs:": "Submit feedback or bugs:",
+  "App request、Bug report、Feature request.": "App request、Bug report、Feature request.",
+  "Describe": "Describe",
+  "A clear and concise desctiption.": "A clear and concise desctiption.",
+  "Go to github for feedback": "Go to github for feedback"
 }
