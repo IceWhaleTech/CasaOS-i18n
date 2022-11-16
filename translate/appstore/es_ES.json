@@ -28,52 +28,52 @@
     "overview": "Duplicati es un cliente de copia de seguridad gratuito y de código abierto que almacena de forma segura copias de seguridad cifradas, incrementales y comprimidas en servicios de almacenamiento en la nube y servidores de archivos remotos."
   },
   "Emby": {
-    "tagline": "TAKE YOUR MEDIA ANYWHERE WITH EMBY",
-    "overview": "Bringing all of your home videos, music, and photos together into one place has never been easier. Your personal Emby Server automatically converts and streams your media on-the-fly to play on any device."
+    "tagline": "TU MULTIMEDIA DE CUALQUIER LUGAR CON EMBY",
+    "overview": "Reunir todos tus videos, música y fotos en un solo lugar nunca ha sido tan fácil. Su servidor Emby personal convierte y transmite automáticamente sus transmisiones en tiempo real para que se reproduzcan en cualquier dispositivo."
   },
   "Embystat": {
-    "tagline": "Calculate all kinds of statistics from your (local) Emby or Jellyfin server",
-    "overview": "EmbyStat is a personal web server that can calculate all kinds of statistics from your (local) Emby or Jellyfin server. Just install this on your server and let him calculate all kinds of fun stuff. This project is still in Alpha phase, but feel free to pull in on your computer and test it out yourself. When the time is right I will host a full informational website/release for common platforms and Wiki pages."
+    "tagline": "Calcula todo tipo de estadísticas de tu servidor (local) Emby o Jellyfin",
+    "overview": "EmbyStat es un servidor web personal que puede calcular todo tipo de estadísticas de su servidor (local) Emby o Jellyfin. Simplemente instale esto en su servidor y le permita calcular todo tipo de cosas divertidas. Este proyecto está todavía en fase alfa, pero no dudes en entrar en tu ordenador y probarlo tú mismo. Cuando llegue el momento de alojar un sitio web de información completa/lanzamiento para plataformas comunes y páginas Wiki."
   },
   "FileBrowser": {
-    "tagline": "Upload, delete, preview, rename, edit and share your files.",
-    "overview": "File Browser - Webbased File Browser including sharing functions etc."
+    "tagline": "Subir, eliminar, previsualizar, renombrar, editar y compartir tus archivos.",
+    "overview": "File Browser - Navegador de archivos basado en web incluyendo funciones para compartir, etc."
   },
   "Grafana": {
-    "tagline": "Grafana is a complete observability stack that allows you to monitor and analyze metrics, logs and traces. It allows you to query, visualize, alert on and understand your data no matter where it is stored. ",
-    "overview": "Grafana open source is open source visualization and analytics software.Visualizations: Fast and flexible client side graphs with a multitude of options. Panel plugins offer many different ways to visualize metrics and logs. Dynamic Dashboards: Create dynamic & reusable dashboards with template variables that appear as dropdowns at the top of the dashboard. Explore Metrics: Explore your data through ad-hoc queries and dynamic drilldown. Split view and compare different time ranges, queries and data sources side by side. Explore Logs: Experience the magic of switching from metrics to logs with preserved label filters. Quickly search through all your logs or streaming them live. Alerting: Visually define alert rules for your most important metrics. Grafana will continuously evaluate and send notifications to systems like Slack, PagerDuty, VictorOps, OpsGenie. Mixed Data Sources: Mix different data sources in the same graph! You can specify a data source on a per-query basis. This works for even custom datasources."
+    "tagline": "Grafana es una pila de observabilidad completa que te permite monitorear y analizar métricas, registros y trazas. Le permite consultar, visualizar, alertar y entender sus datos sin importar dónde estén almacenados. ",
+    "overview": "Grafana open source es software de visualización y análisis de código abierto. Visualizaciones: gráficos rápidos y flexibles del lado del cliente con multitud de opciones. Los plugins de panel ofrecen muchas maneras diferentes de visualizar métricas y registros. Tableros dinámicos: Crear tableros dinámicos y reutilizables con variables de plantilla que aparecen como teclas en la parte superior del tablero. Explorar métricas: Explore sus datos a través de consultas ad-hoc y de perforación dinámica. Divida la vista y compara diferentes rangos de tiempo, consultas y fuentes de datos codo con codo. Explorar registros: Experimente la magia de cambiar de métricas a registros con filtros de etiquetas conservados. Búsqueda rápida a través de todos tus registros o streaming en vivo. Alerta: Define las reglas de alerta para tus métricas más importantes. Grafana evaluará continuamente y enviará notificaciones a sistemas como Slack, PagerDuty, VictorOps, OpsGenie. Fuentes de datos mixtas: Mezclar diferentes fuentes de datos en el mismo gráfico! Puede especificar una fuente de datos por consulta. Esto funciona incluso para fuentes de datos personalizadas."
   },
   "Home Assistant": {
-    "tagline": "Awaken your home",
-    "overview": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server."
+    "tagline": "Despierta tu hogar",
+    "overview": "Automatización del hogar de código abierto que antepone el control local y la privacidad. Desarrollado por una comunidad mundial de actores y entusiastas de DIY. Perfecto para correr en un Raspberry Pi o un servidor local."
   },
   "Jackett": {
-    "tagline": "Jackett works as a proxy server",
-    "overview": "it translates queries from apps (Sonarr, Radarr, SickRage, CouchPotato, Mylar3, Lidarr, DuckieTV, qBittorrent, Nefarious etc.) into tracker-site-specific http queries, parses the html or json response, and then sends results back to the requesting software. This allows for getting recent uploads (like RSS) and performing searches. Jackett is a single repository of maintained indexer scraping & translation logic - removing the burden from other apps."
+    "tagline": "Jackett funciona como un servidor proxy",
+    "overview": "traduce consultas de aplicaciones (Sonarr, Radarr, SickRage, CouchPotato, Mylar3, Lidarr, DuckieTV, qBittorrent, Nefarious etc.) en consultas http específicas del sitio de tracker, analiza la respuesta html o json, y luego envía los resultados al software solicitado. Esto permite obtener subidas recientes (como RSS) y realizar búsquedas. Jackett es un único repositorio de la lógica de desguace y traducción del indexador mantenido, eliminando la carga de otras aplicaciones."
   },
   "Jellyfin": {
-    "tagline": "Puts you in control of your media.",
-    "overview": "Jellyfin enables you to collect, manage, and stream your media. Run the Jellyfin server on your system and gain access to the leading free-software entertainment system, bells and whistles included."
+    "tagline": "Te pone en control de tu multimedia.",
+    "overview": "Jellyfin le permite recoger, administrar y transmitir su multimedia. Ejecute el servidor Jellyfin en su sistema y obtenga acceso al principal sistema de entretenimiento de software libre, campanas y silbidos incluidos."
   },
   "Lazylibrarian": {
-    "tagline": "eBook Auto Downloader",
-    "overview": "Lazylibrarian is a program to follow authors and grab metadata for all your digital reading needs. It uses a combination of Goodreads Librarything and optionally GoogleBooks as sources for author info and book info. This container is based on the DobyTang fork."
+    "tagline": "Descargador Automático de eBooks",
+    "overview": "Lazylibrarian es un programa para seguir a autores y obtener metadatos para todas sus necesidades de lectura digital. Utiliza una combinación de Bibliotecas de Goodreads y opcionalmente GoogleBook como fuentes de información de autor e información de libros. Este contenedor se basa en el fork de DobyTang."
   },
   "Lidarr": {
-    "tagline": "Music collection manager for Usenet and BitTorrent users",
-    "overview": "Lidarr is a music collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new albums from your favorite artists and will interface with clients and indexers to grab, sort, and rename them. It can also be configured to automatically upgrade the quality of existing files in the library when a better quality format becomes available."
+    "tagline": "Gestor de colección de música para usuarios de Usenet y BitTorrent",
+    "overview": "Lidarr es un gestor de colecciones de música para usuarios de Usenet y BitTorrent. Puede monitorear múltiples canales RSS para nuevos álbumes de tus artistas favoritos e interactuar con clientes e índices para grabar, ordenar y renombrarlos. También se puede configurar para actualizar automáticamente la calidad de los archivos existentes en la biblioteca cuando un formato de mejor calidad está disponible."
   },
   "Mylar3": {
-    "tagline": "Automatic comic book (cbr/cbz) downloader",
-    "overview": "Mylar is an automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. Mylar allows you to create a watchlist of series that it monitors for various things (new issues, updated information, etc). It will grab, sort, and rename downloaded issues. It will also allow you to monitor weekly pull-lists for items belonging to said watchlisted series to download, as well as being able to monitor and maintain story-arcs."
+    "tagline": "Descargador automático de cómics (cbr/cbz)",
+    "overview": "Mylar es un programa automatizado de descargas de Comics (cbr/cbz) para uso con NZB y torrents. Mylar le permite crear una lista vigilada de series que monitoriza para varias cosas (nuevos temas, información actualizada, etc.). Asumirá, ordenará y cambiará el nombre de los problemas descargados. También te permitirá monitorear las listas desplegables semanales para que se descarguen los elementos pertenecientes a dichas series vigiladas, además de ser capaz de monitorear y mantener historias."
   },
   "Nextcloud": {
-    "tagline": "The productivity platform that keeps you in control",
-    "overview": "Nextcloud puts your data at your fingertips, under your control. Store your documents, calendar, contacts and photos on a server at home, at one of our providers or in a data center you trust."
+    "tagline": "La plataforma de productividad que te mantiene en control",
+    "overview": "Nextcloud pone sus datos al alcance de la mano, bajo su control. Almacene sus documentos, calendarios, contactos y fotos en un servidor en casa, en uno de nuestros proveedores o en un centro de datos en el que confíe."
   },
   "Node-RED": {
-    "tagline": "Low-code programming for event-driven applications",
-    "overview": "Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.  It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click."
+    "tagline": "Programación de código bajo para aplicaciones basadas en eventos",
+    "overview": "Node-RED es una herramienta de programación para agrupar dispositivos de hardware, APIs y servicios en línea de formas nuevas e interesantes. Proporciona un editor basado en el navegador que facilita el cableado de flujos utilizando la amplia gama de nodos de la paleta que se pueden desplegar en su tiempo de ejecución con un solo clic."
   },
   "Nzbget": {
     "tagline": "Efficient Usenet downloader",
