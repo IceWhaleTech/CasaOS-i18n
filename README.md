@@ -1,21 +1,12 @@
 
+[![Crowdin](https://badges.crowdin.net/casaos/localized.svg)](https://crowdin.com/project/casaos)
 # CasaOS-i18n
 CasaOS Internationalization(i18n) Project
 
-## The main branch of the front-end project is currently deprecated.
-Since weblate free hosting audit did not pass, unfortunately we had to move again to Crowdin.
-Feel free to visit: https://crwd.in/casaos to help us with our translation project.
-
 ## How to submit a new translation
 
-```
-git clone https://github.com/IceWhaleTech/CasaOS-i18n.git
-```
+Visit: https://crwd.in/casaos
 
-The back-end folder holds the language files of the CasaOS back-end project.  
-~~The front-end folder holds the language files of the CasaOS UI project.~~  
-
-Copy en_us.json (back-end) to a new file named de_de.json (back-end). Then update the translation.
 
 ## Acknowledgements
 
