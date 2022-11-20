@@ -1,6 +1,6 @@
 {
   "2FAuth": {
-    "tagline": "A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
+    "tagline": "用于管理您的两步验证 (2FA) 帐户并生成安全码的网页应用",
     "overview": "2FAuth is a web based self-hosted alternative to One Time Passcode (OTP) generators like Google Authenticator, designed for both mobile and desktop."
   },
   "AdGuard Home": {
