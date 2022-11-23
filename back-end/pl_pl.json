@@ -43,6 +43,10 @@
     "tagline": "Darmowe, bezpieczne i rozprowadzane narzędzie do synchronizacji plików.",
     "overview": "Syncthing jest programem do ciągłej synchronizacji plików. Synchronizuje on pliki pomiędzy dwoma lub więcej komputerami w czasie rzeczywistym, bezpiecznie chroniąc je przed wścibskimi oczami. Twoje dane są tylko Twoje i zasługujesz na to, aby wybrać gdzie są przechowywane, czy są udostępniane osobom trzecim i jak są przesyłane przez Internet.."
   },
+  "Tautulli": {
+    "tagline": "Monitorowanie serwera multimediów Plex",
+    "overview": "Tautulli to aplikacja innej firmy, którą można uruchomić obok serwera Plex Media Server w celu monitorowania aktywności i śledzenia różnych statystyk. Co najważniejsze, statystyki te obejmują informacje o tym, co było oglądane, kto to oglądał, kiedy i gdzie to oglądał oraz jak to było oglądane."
+  },
   "qBittorrent": {
     "tagline": "Darmowy downloader BitTorrent",
     "overview": "Projekt qBittorrent ma na celu dostarczenie oprogramowania open-source będącego alternatywą dla µTorrent."
