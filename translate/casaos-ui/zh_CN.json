@@ -329,5 +329,13 @@
   "Start with [Issue], [App Request], or [Feature Request]...": "以 [问题]、[应用请求] 或[功能请求] 开始...",
   "Description": "描述",
   "The more details provided, the easier this feedback or issue gets addressed.": "提供的细节越多，反馈或问题就越容易处理。",
-  "For more feedback options, visit CasaOS project on GitHub...": "更多反馈选项请访问 GitHub上的 CasaOS 项目..."
+  "For more feedback options, visit CasaOS project on GitHub...": "更多反馈选项请访问 GitHub上的 CasaOS 项目...",
+  "{num}Items": "{num}项",
+  "Submit a feedback or report an issue": "提交反馈或报告问题",
+  "Shutdown": "关机",
+  "Connecting": "连接中",
+  "Open in Files": "在Files中打开",
+  "Learn more": "了解详情",
+  "Set Mainstorage": "设置Mainstorage",
+  "Find New Drive": "Find New Drive"
 }
