@@ -329,5 +329,13 @@
   "Start with [Issue], [App Request], or [Feature Request]...": "Start with [Issue], [App Request], or [Feature Request]...",
   "Description": "Descripción",
   "The more details provided, the easier this feedback or issue gets addressed.": "The more details provided, the easier this feedback or issue gets addressed.",
-  "For more feedback options, visit CasaOS project on GitHub...": "For more feedback options, visit CasaOS project on GitHub..."
+  "For more feedback options, visit CasaOS project on GitHub...": "For more feedback options, visit CasaOS project on GitHub...",
+  "{num}Items": "{num}Items",
+  "Submit a feedback or report an issue": "Submit a feedback or report an issue",
+  "Shutdown": "Shutdown",
+  "Connecting": "Connecting",
+  "Open in Files": "Open in Files",
+  "Learn more": "Learn more",
+  "Set Mainstorage": "Set Mainstorage",
+  "Find New Drive": "Find New Drive"
 }
