@@ -329,5 +329,13 @@
   "Start with [Issue], [App Request], or [Feature Request]...": "Zacznij od [Issue], [App Request] lub [Feature Request]...",
   "Description": "Opis",
   "The more details provided, the easier this feedback or issue gets addressed.": "Im więcej szczegółów, tym łatwiej będzie zająć się tą opinią lub problemem.",
-  "For more feedback options, visit CasaOS project on GitHub...": "Aby uzyskać więcej opinii, odwiedź projekt CasaOS na GitHub..."
+  "For more feedback options, visit CasaOS project on GitHub...": "Aby uzyskać więcej opinii, odwiedź projekt CasaOS na GitHub...",
+  "{num}Items": "{num}Items",
+  "Submit a feedback or report an issue": "Submit a feedback or report an issue",
+  "Shutdown": "Shutdown",
+  "Connecting": "Connecting",
+  "Open in Files": "Open in Files",
+  "Learn more": "Learn more",
+  "Set Mainstorage": "Set Mainstorage",
+  "Find New Drive": "Find New Drive"
 }
