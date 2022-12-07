@@ -319,7 +319,7 @@
   "restart APPs to continue.": "перезапустіть програми, щоб продовжити.",
   "Add a shortcut": "Додати ярлик",
   "Error when creating installation path for apps": "Помилка при створенні шляху для встановлення для програм",
-  "Accapt": "Прийняти",
+  "Accept": "Accept",
   "We appreciate any feedback you may have.": "Ми цінуємо будь-який ваш відгук.",
   "Show other Docker container app(s)": "Показати інші програми в Docker контейнерах",
   "Show news feed from CasaOS Blog": "Показувати стрічку новин з блогу CasaOS",
@@ -337,5 +337,6 @@
   "Open in Files": "Відкрити",
   "Learn more": "Докладніше",
   "Set Mainstorage": "Вибрати головне сховище",
-  "Find New Drive": "Знайти новий диск"
+  "Found a New Drive": "Found a New Drive",
+  "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{div}": "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{div}"
 }
