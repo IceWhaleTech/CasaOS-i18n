@@ -319,7 +319,7 @@
   "restart APPs to continue.": "uruchom ponownie aplikacje, aby kontynuować.",
   "Add a shortcut": "Dodaj skrót",
   "Error when creating installation path for apps": "Wystąpił błąd podczas tworzenia ścieżki instalacji dla aplikacji",
-  "Accapt": "Akceptuj",
+  "Accept": "Accept",
   "We appreciate any feedback you may have.": "Doceniamy każdą opinię, którą możemy otrzymać.",
   "Show other Docker container app(s)": "Pokaż inne aplikacje kontenera Docker",
   "Show news feed from CasaOS Blog": "Pokaż kanał wiadomości z CasaOS blog",
@@ -337,5 +337,6 @@
   "Open in Files": "Open in Files",
   "Learn more": "Learn more",
   "Set Mainstorage": "Set Mainstorage",
-  "Find New Drive": "Find New Drive"
+  "Found a New Drive": "Found a New Drive",
+  "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{div}": "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{div}"
 }
