@@ -319,7 +319,7 @@
   "restart APPs to continue.": "重启 APP 以继续。",
   "Add a shortcut": "添加快捷方式",
   "Error when creating installation path for apps": "创建应用安装路径时出错",
-  "Accapt": "接受",
+  "Accept": "接受",
   "We appreciate any feedback you may have.": "我们感谢你的任何反馈。",
   "Show other Docker container app(s)": "显示其他Docker容器应用",
   "Show news feed from CasaOS Blog": "显示来自 CasaOS 博客的新闻订阅",
@@ -337,5 +337,6 @@
   "Open in Files": "在Files中打开",
   "Learn more": "了解详情",
   "Set Mainstorage": "设置Mainstorage",
-  "Find New Drive": "Find New Drive"
+  "Found a New Drive": "发现一个新的驱动器",
+  "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{div}": "删除后数据无法恢复! <br/>继续卸载此应用?<br/>{div}"
 }
