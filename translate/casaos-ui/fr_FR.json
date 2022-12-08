@@ -335,8 +335,8 @@
   "Shutdown": "Shutdown",
   "Connecting": "Connecting",
   "Open in Files": "Open in Files",
-  "Learn more": "Learn more",
-  "Set Mainstorage": "Set Mainstorage",
-  "Found a New Drive": "Found a New Drive",
-  "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{div}": "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{div}"
+  "Learn more": "En savoir plus",
+  "Set Mainstorage": "Définir le stockage principal",
+  "Found a New Drive": "Nouveau lecteur détecté",
+  "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{div}": "Les données ne peuvent pas être récupérées après suppression ! <br/>Continuer la désinstallation de cette application ?<br/>{div}"
 }
