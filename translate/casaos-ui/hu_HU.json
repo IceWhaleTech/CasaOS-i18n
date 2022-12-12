@@ -338,5 +338,5 @@
   "Learn more": "További információ",
   "Set Mainstorage": "Főkönyvtár beállítása",
   "Found a New Drive": "Új meghajtó elérhető",
-  "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{div}": "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{div}"
+  "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{div}": "Törlés után az adatokat nem lehet helyreállítani!\n<br/>Folytatod az alkalmazás eltávolítását?<br/>{div}"
 }
