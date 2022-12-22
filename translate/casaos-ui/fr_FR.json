@@ -21,7 +21,7 @@
   "Start": "Démarrer",
   "Connect": "Connecter",
   "This field is required": "Ce champ est requis",
-  "This field must be a valid email": "This field must be a valid email address",
+  "This field must be a valid email": "Ce champ doit être une e-mail valide",
   "This field confirmation does not match": "La confirmation de ce champ ne correspond pas",
   "This field must have 2 options": "Ce champ doit avoir 2 options",
   "This field must have more than 5 characters": "This field must have 5 or more characters",
