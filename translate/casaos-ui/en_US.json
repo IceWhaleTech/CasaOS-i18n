@@ -87,7 +87,7 @@
   "Smarten up your home": "Smarten up your home",
   "We want to give you a smart home experience with privacy, high speed, and localized storage.": "We want to give you a smart home experience with privacy, high speed on your own storage.",
   "In development": "Stay tuned",
-  "Apps": "Apps",
+  "Apps": "App",
   "App": "App",
   "Open": "Open",
   "Setting": "Settings",
@@ -324,7 +324,7 @@
   "Connecting": "Connecting",
   "Open in Files": "Open in Files",
   "Learn more": "Learn more",
-  "Set Mainstorage": "Set MainStorage",
+  "Set Mainstorage": "Set Merge storage",
   "Found a new drive": "Found a new drive",
-  "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{divS}Delete userdata ( config folder ){divE}": "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{divS}Delete userdata ( config folder ){divE}"
+  "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{divS}Delete userdata ( config folder ){divE}": "Data cannot be recovered after deletion! <br/>Continue on to uninstall this app?<br/>{divS}Delete userdata ( config folder ){divE}"
 }
