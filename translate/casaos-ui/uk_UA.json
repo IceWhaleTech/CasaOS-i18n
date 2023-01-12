@@ -49,7 +49,7 @@
   "Dashboard Setting": "Налаштування панелі",
   "Search Engine": "Пошукова система",
   "WebUI Port": "Порт WebUI",
-  "Currently at the latest version": "Currently at the latest version",
+  "Currently at the latest version": "Поточна версія найновіша",
   "A new version is available!": "Доступна нова версія!",
   "Edit Web UI port": "Змінити порт WebUI",
   "Automount USB Drive": "Автоматично монтувати USB диски",
@@ -224,7 +224,7 @@
   "Don't Save": "Не зберігати",
   "Drop your files here to upload": "Перетягніть файли сюди для завантаження",
   "or": "або",
-  "File name": "Name",
+  "File name": "Назва",
   "Date Modified": "Дата останньої зміни",
   "Size": "Розмір",
   "Play in IINA": "Відтворити в IINA",
@@ -337,8 +337,8 @@
   "This operation may clear all personal data and destroy the installed APPs.": "Ця операція може очистити всі особисті дані та знищити встановлені програми.",
   "Warning": "Попередження",
   "Click here": "Натисніть тут",
-  "Installing app": "Installing app",
-  "Installation completed": "Installation completed",
-  "Starting installation": "Starting installation",
-  "New": "New"
+  "Installing app": "Встановлені програми",
+  "Installation completed": "Встановлення завершено",
+  "Starting installation": "Початок встановлення",
+  "New": "Створити"
 }
