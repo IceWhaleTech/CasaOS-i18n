@@ -49,7 +49,7 @@
   "Dashboard Setting": "Configurações do Dashboard",
   "Search Engine": "Mecanismo de pesquisa",
   "WebUI Port": "Porta WebUI",
-  "Currently the latest version": "Atualmente na última versão",
+  "Currently at the latest version": "Currently at the latest version",
   "A new version is available!": "Uma nova versão está disponível!",
   "Edit Web UI port": "Editar a porta da WebUI",
   "Automount USB Drive": "Auto montar unidade USB",
@@ -224,6 +224,7 @@
   "Don't Save": "Não salvar",
   "Drop your files here to upload": "Solte seus arquivos aqui para fazer o upload",
   "or": "ou",
+  "File name": "Name",
   "Date Modified": "Data modificada",
   "Size": "Tamanho",
   "Play in IINA": "Jogar no IINA",
@@ -331,10 +332,13 @@
   "Clone": "Duplicar",
   "All the checked Storage will be merged into CasaOS HD.": "Todo armazenamento selecionado será mesclado no CasaOS HD.",
   "* This feature is now testing and verifying, enabling it may clear personal data and destroy the installed APPs, so it is recommended to use it only during the startup.": "* Este recurso está agora em teste e verificação, habilitando-o pode limpar dados pessoais e destruir os aplicativos instalados, por isso é recomendável usá-lo apenas durante a inicialização.",
-  "NEW": "NOVO",
   "Preparing for launch": "Preparando-se para o início",
   "to open the app. If it does not work, please restart or try again later.": "para abrir o aplicativo. Se não funcionar, reinicie ou tente novamente mais tarde.",
   "This operation may clear all personal data and destroy the installed APPs.": "Esta operação pode limpar todos os dados pessoais e destruir os aplicativos instalados.",
   "Warning": "Aviso",
-  "Click here": "Clique aqui"
+  "Click here": "Clique aqui",
+  "Installing app": "Installing app",
+  "Installation completed": "Installation completed",
+  "Starting installation": "Starting installation",
+  "New": "New"
 }
