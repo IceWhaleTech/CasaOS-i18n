@@ -329,7 +329,7 @@
   "Found a new drive": "Új meghajtó elérhető",
   "Data cannot be recovered after deletion! <br/>Continue on to uninstall this application?<br/>{divS}Delete userdata ( config folder ){divE}": "Törlés után az adatokat nem lehet helyreállítani! <br/>Folytatod az alkalmazás eltávolítását?<br/>{divS}Felhasználói adatok törlése ( config folder ){divE}",
   "Beta": "Béta",
-  "Clone": "Klónozás",
+  "Clone": "Megkettőzés",
   "All the checked Storage will be merged into CasaOS HD.": "Minden ellenőrzött tároló a CasaOS meghajtó részét fogja képezni.",
   "* This feature is now testing and verifying, enabling it may clear personal data and destroy the installed APPs, so it is recommended to use it only during the startup.": "* Ez a funkció jelenleg tesztelés és ellenőrzés alatt áll, engedélyezése törölheti a személyes adatokat és megsemmisítheti a telepített alkalmazásokat, ezért csak indításkor ajánlott használni.",
   "Preparing for launch": "Felkészülés az indulásra",
