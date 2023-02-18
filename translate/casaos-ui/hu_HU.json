@@ -340,5 +340,19 @@
   "Installing app": "Alkalmazás telepítése",
   "Installation completed": "Telepítés befejezve",
   "Starting installation": "Telepítés megkezdése",
-  "New": "Új"
+  "New": "Új",
+  "NEW": "NEW",
+  "Check then update": "Check then update",
+  "At least one extra hard drive is needed for this feature.": "At least one extra hard drive is needed for this feature.",
+  "APP may not be available": "App may not be available",
+  "Please": "Please",
+  "{appName} is the latest version!": "{appName} is the latest version!",
+  "{name} has been updated to the latest version!": "{name} has been updated to the latest version!",
+  "Unable to update at the moment!": "Unable to update at the moment!",
+  "Updating": "Updating",
+  "Uninstalling": "Uninstalling",
+  "CheckThenUpdate": "Check then update",
+  "Not compatible with {arch} devices.": "Not compatible with {arch} devices.",
+  "Connect Dropbox": "Connect Dropbox",
+  "Connect GoogleDrive": "Connect GoogleDrive"
 }
