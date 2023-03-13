@@ -341,11 +341,11 @@
   "Installation completed": "اكتمل التثبيت",
   "Starting installation": "يتم الآن البدء في التثبيت",
   "New": "جديد",
-  "NEW": "NEW",
+  "NEW": "جديد",
   "Check then update": "Check then update",
-  "At least one extra hard drive is needed for this feature.": "At least one extra hard drive is needed for this feature.",
-  "APP may not be available": "App may not be available",
-  "Please": "Please",
+  "At least one extra hard drive is needed for this feature.": "تحتاج هذه الميزة إلى محرك قرص صلب إضافي واحد على الأقل.",
+  "APP may not be available": "قد لا يكون التطبيق متاحاً",
+  "Please": "الرجاء",
   "{appName} is the latest version!": "{appName} is the latest version!",
   "{name} has been updated to the latest version!": "{name} has been updated to the latest version!",
   "Unable to update at the moment!": "Unable to update at the moment!",
@@ -354,5 +354,5 @@
   "CheckThenUpdate": "Check then update",
   "Not compatible with {arch} devices.": "Not compatible with {arch} devices.",
   "Connect Dropbox": "Connect Dropbox",
-  "Connect GoogleDrive": "Connect GoogleDrive"
+  "Connect GoogleDrive": "ربط Google Drive"
 }
