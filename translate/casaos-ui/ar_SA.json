@@ -346,13 +346,13 @@
   "At least one extra hard drive is needed for this feature.": "تحتاج هذه الميزة إلى محرك قرص صلب إضافي واحد على الأقل.",
   "APP may not be available": "قد لا يكون التطبيق متاحاً",
   "Please": "الرجاء",
-  "{appName} is the latest version!": "{appName} is the latest version!",
+  "{appName} is the latest version!": "{appName} هو أحدث إصدار!",
   "{name} has been updated to the latest version!": "{name} has been updated to the latest version!",
-  "Unable to update at the moment!": "Unable to update at the moment!",
-  "Updating": "Updating",
-  "Uninstalling": "Uninstalling",
+  "Unable to update at the moment!": "غير قادر على التحديث في الوقت الحالي!",
+  "Updating": "جاري التحديث",
+  "Uninstalling": "جاري إلغاء التثبيت",
   "CheckThenUpdate": "Check then update",
   "Not compatible with {arch} devices.": "Not compatible with {arch} devices.",
-  "Connect Dropbox": "Connect Dropbox",
+  "Connect Dropbox": "ربط Dropbox",
   "Connect GoogleDrive": "ربط Google Drive"
 }
