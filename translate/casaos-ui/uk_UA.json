@@ -342,7 +342,7 @@
   "Starting installation": "Початок встановлення",
   "New": "Новий",
   "NEW": "НОВЕ",
-  "Check then update": "Check then update",
+  "Check then update": "Оновити контейнер",
   "At least one extra hard drive is needed for this feature.": "Принаймні один додатковий диск потрібен для цієї функції.",
   "APP may not be available": "Додаток може бути не доступним",
   "Please": "Буди ласка",
@@ -351,7 +351,7 @@
   "Unable to update at the moment!": "Неможливо оновити зараз!",
   "Updating": "Оновлюємо",
   "Uninstalling": "Видаляємо",
-  "CheckThenUpdate": "Check then update",
+  "CheckThenUpdate": "Оновити контейнер",
   "Not compatible with {arch} devices.": "Не сумісно з {arch} пристроями.",
   "Connect Dropbox": "Підключити Dropbox",
   "Connect GoogleDrive": "Підключити Google Drive"
