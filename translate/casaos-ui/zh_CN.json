@@ -361,12 +361,12 @@
   "{num} files being sent": "正在发送 {num} 个文件",
   "Receiving {num} files": "正在接收 {num} 个文件",
   "Local Area Network Access": "局域网访问",
-  "Access the following address with another device": "Access the following address with another device",
-  "Drop files to another device anytime, anywhere": "Drop files to another device anytime, anywhere",
-  "Sending files": "Sending files",
-  "Cancel sending": "Cancel sending",
-  "Ignore": "Ignore",
-  "File transfer completed.": "File transfer completed.",
-  "Save {name} {size} from {device}.": "Save {name} {size} from {device}.",
-  "Connection lost. Retry in 5 seconds...": "Connection lost. Retry in 5 seconds..."
+  "Access the following address with another device": "使用另一个设备访问以下地址",
+  "Drop files to another device anytime, anywhere": "随时随地向另一个设备丢送文件",
+  "Sending files": "发送文件",
+  "Cancel sending": "取消发送",
+  "Ignore": "忽略",
+  "File transfer completed.": "文件传输完成。",
+  "Save {name} {size} from {device}.": "保存来自于 {device} 的 {name} {size} 。",
+  "Connection lost. Retry in 5 seconds...": "连接丢失。5秒后重试..."
 }
