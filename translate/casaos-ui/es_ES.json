@@ -362,11 +362,11 @@
   "Receiving {num} files": "Recibiendo {num} archivos",
   "Local Area Network Access": "Acceso a Red de Área Local",
   "Access the following address with another device": "Accede a la siguiente dirección con otro dispositivo",
-  "Drop files to another device anytime, anywhere": "Drop files to another device anytime, anywhere",
-  "Sending files": "Sending files",
-  "Cancel sending": "Cancel sending",
-  "Ignore": "Ignore",
-  "File transfer completed.": "File transfer completed.",
-  "Save {name} {size} from {device}.": "Save {name} {size} from {device}.",
-  "Connection lost. Retry in 5 seconds...": "Connection lost. Retry in 5 seconds..."
+  "Drop files to another device anytime, anywhere": "Soltar archivos a otro dispositivo en cualquier momento, en cualquier lugar",
+  "Sending files": "Enviando archivos",
+  "Cancel sending": "Cancelar envío",
+  "Ignore": "Ignorar",
+  "File transfer completed.": "Transferencia de archivos completada.",
+  "Save {name} {size} from {device}.": "Guardar {name} {size} de {device}.",
+  "Connection lost. Retry in 5 seconds...": "Conexión perdida. Vuelve a intentarlo en 5 segundos..."
 }
