@@ -31,3 +31,4 @@ Copy en_us.json (back-end) to a new file named de_de.json (back-end). Then updat
 | Русский | 80% | [ImOstrovskiy](https://github.com/ImOstrovskiy) |
 | Polska | 90% | [sgastol](https://github.com/sgastol) |
 | Português (Brasil) | 90% | [delki8](https://github.com/delki8) |
+| Nederlands | 100% | [laurens-vrh](https://github.com/laurens-vrh) |
