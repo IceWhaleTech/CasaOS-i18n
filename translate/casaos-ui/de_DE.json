@@ -162,7 +162,7 @@
   "Notice: If there are multiple services, only the first set can be analyzed correctly": "When there are more than 1 containers specified in the Docker compose file, only the first one will be imported for now.",
   "There was an error loading the data, please try again!": "There was an error when loading App Store list. Please try again.",
   "Port": "Port",
-  "Create Storage": "Create storage",
+  "Create Storage": "Erstelle ein Speicher",
   "Storage Manager": "Storage manager",
   "Storage": "Speicher",
   "Drive": "Laufwerk",
