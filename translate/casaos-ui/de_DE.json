@@ -102,7 +102,7 @@
   "App name": "App-Name",
   "Icon URL": "Icon-URL",
   "Network": "Netzwerk",
-  "Privileged": "Privilegiert",
+  "Privileged": "Erhöhte Berechtigung",
   "Container Command": "Container-Kommando",
   "Container Capabilities (cap-add)": "Container-Fähigkeiten (cap-add)",
   "Container Hostname": "Container-Hostname",
