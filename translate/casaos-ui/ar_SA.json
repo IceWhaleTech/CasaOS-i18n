@@ -124,9 +124,9 @@
   "Your custom App Name": "اسم تطبيقك المخصص",
   "Your custom icon URL": "رابط الأيقونة المخصصة",
   "Installing": "جاري التثبيت",
-  "Export AppFile": "تصدير ملف التطبيق",
+  "Export ComposeFile": "Export ComposeFile",
   "AppFile": "ملف التطبيق",
-  "Drop your app file here or click to upload": "إسقاط ملف التطبيق الخاص بك هنا أو انقر لرفع الملف",
+  "Drop your Docker Compose file here or click to upload": "Drop your Docker Compose here or click to upload",
   "Host": "المضيف",
   "Container": "حاوية",
   "Key": "مفتاح الكود",
@@ -368,5 +368,12 @@
   "Ignore": "تجاهل",
   "File transfer completed.": "اكتملت عملية نقل الملفات.",
   "Save {name} {size} from {device}.": "حفظ {name} {size} من {device}.",
-  "Connection lost. Retry in 5 seconds...": "فقد الاتصال. أعد المحاولة خلال 5 ثوان..."
+  "Connection lost. Retry in 5 seconds...": "فقد الاتصال. أعد المحاولة خلال 5 ثوان...",
+  "cli to compose...": "cli to compose...",
+  "View tutorial": "View tutorial",
+  "Add Source": "Add Source",
+  "Search an app...": "Search an app...",
+  "Tips": "Tips",
+  "Export as Compose": "Export as Compose",
+  "Something to remember eg. password": "Something to remember eg. password"
 }
