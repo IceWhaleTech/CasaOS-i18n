@@ -124,9 +124,9 @@
   "Your custom App Name": "Egyéni alkalmazás név",
   "Your custom icon URL": "Egyéni ikon URL",
   "Installing": "Telepítés",
-  "Export AppFile": "Alkalmazásfájl exportálása",
+  "Export ComposeFile": "Export ComposeFile",
   "AppFile": "Alkalmazásfájl",
-  "Drop your app file here or click to upload": "Húzd ide az alkalmazásfájlt, vagy kattints a feltöltésre",
+  "Drop your Docker Compose file here or click to upload": "Drop your Docker Compose here or click to upload",
   "Host": "Hoszt",
   "Container": "Tároló",
   "Key": "Kulcs",
@@ -368,5 +368,12 @@
   "Ignore": "Figyelmen kívül hagyás",
   "File transfer completed.": "A fájlátvitel befejeződött.",
   "Save {name} {size} from {device}.": "{name} {size} mentése innen: {device}",
-  "Connection lost. Retry in 5 seconds...": "A kapcsolat megszakadt. Újrapróbálkozás 5 másodperc múlva..."
+  "Connection lost. Retry in 5 seconds...": "A kapcsolat megszakadt. Újrapróbálkozás 5 másodperc múlva...",
+  "cli to compose...": "cli to compose...",
+  "View tutorial": "View tutorial",
+  "Add Source": "Add Source",
+  "Search an app...": "Search an app...",
+  "Tips": "Tips",
+  "Export as Compose": "Export as Compose",
+  "Something to remember eg. password": "Something to remember eg. password"
 }
