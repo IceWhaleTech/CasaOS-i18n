@@ -124,9 +124,9 @@
   "Your custom App Name": "Je aangepaste appnaam",
   "Your custom icon URL": "Je aangepaste icoon-URL",
   "Installing": "Aan het installeren",
-  "Export AppFile": "Exporteer AppFile",
+  "Export ComposeFile": "Export ComposeFile",
   "AppFile": "AppFile",
-  "Drop your app file here or click to upload": "Sleep je AppFile hierheen of klik om te uploaden",
+  "Drop your Docker Compose file here or click to upload": "Drop your Docker Compose here or click to upload",
   "Host": "Host",
   "Container": "Container",
   "Key": "Sleutel",
@@ -368,5 +368,12 @@
   "Ignore": "Negeren",
   "File transfer completed.": "Bestandsoverdracht voltooid.",
   "Save {name} {size} from {device}.": "Bespaar {name} {size} van {device}.",
-  "Connection lost. Retry in 5 seconds...": "Verbinding verbroken. Probeer het opnieuw in 5 seconden..."
+  "Connection lost. Retry in 5 seconds...": "Verbinding verbroken. Probeer het opnieuw in 5 seconden...",
+  "cli to compose...": "cli to compose...",
+  "View tutorial": "View tutorial",
+  "Add Source": "Add Source",
+  "Search an app...": "Search an app...",
+  "Tips": "Tips",
+  "Export as Compose": "Export as Compose",
+  "Something to remember eg. password": "Something to remember eg. password"
 }
