@@ -124,9 +124,9 @@
   "Your custom App Name": "您的自定义应用名称",
   "Your custom icon URL": "自定义图标路径",
   "Installing": "正在安装",
-  "Export AppFile": "导出AppFile",
+  "Export ComposeFile": "Export ComposeFile",
   "AppFile": "AppFile",
-  "Drop your app file here or click to upload": "将你的AppFile拖放到此处或点击上传",
+  "Drop your Docker Compose file here or click to upload": "Drop your Docker Compose here or click to upload",
   "Host": "主机",
   "Container": "容器",
   "Key": "键",
@@ -368,5 +368,12 @@
   "Ignore": "忽略",
   "File transfer completed.": "文件传输完成。",
   "Save {name} {size} from {device}.": "保存来自于 {device} 的 {name} {size} 。",
-  "Connection lost. Retry in 5 seconds...": "连接丢失。5秒后重试..."
+  "Connection lost. Retry in 5 seconds...": "连接丢失。5秒后重试...",
+  "cli to compose...": "cli to compose...",
+  "View tutorial": "View tutorial",
+  "Add Source": "Add Source",
+  "Search an app...": "Search an app...",
+  "Tips": "Tips",
+  "Export as Compose": "Export as Compose",
+  "Something to remember eg. password": "Something to remember eg. password"
 }
