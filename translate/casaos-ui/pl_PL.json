@@ -124,9 +124,9 @@
   "Your custom App Name": "Twoja nazwa aplikacji",
   "Your custom icon URL": "Twój adres URL ikony",
   "Installing": "Instalacja",
-  "Export AppFile": "Eksportuj plik AppFile",
+  "Export ComposeFile": "Export ComposeFile",
   "AppFile": "PlikiApp",
-  "Drop your app file here or click to upload": "Upuść plik aplikacji tutaj lub kliknij, aby przesłać",
+  "Drop your Docker Compose file here or click to upload": "Drop your Docker Compose here or click to upload",
   "Host": "Host",
   "Container": "Kontener",
   "Key": "Klucz",
@@ -368,5 +368,12 @@
   "Ignore": "Ignoruj",
   "File transfer completed.": "Transfer plików zakończony.",
   "Save {name} {size} from {device}.": "Zapisz {name} {size} z {device}.",
-  "Connection lost. Retry in 5 seconds...": "Połączenie zostało utracone. Ponów próbę za 5 sekund..."
+  "Connection lost. Retry in 5 seconds...": "Połączenie zostało utracone. Ponów próbę za 5 sekund...",
+  "cli to compose...": "cli to compose...",
+  "View tutorial": "View tutorial",
+  "Add Source": "Add Source",
+  "Search an app...": "Search an app...",
+  "Tips": "Tips",
+  "Export as Compose": "Export as Compose",
+  "Something to remember eg. password": "Something to remember eg. password"
 }
