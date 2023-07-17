@@ -124,9 +124,9 @@
   "Your custom App Name": "Ваше ім'я програми",
   "Your custom icon URL": "Ваш URL іконки",
   "Installing": "Встановлення",
-  "Export AppFile": "Експорт AppFile",
+  "Export ComposeFile": "Export ComposeFile",
   "AppFile": "AppFile",
-  "Drop your app file here or click to upload": "Перетягніть AppFile сюди або натисніть тут, щоб завантажити",
+  "Drop your Docker Compose file here or click to upload": "Drop your Docker Compose here or click to upload",
   "Host": "Хост",
   "Container": "Контейнер",
   "Key": "Ключ",
@@ -368,5 +368,12 @@
   "Ignore": "Ігнорувати",
   "File transfer completed.": "Передачу файлів завершено.",
   "Save {name} {size} from {device}.": "Зберегти {name} {size} з {device}.",
-  "Connection lost. Retry in 5 seconds...": "Підключення розірвано. Повторна спроба через 5 секунд..."
+  "Connection lost. Retry in 5 seconds...": "Підключення розірвано. Повторна спроба через 5 секунд...",
+  "cli to compose...": "cli to compose...",
+  "View tutorial": "View tutorial",
+  "Add Source": "Add Source",
+  "Search an app...": "Search an app...",
+  "Tips": "Tips",
+  "Export as Compose": "Export as Compose",
+  "Something to remember eg. password": "Something to remember eg. password"
 }
