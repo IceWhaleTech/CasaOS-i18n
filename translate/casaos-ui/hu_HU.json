@@ -126,6 +126,7 @@
   "Installing": "Telepítés",
   "Export ComposeFile": "Export ComposeFile",
   "AppFile": "Alkalmazásfájl",
+  "Drop your Docker Compose here or click to upload": "Drop your Docker Compose here or click to upload",
   "Drop your Docker Compose file here or click to upload": "Drop your Docker Compose here or click to upload",
   "Host": "Hoszt",
   "Container": "Tároló",
