@@ -126,6 +126,7 @@
   "Installing": "Instalando",
   "Export ComposeFile": "Exportar archivo Compose",
   "AppFile": "AppFile",
+  "Drop your Docker Compose here or click to upload": "Drop your Docker Compose here or click to upload",
   "Drop your Docker Compose file here or click to upload": "Drop your Docker Compose here or click to upload",
   "Host": "Anfitrión",
   "Container": "Contenedor",
