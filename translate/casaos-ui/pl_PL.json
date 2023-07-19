@@ -126,6 +126,7 @@
   "Installing": "Instalacja",
   "Export ComposeFile": "Export ComposeFile",
   "AppFile": "PlikiApp",
+  "Drop your Docker Compose here or click to upload": "Drop your Docker Compose here or click to upload",
   "Drop your Docker Compose file here or click to upload": "Drop your Docker Compose here or click to upload",
   "Host": "Host",
   "Container": "Kontener",
