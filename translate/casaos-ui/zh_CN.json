@@ -402,5 +402,6 @@
   "All the checked Storage will be merged into {CasaOS} HD.": "所有选中的存储都将合并到 {CasaOS} HD。",
   "Rebuilding": "重建中",
   "{title} rebulid completed": "{title} rebulid completed",
-  "Rebulid error": "重建错误"
+  "Rebulid error": "重建错误",
+  "Installing {title}": "Installing {title}"
 }
