@@ -401,6 +401,7 @@
   "Changing internal files may break the structure of the {CasaOS} HD": "Alterar os ficheiros internos podem danificar a estrutura do {CasaOS} HD.",
   "All the checked Storage will be merged into {CasaOS} HD.": "Todos os armazenamentos selecionados serão combinados no {CasaOS} HD.",
   "Rebuilding": "Reconstruindo",
+  "Rebuild": "Rebuild",
   "{title} rebulid completed": "{title} reconstrução completa",
   "Rebulid error": "Erro na reconstrução",
   "Installing {title}": "Instalando {title}",
