@@ -401,6 +401,7 @@
   "Changing internal files may break the structure of the {CasaOS} HD": "Зміна внутрішніх файлів може зламати {CasaOS} HD.",
   "All the checked Storage will be merged into {CasaOS} HD.": "Всі вибрані сховища будуть об'єднані в {CasaOS} HD.",
   "Rebuilding": "Виконується повторна збірка",
+  "Rebuild": "Rebuild",
   "{title} rebulid completed": "{title} перезібрано успішно",
   "Rebulid error": "Помилка повторної збірки",
   "Installing {title}": "Встановлення {title}",
