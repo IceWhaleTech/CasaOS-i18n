@@ -401,7 +401,7 @@
   "Changing internal files may break the structure of the {CasaOS} HD": "A rendszerfájlok módosítása a {CasaOS} meghajtójának meghibásodását eredményezheti.",
   "All the checked Storage will be merged into {CasaOS} HD.": "Minden ellenőrzött tároló a {CasaOS} meghajtó részét fogja képezni.",
   "Rebuilding": "Újraépítés",
-  "Rebuild": "Rebuild",
+  "Rebuild": "Újraépítés",
   "{title} rebulid completed": "{title} újraépítése sikeres",
   "Rebulid error": "Újraépítési hiba",
   "Installing {title}": "{title} telepítése",
