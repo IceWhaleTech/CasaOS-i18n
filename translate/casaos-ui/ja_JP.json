@@ -313,7 +313,7 @@
   "Show other Docker container app(s)": "他のコンテナを表示",
   "Show news feed from CasaOS Blog": "CasaOSブログからのニュースフィードを表示",
   "CasaOS dashboard will get the the latest news feed of https://blog.casaos.io via Internet, which might leave your visit records to the site. Do you accept?": "CasaOSダッシュボードは、インターネット経由でhttps://blog.casaos.ioの最新ニュースフィードを取得します。サイトに訪問記録が残る可能性があります。同意しますか?",
-  "Feedback / Issue Report": "フィードバック / 問題報告",
+  "Feedback / Issue Report": "フィードバック / 問題を報告",
   "Start with [Issue], [App Request], or [Feature Request]...": "[Issue]、[App Request]、または [Feature Request] から開始しましょう...",
   "Description": "説明",
   "The more details provided, the easier this feedback or issue gets addressed.": "より多くの詳細が提供されれば、より簡単にフィードバックや問題に対処できます。",
