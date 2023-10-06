@@ -180,7 +180,7 @@
   "Enter the password to continue:": "Digite sua palavra-passe para confirmar:",
   "Used": "Utilizado",
   "CasaOS reserves 1% of file space when creating storage in EXT4 format.": "O CasaOS separa 1% do espaço do disco quando cria o armazenamento no formato EXT4.",
-  "The selected drive will be emptied.": "O unidade selecionada será esvaziada.",
+  "The selected drive will be emptied.": "A unidade selecionada será esvaziada.",
   "Please make sure again that there is no important data on the selected drive that needs to be backed up.": "Verifique novamente se não há informações importantes na unidade selecionada que precisem ser guardadas.",
   "The drive you select can be used directly as storage.": "A unidade que selecionou pode ser utilizada diretamente como armazenamento.",
   "You can also choose to create it after formatting. If formatted, the selected drive will be emptied.": "Também pode optar por criar após a formatação. Uma vez formatado, a unidade selecionada será esvaziado.",
