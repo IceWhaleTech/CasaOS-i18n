@@ -1,0 +1,150 @@
+{
+  "2FAuth": {
+    "tagline": "Aplikacja webowa do zarządzania Uwierzytelnieniami Dwuskładnikowymi (2FA) i generowania kodów bezpieczeństwa",
+    "overview": "2FAuth to internetowa, samoobsługowa alternatywa dla generatorów Haseł Jednorazowych (OTP), takich jak Google Authenticator, przeznaczonych."
+  },
+  "AdGuard Home": {
+    "tagline": "Serwer DNS blokujący reklamy i trackery w całej sieci ",
+    "overview": "AdGuard Home to sieciowe oprogramowanie do blokowania reklam i śledzenia. Po skonfigurowaniu go, obejmie ono wszystkie Twoje urządzenia domowe, a Ty nie będziesz potrzebował do tego żadnego oprogramowania po stronie klienta. Dowiedz się więcej na naszym oficjalnym repozytorium Github."
+  },
+  "AllTube Download": {
+    "tagline": "Interfejs webowy dla youtube-dl",
+    "overview": "Łatwe pobieranie filmów z serwisów YouTube, Dailymotion, Vimeo i innych."
+  },
+  "Bazarr": {
+    "tagline": "Generatory wiadomości dla Sonarr i Radarr",
+    "overview": "Bazarr to aplikacja uzupełniająca do Sonarr i Radarr. Może ona zarządzać i pobierać napisy w oparciu o Twoje wymagania. Określasz swoje preferencje według programu telewizyjnego lub filmu, a Bazarr zajmie się wszystkim za Ciebie."
+  },
+  "Calibre-web": {
+    "tagline": "Aplikacja webowa do przeglądania, czytania i pobierania eBooków znajdujących się w bazie danych Calibre",
+    "overview": "Calibre-web to aplikacja webowa zapewniająca prosty interfejs do przeglądania, czytania i pobierania ebooków przy wykorzystaniu aktualnej bazy danych Calibre. Możliwe jest również zintegrowanie dysku google i edytowanie metadanych i twojej biblioteki Calibre poprzez tę aplikację."
+  },
+  "Deluge": {
+    "tagline": "Niewielki i darmowy klient sieci BitTorrent.",
+    "overview": "Deluge zawiera funkcje typowe dla klientów BitTorrent, takie jak szyfrowanie protokołu, DHT, Local Peer Discovery (LSD), Peer Exchange (PEX), UPnP, NAT-PMP, obsługę proxy, Web seeds, globalne i per-torrentowe ograniczenia prędkości. Ponieważ Deluge w dużym stopniu korzysta z biblioteki libtorrent, posiada obszerną listę oferowanych funkcji."
+  },
+  "Duplicati": {
+    "tagline": "Przechowuj w chmurze szyfrowane kopie zapasowe w bezpieczny sposób!",
+    "overview": "Duplicati to darmowy, open source, klient kopii zapasowych, który bezpiecznie przechowuje zaszyfrowane, przyrostowe, skompresowane kopie zapasowe w serwisach chmurowych i na zdalnych serwerach plików."
+  },
+  "Emby": {
+    "tagline": "ZABIERZ SWOJE MULTIMEDIA W DOWOLNE MIEJSCE DZIĘKI EMBY",
+    "overview": "Przechowywanie wszystkich domowych filmów, muzyki i zdjęć w jednym miejscu nigdy nie było łatwiejsze. Twój własny serwer Emby automatycznie konwertuje i strumieniuje Twoje multimedia w locie, aby odtworzyć je na dowolnym urządzeniu."
+  },
+  "Embystat": {
+    "tagline": "Obliczanie wszelkiego rodzaju statystyk z Twojego (lokalnego) serwera Emby lub Jellyfin",
+    "overview": "EmbyStat to osobisty serwer internetowy, który może obliczać wszystkie rodzaje statystyk z Twojego (lokalnego) Emby lub serwera Jellyfin. Po prostu zainstaluj to na swoim serwerze i pozwól mu obliczać wszelkie zabawne rzeczy. Ten projekt nadal znajduje się w fazie Alfa, ale możesz wyciągnąć na swoim komputerze i przetestować go. Gdy czas jest w porządku, będę przechowywał pełną stronę internetową/wersję informacyjną dla wspólnych platform i stron Wiki."
+  },
+  "FileBrowser": {
+    "tagline": "Przesyłaj, usuwaj, podglądaj, zmieniaj nazwy, edytuj i udostępniaj swoje pliki.",
+    "overview": "File Browser - Aplikacja Webowa do przeglądania plików, zawierająca funkcje udostępniania itp."
+  },
+  "Grafana": {
+    "tagline": "Grafana to kompletny stos obserwacji, który umożliwia monitorowanie i analizowanie mierników, logów i śladów. Pozwala na zapytanie, wizualizację, ostrzeżenie i zrozumienie Twoich danych bez względu na miejsce ich przechowywania. ",
+    "overview": "Grafana open source to otwarte oprogramowanie do wizualizacji i analizacji.Wizualizacje: szybkie i elastyczne wykresy po stronie klienta z wieloma opcjami. Wtyczki panelu oferują wiele różnych sposobów wizualizacji metryk i logów. Dynamiczne panele: Utwórz dynamiczne i wielokrotne użycie kokpitów menedżerskich ze zmiennymi szablonów, które pojawiają się jako rozwijane w górnej części kokpitu menedżerskiego. Przeglądaj mierniki: Przeglądaj swoje dane poprzez zapytania ad-hoc i dynamiczne wiercenie. Podziel widok i porównaj różne zakresy czasowe, zapytania i źródła danych obok siebie. Przeglądaj dzienniki: Poznaj magię przełączania ze wskaźników na logi z zachowywanymi filtrami etykiet. Szybko przeszukaj wszystkie swoje wpisy lub strumieniuj je na żywo. Ostrzeżenie: Wizualnie definiuj reguły alertu dla Twoich najważniejszych wskaźników. Grafana będzie stale oceniać i wysyłać powiadomienia do takich systemów jak Slack, PagerDuty, VictorOps, OpsGenie. Mieszane źródła danych: Mieszaj różne źródła danych na tym samym wykresie! Możesz określić źródło danych na podstawie zapytania. To działa dla nawet niestandardowych zbiorów danych."
+  },
+  "Home Assistant": {
+    "tagline": "Automatyzacja domu",
+    "overview": "Automatyzacja domu z otwartym źródłem, która stawia na pierwszym miejscu kontrolę i prywatność. Wspierane przez światową społeczność inwentarzy i entuzjastów DIY. Idealne do uruchomienia na serwerze Raspberry Pi lub na serwerze lokalnym."
+  },
+  "Jackett": {
+    "tagline": "Jackett działa jako serwer proxy",
+    "overview": "tłumaczy on zapytania z aplikacji (Sonarr, Radarr, SickRage, CouchPotato, Mylar3, Lidarr, DuckieTV, qBittorrent, Nefarious itp.) na specyficzne dla danego trackera zapytania http, przetwarza odpowiedź html lub json, a następnie wysyła wyniki z powrotem do proszącego oprogramowania. Pozwala to na uzyskanie informacji o ostatnio załadowanych plikach (jak RSS) oraz na przeszukiwanie. Jackett jest pojedynczym repozytorium logiki scrapingu i translation logic - zdejmując ciężar z innych aplikacji."
+  },
+  "Jellyfin": {
+    "tagline": "Zapewnia kontrolę nad mediami.",
+    "overview": "Jellyfin umożliwia zbieranie, zarządzanie i streamowanie twoich mediów. Uruchom serwer Jellyfin w swoim systemie i uzyskaj dostęp do wiodącego bezpłatnego systemu rozrywki, dzwonków i sygnalizatorów."
+  },
+  "Lazylibrarian": {
+    "tagline": "eBook Automatycznie Pobieranie",
+    "overview": "Lazylibrarian jest programem, który śledzi autorów i zbiera metadane dla wszystkich Twoich cyfrowych potrzeb. Używa kombinacji Goodreads Librarything i opcjonalnie GoogleBooks jako źródeł informacji o autorze i książce. Ten pojemnik opiera się na widle DobyTang."
+  },
+  "Lidarr": {
+    "tagline": "Menedżer zbiorów muzycznych dla użytkowników sieci Usenet i BitTorrent",
+    "overview": "Lidarr to menedżer zbiorów muzycznych dla użytkowników sieci Usenet i BitTorrent. Może monitorować wiele kanałów RSS w poszukiwaniu nowych albumów ulubionych artystów i będzie współpracować z klientami i indekserami w celu ich pobrania, posortowania i zmiany nazwy. Można go również skonfigurować tak, aby automatycznie podnosił jakość istniejących w bibliotece plików, gdy dostępny jest format o lepszej jakości."
+  },
+  "Mylar3": {
+    "tagline": "Automatyczny pobieracz komiksów (cbr/cbz)",
+    "overview": "Mylar jest zautomatyzowanym programem do pobierania komiksów (cbr/cbz) do użytku z NZB i torrentami. Mylar pozwala na utworzenie listy obserwowanych seriali, które monitoruje pod kątem różnych rzeczy (nowe problemy, zaktualizowane informacje itp.). Spowoduje to pogrążenie, sortowanie i zmianę nazwy pobranych problemów. Pozwoli również na monitorowanie cotygodniowych list pociągów dla elementów należących do wymienionych szeregów obserwowanych do pobrania, a także możliwość monitorowania i utrzymywania łuków historii."
+  },
+  "Nextcloud": {
+    "tagline": "Platforma produktywności, która zapewnia Ci kontrolę",
+    "overview": "Nextcloud stawia Twoje dane pod kontrolą Twoich palców. Przechowuj dokumenty, kalendarze, kontakty i zdjęcia na serwerze w domu, u jednego z naszych dostawców lub w centrum danych, którym ufasz."
+  },
+  "Node-RED": {
+    "tagline": "Programowanie low-code dla aplikacji sterowanych zdarzeniami",
+    "overview": "Node-RED to narzędzie programistyczne do łączenia urządzeń sprzętowych, API i usług online na nowe i ciekawe sposoby. Dostarcza edytora przeglądarki, który ułatwia połączenie przepływów przy użyciu szerokiego wachlarza węzłów w paletach, które mogą być rozmieszczone w czasie jego uruchomienia za pomocą jednego kliknięcia."
+  },
+  "Nzbget": {
+    "tagline": "Efektywny program do pobierania z sieci Usenet",
+    "overview": "NZBGet może działać na prawie każdym urządzeniu - klasyczny komputer, NAS, odtwarzacz multimediów, odbiornik SAT, router WLAN, itp. Obszar pobierania zapewnia wstępnie skompilowane pliki binarne dla Windows, macOS, Linux (kompatybilne z wieloma procesorami i wariantami platform), FreeBSD i Android. Dla innych platform program może być opracowany ze źródeł."
+  },
+  "Ombi": {
+    "tagline": "Przyjazne narzędzie do żądania mediów, automatycznie synchronizuje się z Twoimi serwerami medialnymi! ",
+    "overview": "Ombi to samohostująca się aplikacja internetowa, która automatycznie daje użytkownikom korzystającym z systemu Plex lub Emby możliwość samodzielnego wnioskowania o materiały! Aplikacja Ombi może być połączona z wieloma narzędziami do nagrywania programów telewizyjnych i filmów, aby zapewnić użytkownikom kompletne rozwiązanie."
+  },
+  "OpenSpeedTest": {
+    "tagline": "HTML5 Test Prędkości Łącza Internetowego.",
+    "overview": "Aplikacja uruchamia Test Prędkości Łącza Internetowego HTML5. Możesz przetestować prędkość pobierania i wysyłania z dowolnego urządzenia w sieci za pomocą przeglądarki internetowej, takiej jak IE10 lub nowszej."
+  },
+  "PhotoPrism": {
+    "tagline": "Przeglądanie, organizowanie i udostępnianie zbiorów zdjęć",
+    "overview": "PhotoPrism® jest aplikacją opartą na AI do przeglądania, organizowania i udostępniania kolekcji zdjęć. Wykorzystuje najnowsze technologie do automatycznego znakowania i wyszukiwania zdjęć, nie wchodząc w twoją drogę. Możesz uruchomić go w domu, na prywatnym serwerze lub w chmurze."
+  },
+  "Pi-hole": {
+    "tagline": "Blokowanie reklam w całej sieci",
+    "overview": "Automatyzacja domu z otwartym źródłem, która stawia na pierwszym miejscu kontrolę i prywatność. Wspierane przez światową społeczność inwentarzy i entuzjastów DIY. Idealne do uruchomienia na serwerze Raspberry Pi lub na serwerze lokalnym."
+  },
+  "Plex": {
+    "tagline": "Dom dla wszystkich twoich zajęć dodatkowych.",
+    "overview": "Plex organizuje wideo, muzykę i zdjęcia z osobistych bibliotek multimedialnych i streamuje je do inteligentnych telewizorów, pól strumieniowych i urządzeń przenośnych. Ten kontener jest zapakowany jako samodzielny Plex Media Server. Zawsze był najwyższym priorytetem. Prostokątne projektowanie i akcje masowe oznaczają szybsze przygotowywanie rzeczy."
+  },
+  "Prowlarr": {
+    "tagline": "Integracja różnych aplikacji typu PVR",
+    "overview": "Prowlarr jest menadżerem indeksatora/proxy zbudowanym na popularnym stacie bazowym *arr .net/reactjs aby zintegrować się z różnymi aplikacjami PVR. Prowlarr wspiera zarządzanie zarówno Torrent Trackers jak i Usenet Indexers. Bezproblemowo integruje się z produktem Lidarr, Mylar3, Radarr, Readarr, i Sonarr oferujący pełne zarządzanie indeksatorami bez wymaganej konfiguracji indeksatora aplikacji (robimy to wszystko)."
+  },
+  "Radarr": {
+    "tagline": "Menedżer zbiorów filmów dla użytkowników sieci Usenet i BitTorrent",
+    "overview": "Radarr to menedżer zbiorów filmów dla użytkowników sieci Usenet i BitTorrent. Może monitorować wiele kanałów RSS w poszukiwaniu nowych filmów i będzie współpracować z klientami i indekserami, aby je pobierać, sortować i zmieniać nazwy. Można go również skonfigurować tak, aby automatycznie podnosił jakość istniejących w bibliotece plików, gdy dostępny jest format o lepszej jakości. Zauważ, że tylko jeden typ danego filmu jest obsługiwany. Jeśli chcesz mieć zarówno wersję 4k, jak i 1080p danego filmu, będziesz potrzebował wielu instancji."
+  },
+  "Readarr": {
+    "tagline": "Menedżer kolekcji książek i audiobooków dla użytkowników sieci Usenet i BitTorrent. ",
+    "overview": "Readarr to menedżer zbiorów ebooków dla użytkowników sieci Usenet i BitTorrent. Może monitorować wiele kanałów RSS w poszukiwaniu nowych książek od ulubionych autorów i będzie współpracować z klientami i indekserami, aby je pobierać, sortować i zmieniać nazwy."
+  },
+  "Sabnzbd": {
+    "tagline": "Darmowy i łatwy czytnik wiadomości",
+    "overview": "SABnzbd jest binarnym czytnikiem wiadomości Open Source napisanym w Pythonie. Jest całkowicie darmowy, łatwy w użyciu i działa praktycznie wszędzie. SABnzbd sprawia, że Usenet jest jak najbardziej prosty i usprawniony poprzez zautomatyzowanie wszystkiego, co możemy. Wszystko, co musisz zrobić, to dodać . zb. SABnzbd przejmuje stąd, gdzie będzie automatycznie pobierany, weryfikowany, naprawiany, wydobywany i wypełniany bez ludzkiej interakcji. SABnzbd oferuje łatwy kreator konfiguracji i posiada narzędzia do samokontroli do weryfikacji konfiguracji."
+  },
+  "Sickchill": {
+    "tagline": "Menedżer automatycznej biblioteki wideo dla seriali telewizyjnych",
+    "overview": "SickChill jest automatycznym menedżerem biblioteki wideo dla seriali telewizyjnych. Ogląda na nowe odcinki twoich ulubionych seriali, a gdy zostaną opublikowane, robi to jego magia: automatyczne wyszukiwanie torrentów / nzb, pobieranie i przetwarzanie na żądanych przez Ciebie cechach."
+  },
+  "Smokeping": {
+    "tagline": "Bezpłatne narzędzie do monitorowania wydajności sieci",
+    "overview": " Śledzi opóźnienia w sieci."
+  },
+  "Sonarr": {
+    "tagline": "Nagrywanie Programów dla użytkowników sieci Usenet i BitTorrent",
+    "overview": "Sonarr to program do Nagrywanie Programów dla użytkowników sieci Usenet i BitTorrent. Może monitorować wiele kanałów RSS w poszukiwaniu nowych odcinków Twoich ulubionych programów i będzie je pobierać, sortować i zmieniać ich nazwy. Można go również skonfigurować tak, aby automatycznie podnosił jakość już pobranych plików, gdy dostępny będzie format o lepszej jakości."
+  },
+  "Syncthing": {
+    "tagline": "Wolne, bezpieczne i rozproszone narzędzie synchronizacji plików.",
+    "overview": "Synchronizacja jest ciągłym programem synchronizacji plików. Synchronizuje pliki pomiędzy dwoma lub większą liczbą komputerów w czasie rzeczywistym, bezpiecznie chronionym przed pyskiem oczu. Twoje dane są same w sobie i zasługujesz na wybór miejsca ich przechowywania, czy jest ona udostępniana osobom trzecim i w jaki sposób jest przekazywana przez Internet."
+  },
+  "Transmission": {
+    "tagline": "Transmission to wieloplatformowy klient BitTorrenta ",
+    "overview": "Transmission jest projektem open source, opartym na wolontariacie. W przeciwieństwie do niektórych klientów BitTorrent, Transmission nie gra z użytkownikami w gry, aby zarobić pieniądze:  Transmission nie dołącza pasków narzędzi, reklam pop-up, reklam flash, narzędzi twitterowych ani niczego innego. Nie wstrzymuje niektórych funkcji dla wersji płatnej. Jego kod źródłowy jest dostępny do wglądu dla każdego. Nie śledzimy naszych użytkowników, a nasza strona i fora nie zawierają reklam ani analiz firm trzecich."
+  },
+  "Unifi-controller": {
+    "tagline": "Oprogramowanie Unifi-controller jest potężnym, bezprzewodowym silnikiem oprogramowania przedsiębiorstwa idealnym do wdrażania klientów o dużej gęstości, wymagającym niskich opóźnień i wysokiej wydajności.",
+    "overview": "Aby Unifi mogło przyjmować inne urządzenia, np. punkt dostępu, konieczna jest zmiana informującego adresu IP. Ponieważ Unifi działa domyślnie wewnątrz Docker, używa adresu IP niedostępnego dla innych urządzeń. Aby zmienić to przejdź do Ustawienia > Ustawienia systemowe > Konfiguracja kontrolera i ustaw nazwę hosta / IP kontrolera na nazwę hosta lub adres IP dostępny dla Twoich urządzeń. Dodatkowo pole wyboru \"Override informuje hosta o nazwie hosta/IP kontrolera, tak aby urządzenia mogły podłączyć się do kontrolera podczas adopcji (urządzenia używają punktu końcowego informującego podczas adopcji)."
+  },
+  "Vaultwarden": {
+    "tagline": "Serwer Bitwarden samodzielnie hostowany",
+    "overview": "Alternatywna implementacja API serwera Bitwarden napisana w Rust i kompatybilna z klientami Bitwarden upstreamu*, idealne do samodzielnego wdrożenia, w którym obsługa oficjalnej usługi o dużym zużyciu zasobów może nie być idealna."
+  },
+  "qBittorrent": {
+    "tagline": "Darmowy downloader BitTorrent",
+    "overview": "Projekt qBittorrent ma na celu zapewnienie alternatywy dla µTorrenta w formie oprogramowania open-source."
+  }
+}
