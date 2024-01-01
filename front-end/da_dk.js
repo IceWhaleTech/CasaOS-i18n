@@ -59,7 +59,7 @@ export default {
 
     // Dashboard Settings
     "Settings": "Indstillinger",
-    "Dashboard Setting": "Dashboard Indstilling",
+    "Dashboard Setting": "Indstillinger for dashboard",
     "Search Engine": "Søgemaskine",
     "WebUI Port": "WebUI Port",
     "Currently the latest version": "I øjeblikket den seneste version",
@@ -79,16 +79,16 @@ export default {
     "Logs": "Logs",
 
     // Widgets
-    "Widgets Settings": "Widgets Settings",
-    "Time": "Time",
-    "Cores": "Cores",
+    "Widgets Settings": "Indstillinger for widgets",
+    "Time": "Tid",
+    "Cores": "Kerner",
     "System Status": "System Status",
-    "Storage Status": "Storage Status",
-    "Network Status": "Network Status",
-    "available of": "{avl} available of {total}",
+    "Storage Status": "Opbevaringsstatus",
+    "Network Status": "Netværk Status",
+    "available of": "{avl} tilgængelig af {total}",
 
     // Search 
-    "Search...": "Search...",
+    "Search...": "Søg...",
 
     // Sync
     "Sync your data": "Sync your data",
