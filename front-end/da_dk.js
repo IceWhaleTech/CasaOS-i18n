@@ -91,14 +91,14 @@ export default {
     "Search...": "Søg...",
 
     // Sync
-    "Sync your data": "Sync your data",
-    "Use Syncthing to sync your files between multiple devices.": "Use Syncthing to sync your files between multiple devices.",
-    "Install": "Install",
-    "Config": "Config",
+    "Sync your data": "Synkroniser dine data",
+    "Use Syncthing to sync your files between multiple devices.": "Brug Syncthing til at synkronisere dine filer mellem flere enheder.",
+    "Install": "Installer",
+    "Config": "Konfig",
     "Total": "Total",
-    "Failed to start, please try again.": "Failed to start, please try again.",
-    "Syncthing is not running, start it?": "Syncthing is not running, start it?",
-    "Starting Syncthing...": "Starting Syncthing...",
+    "Failed to start, please try again.": "Kunne ikke starte. Prøv venligst igen.",
+    "Syncthing is not running, start it?": "Syncthing kører ikke, start det?",
+    "Starting Syncthing...": "Starter Syncthing...",
 
     // Iot
     "Have an idea? Shoot it on Discord!": "Have an idea? Shoot it on Discord!",
