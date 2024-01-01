@@ -214,13 +214,13 @@ export default {
     "Format and Create": "Formater og opret",
 
     // Feedback
-    "Join Discord": "Join Discord",
-    "Visit our Github": "Visit our Github",
-    "Bug report": "Bug report",
-    "Title": "Title",
-    "Describe the bug": "Describe the bug",
-    "A clear and concise description of what the bug is.": "A clear and concise description of what the bug is.",
-    "System infomation": "System infomation",
+    "Join Discord": "Tilmeld dig Discord",
+    "Visit our Github": "Besøg vores Github",
+    "Bug report": "Fejlrapport",
+    "Title": "Titel",
+    "Describe the bug": "Beskriv fejlen",
+    "A clear and concise description of what the bug is.": "En klar og kortfattet beskrivelse af, hvad fejlen er.",
+    "System infomation": "Systeminformation",
 
     // Files
     "Files": "Files",
