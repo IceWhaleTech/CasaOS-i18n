@@ -32,6 +32,8 @@
   "Create Account": "Стварыць уліковы запіс",
   "Username": "Імя карыстальніка",
   "Confirm Password": "Пацвярджэнне пароля",
+  "User does not exist or password is invalid": "Карыстальнік не існуе або няправільны пароль",
+  "Too many login requests": "Занадта шмат запытаў на ўваход",
   "All things done!": "Усё гатова!",
   "Login": "Увайсці",
   "Password error!": "Няправільны пароль!",
@@ -104,6 +106,8 @@
   "Privileged": "Прывілеі",
   "Container Command": "Каманда кантэйнера",
   "Container Capabilities (cap-add)": "Магчымасці кантэйнера (cap-add)",
+  "Container Name": "Назва кантэйнера",
+  "Name of app container": "Назва кантэйнера праграмы",
   "Ports": "Порт",
   "Volumes": "Тамы",
   "Environment Variables": "Пераменныя асяроддзя",
@@ -350,6 +354,8 @@
   "CheckThenUpdate": "Праверыць і абнавіць",
   "Not compatible with {arch} devices.": "Не сумяшчальна з прыладамі {arch}.",
   "Connect Dropbox": "Злучыць з Dropbox",
+  "Connect Google Drive": "Злучыць з Google Drive",
+  "Connect OneDrive": "Злучыць з OneDrive",
   "FilesDrop": "FilesDrop",
   "You are using the device": "Вы карыстаецеся прыладай",
   "Click to send the file to the device.": "Націсніце, каб адправіць файл на прыладу.",
@@ -366,6 +372,7 @@
   "Connection lost. Retry in 5 seconds...": "Злучэнне страчана. Паўтарыце спробу праз 5 секунд...",
   "cli to compose...": "націсніце для стварэння...",
   "View tutorial": "Паказаць інструкцыю",
+  "Add Source": "Больш праграм",
   "More": "Падрабязней",
   "Search an app...": "Пошук...",
   "Tips": "Падказкі",
@@ -398,5 +405,6 @@
   "Rebulid error": "Памылка перазборкі",
   "Installing {title}": "Усталяванне {title}",
   "Legacy app (To be rebuilt).": "Састарэлая праграма (Патрабуецца перазборка).",
-  "To be rebuilt.": "Будзе перасабрана."
+  "To be rebuilt.": "Будзе перасабрана.",
+  "launch-and-open": "Запусціць і адкрыць"
 }
