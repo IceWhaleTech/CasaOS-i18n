@@ -33,6 +33,7 @@
   "Username": "사용자 이름",
   "Confirm Password": "비밀번호 확인",
   "User does not exist or password is invalid": "사용자가 존재하지 않거나 비밀번호가 유효하지 않습니다.",
+  "Too many login requests": "너무 많은 로그인 시도",
   "All things done!": "시작할 준비가 되었습니다!",
   "Login": "로그인",
   "Password error!": "잘못된 비밀번호!",
@@ -105,6 +106,8 @@
   "Privileged": "권한",
   "Container Command": "컨테이너 명령어",
   "Container Capabilities (cap-add)": "컨테이너 캐퍼빌리티 (cap-add)",
+  "Container Name": "컨테이너 이름",
+  "Name of app container": "앱 컨테이너 이름",
   "Ports": "포트",
   "Volumes": "볼륨",
   "Environment Variables": "환경 변수",
@@ -351,6 +354,8 @@
   "CheckThenUpdate": "확인 후 업데이트",
   "Not compatible with {arch} devices.": "{arch} 장치와 호환되지 않음",
   "Connect Dropbox": "Dropbox에 연결",
+  "Connect Google Drive": "Google Drive 연결",
+  "Connect OneDrive": "OneDrive 연결",
   "FilesDrop": "FilesDrop",
   "You are using the device": "장치를 사용중입니다",
   "Click to send the file to the device.": "클릭하여 파일을 장치에 전송하세요.",
@@ -367,6 +372,7 @@
   "Connection lost. Retry in 5 seconds...": "연결 끊김. 5초 후 재시도...",
   "cli to compose...": "Compose를 위한 CLI...",
   "View tutorial": "튜토리얼 보기",
+  "Add Source": "앱 더보기",
   "More": "더 보기",
   "Search an app...": "앱 검색하기...",
   "Tips": "도움말",
@@ -399,5 +405,6 @@
   "Rebulid error": "재구성 오류",
   "Installing {title}": "{title} 설치 중",
   "Legacy app (To be rebuilt).": "레거시 앱 (재구성 필요)",
-  "To be rebuilt.": "재구성 필요."
+  "To be rebuilt.": "재구성 필요.",
+  "launch-and-open": "실행 후 열기"
 }
