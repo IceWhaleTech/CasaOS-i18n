@@ -32,6 +32,7 @@
   "Create Account": "계정 만들기",
   "Username": "사용자 이름",
   "Confirm Password": "비밀번호 확인",
+  "User does not exist or password is invalid": "사용자가 존재하지 않거나 비밀번호가 유효하지 않습니다.",
   "All things done!": "시작할 준비가 되었습니다!",
   "Login": "로그인",
   "Password error!": "잘못된 비밀번호!",
