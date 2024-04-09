@@ -32,6 +32,8 @@
   "Create Account": "Criar conta",
   "Username": "Nome de Usuário",
   "Confirm Password": "Confirmar senha",
+  "User does not exist or password is invalid": "Usuário não existe ou a senha é inválida",
+  "Too many login requests": "Muitas solicitações de login",
   "All things done!": "Estamos prontos para começar!",
   "Login": "Login",
   "Password error!": "Senha inválida!",
@@ -104,6 +106,8 @@
   "Privileged": "Privilégios",
   "Container Command": "Comando no contêiner",
   "Container Capabilities (cap-add)": "Recursos do contêiner (cap-add)",
+  "Container Name": "Nome do Contêiner",
+  "Name of app container": "Nome do contêiner do aplicativo",
   "Ports": "Porta",
   "Volumes": "Volumes",
   "Environment Variables": "Variáveis de Ambiente",
@@ -350,6 +354,8 @@
   "CheckThenUpdate": "Verificar e atualizar",
   "Not compatible with {arch} devices.": "Não compatível com dispositivos {arch}.",
   "Connect Dropbox": "Conectar Dropbox",
+  "Connect Google Drive": "Conectar ao Google Drive",
+  "Connect OneDrive": "Conectar ao OneDrive",
   "FilesDrop": "Soltar arquivo",
   "You are using the device": "Você está usando o dispositivo",
   "Click to send the file to the device.": "Clique para enviar o arquivo ao dispositivo.",
@@ -366,6 +372,7 @@
   "Connection lost. Retry in 5 seconds...": "Conexão perdida. Tente novamente em 5 segundos...",
   "cli to compose...": "cli para compose...",
   "View tutorial": "Ver tutorial",
+  "Add Source": "Mais aplicativos",
   "More": "Mais",
   "Search an app...": "Pesquisar um aplicativo...",
   "Tips": "Dicas",
@@ -398,5 +405,6 @@
   "Rebulid error": "Erro ao recriar",
   "Installing {title}": "Instalando {title}",
   "Legacy app (To be rebuilt).": "Aplicativo legado (a ser reconstruído).",
-  "To be rebuilt.": "A ser reconstruído."
+  "To be rebuilt.": "A ser reconstruído.",
+  "launch-and-open": "Iniciar e abrir"
 }
