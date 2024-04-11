@@ -32,6 +32,8 @@
   "Create Account": "Fiók létrehozása",
   "Username": "Felhasználónév",
   "Confirm Password": "Jelszó megerősítése",
+  "User does not exist or password is invalid": "A felhasználó nem létezik vagy érvénytelen a jelszó",
+  "Too many login requests": "Túl sok bejelentkezési kérelem",
   "All things done!": "Elkészültél!",
   "Login": "Bejelentkezés",
   "Password error!": "Érvénytelen jelszó!",
@@ -104,6 +106,8 @@
   "Privileged": "Jogosultságok",
   "Container Command": "Tároló parancs",
   "Container Capabilities (cap-add)": "Tároló képességek (cap-add)",
+  "Container Name": "Konténer név",
+  "Name of app container": "Alkalmazás tárolójának neve",
   "Ports": "Port",
   "Volumes": "Kötetek",
   "Environment Variables": "Környezeti változók",
@@ -350,6 +354,8 @@
   "CheckThenUpdate": "Ellenőrzés, majd frissítés",
   "Not compatible with {arch} devices.": "Nem kompatibilis a(z) {arch} eszközökkel.",
   "Connect Dropbox": "Dropbox csatlakoztatása",
+  "Connect Google Drive": "Google Drive csatlakoztatása",
+  "Connect OneDrive": "OneDrive csatlakoztatása",
   "FilesDrop": "FilesDrop",
   "You are using the device": "Az eszköz használatban van",
   "Click to send the file to the device.": "Kattints a fájl másik eszközre történő elküldéséhez.",
@@ -366,6 +372,7 @@
   "Connection lost. Retry in 5 seconds...": "A kapcsolat megszakadt. Újrapróbálkozás 5 másodperc múlva...",
   "cli to compose...": "cli átalakítása erre: compose...",
   "View tutorial": "Bemutató megtekintése",
+  "Add Source": "További alkalmazások",
   "More": "Továbbiak",
   "Search an app...": "Alkalmazás keresése...",
   "Tips": "Tippek",
@@ -398,5 +405,6 @@
   "Rebulid error": "Újraépítési hiba",
   "Installing {title}": "{title} telepítése",
   "Legacy app (To be rebuilt).": "Legacy alkalmazás (újraépítendő).",
-  "To be rebuilt.": "Újraépítendő."
+  "To be rebuilt.": "Újraépítendő.",
+  "launch-and-open": "Futtatás és megnyitás"
 }
