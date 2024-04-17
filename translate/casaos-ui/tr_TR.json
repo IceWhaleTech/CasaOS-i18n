@@ -32,6 +32,8 @@
   "Create Account": "Hesap oluştur",
   "Username": "Kullanıcı Adı",
   "Confirm Password": "Şifreyi onayla",
+  "User does not exist or password is invalid": "Kullanıcı yok veya parola geçersiz",
+  "Too many login requests": "Çok fazla giriş isteği",
   "All things done!": "Hazırsınız!",
   "Login": "Giriş yap",
   "Password error!": "Geçersiz şifre!",
@@ -104,6 +106,8 @@
   "Privileged": "Yetkiler",
   "Container Command": "Container Komutu",
   "Container Capabilities (cap-add)": "Container Yetenekleri (cap-add)",
+  "Container Name": "Container Adı",
+  "Name of app container": "Uygulama containerının adı",
   "Ports": "Port",
   "Volumes": "Hacimler",
   "Environment Variables": "Ortam Değişkenleri",
@@ -350,6 +354,8 @@
   "CheckThenUpdate": "Güncellemeleri kontrol et ve yükle",
   "Not compatible with {arch} devices.": "{arch} cihazlar ile uyumlu değil.",
   "Connect Dropbox": "Dropbox'a Bağlan",
+  "Connect Google Drive": "Google Drive'ı Bağlayın",
+  "Connect OneDrive": "OneDrive'ı bağlayın",
   "FilesDrop": "FilesDrop",
   "You are using the device": "Cihazı kullanıyorsunuz",
   "Click to send the file to the device.": "Cihaza belgeyi göndermek için tıklayın.",
@@ -366,6 +372,7 @@
   "Connection lost. Retry in 5 seconds...": "Bağlantı koptu. 5 saniye içinde tekrar denenecek...",
   "cli to compose...": "CLI'dan Compose'a...",
   "View tutorial": "Öğreticiyi Görüntüle",
+  "Add Source": "Daha fazla uygulama",
   "More": "Daha Fazla",
   "Search an app...": "Uygulama ara...",
   "Tips": "İpuçları",
@@ -398,5 +405,6 @@
   "Rebulid error": "Yeniden oluşturma hatası",
   "Installing {title}": "{title} Kuruluyor",
   "Legacy app (To be rebuilt).": "Eski Uygulama (Yeniden Oluşturulması Gerekli).",
-  "To be rebuilt.": "Yeniden oluşturulması gerekli."
+  "To be rebuilt.": "Yeniden oluşturulması gerekli.",
+  "launch-and-open": "Başlat ve aç"
 }
