@@ -22,7 +22,7 @@
   "Connect": "Koble til",
   "This field is required": "Dette feltet er obligatorisk.",
   "This field must be a valid email": "Vennligst oppgi en gyldig e-postadresse.",
-  "This field confirmation does not match": "Dette feltet samsvarer ikke med",
+  "This field confirmation does not match": "Dette feltet samsvarer ikke",
   "This field must have 2 options": "Dette feltet må ha 2 alternativer",
   "This field must have more than 5 characters": "Dette feltet må ha 5 eller flere tegn.",
   "You entered an invalid RFC1123 hostname": "Du har oppgitt en ugyldig tid. Vennligst bruk RFC1123-formatet.",
@@ -107,6 +107,7 @@
   "Container Command": "Container Command",
   "Container Capabilities (cap-add)": "Container Kapabiliteter (cap-add)",
   "Container Name": "Beholdernavn",
+  "Name of app container": "Navn på applikasjonsbeholder",
   "Ports": "Port",
   "Volumes": "Volumer",
   "Environment Variables": "Miljøvariabel",
@@ -353,6 +354,8 @@
   "CheckThenUpdate": "Merk deretter oppdater",
   "Not compatible with {arch} devices.": "Ikke kompatibel med {arch} enhetene.",
   "Connect Dropbox": "Koble til Dropbox",
+  "Connect Google Drive": "Koble til Google Drive",
+  "Connect OneDrive": "Koble til OneDrive",
   "FilesDrop": "FilesDrop",
   "You are using the device": "Du bruker enheten",
   "Click to send the file to the device.": "Klikk for å sende filen til enheten.",
@@ -369,6 +372,7 @@
   "Connection lost. Retry in 5 seconds...": "Forbindelsen ble brutt. Prøv igjen om 5 sekunder...",
   "cli to compose...": "cli to compose...",
   "View tutorial": "Vis opplæringsvideo",
+  "Add Source": "Flere programmer",
   "More": "Mer",
   "Search an app...": "Søk etter en app...",
   "Tips": "Tips",
@@ -401,5 +405,6 @@
   "Rebulid error": "Gjenoppbyggnings feil",
   "Installing {title}": "Installerer {title}",
   "Legacy app (To be rebuilt).": "Eldre applikasjon (for å gjenoppbygges).",
-  "To be rebuilt.": "For å bli gjenoppbygd."
+  "To be rebuilt.": "For å bli gjenoppbygd.",
+  "launch-and-open": "Kjør og åpne"
 }
