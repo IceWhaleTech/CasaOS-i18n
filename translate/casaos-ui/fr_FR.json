@@ -32,6 +32,8 @@
   "Create Account": "Créez un compte",
   "Username": "Nom d'utilisateur",
   "Confirm Password": "Confirmation du mot de passe",
+  "User does not exist or password is invalid": "L'utilisateur n'existe pas ou le mot de passe est invalide",
+  "Too many login requests": "Trop de requêtes de connexion",
   "All things done!": "Tout est prêt !",
   "Login": "Connexion",
   "Password error!": "Mot de passe incorrect !",
@@ -104,6 +106,8 @@
   "Privileged": "Privilégié",
   "Container Command": "Commande du conteneur",
   "Container Capabilities (cap-add)": "Capacités du conteneur (cap-add)",
+  "Container Name": "Nom du conteneur",
+  "Name of app container": "Nom du conteneur de l'application",
   "Ports": "Ports",
   "Volumes": "Volumes",
   "Environment Variables": "Variables d'environnement",
@@ -350,6 +354,8 @@
   "CheckThenUpdate": "Vérifier puis mettre à jour",
   "Not compatible with {arch} devices.": "Non compatible avec les appareils {arch}.",
   "Connect Dropbox": "Connecter Dropbox",
+  "Connect Google Drive": "Connectez Google Drive",
+  "Connect OneDrive": "Connectez Google Drive",
   "FilesDrop": "FilesDrop",
   "You are using the device": "Vous utilisez l'appareil",
   "Click to send the file to the device.": "Cliquez pour envoyer le fichier à l'appareil.",
@@ -366,6 +372,7 @@
   "Connection lost. Retry in 5 seconds...": "Connexion perdue. Nouvelle tentative dans 5 secondes...",
   "cli to compose...": "cli pour composer...",
   "View tutorial": "Voir le tutoriel",
+  "Add Source": "Plus d’apps",
   "More": "Plus",
   "Search an app...": "Rechercher une application...",
   "Tips": "Astuces",
@@ -398,5 +405,6 @@
   "Rebulid error": "Erreur de reconstruction",
   "Installing {title}": "Installation de {title}",
   "Legacy app (To be rebuilt).": "Ancienne app (à reconstruire).",
-  "To be rebuilt.": "À reconstruire."
+  "To be rebuilt.": "À reconstruire.",
+  "launch-and-open": "Lancer et ouvrir"
 }
