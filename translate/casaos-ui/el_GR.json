@@ -32,6 +32,8 @@
   "Create Account": "Δημιουργία λογαριασμού",
   "Username": "Όνομα χρήστη",
   "Confirm Password": "Επιβεβαίωση κωδικού",
+  "User does not exist or password is invalid": "Ο χρήστης δεν υπάρχει ή ο κωδικός πρόσβασης δεν είναι έγκυρος",
+  "Too many login requests": "Πάρα πολλές αιτήσεις σύνδεσης",
   "All things done!": "Είμαστε έτοιμοι!",
   "Login": "Σύνδεση",
   "Password error!": "Άκυρος κωδικός!",
