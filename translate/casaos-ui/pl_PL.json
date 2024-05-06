@@ -32,6 +32,8 @@
   "Create Account": "Utwórz konto",
   "Username": "Nazwa użytkownika",
   "Confirm Password": "Potwierdź hasło",
+  "User does not exist or password is invalid": "Użytkownik nie istnieje lub hasło jest nieprawidłowe",
+  "Too many login requests": "Zbyt wiele żądań logowania",
   "All things done!": "Jesteśmy gotowi!",
   "Login": "Logowanie",
   "Password error!": "Nieprawidłowe hasło!",
@@ -104,6 +106,8 @@
   "Privileged": "Przywileje",
   "Container Command": "Polecenie Kontenera",
   "Container Capabilities (cap-add)": "Możliwości Kontenera (cap-add)",
+  "Container Name": "Nazwa kontenera",
+  "Name of app container": "Nazwa kontenera aplikacji",
   "Ports": "Port",
   "Volumes": "Woluminy",
   "Environment Variables": "Zmienne Środowiskowe",
@@ -350,6 +354,8 @@
   "CheckThenUpdate": "Sprawdź potem aktualizuj",
   "Not compatible with {arch} devices.": "Niekompatybilne z urządzeniami {arch}.",
   "Connect Dropbox": "Połącz z Dropbox",
+  "Connect Google Drive": "Połącz z Google Drive",
+  "Connect OneDrive": "Połącz z OneDrive",
   "FilesDrop": "FilesDrop",
   "You are using the device": "Używasz tego urządzenia",
   "Click to send the file to the device.": "Kliknij, aby przesłać plik do urządzenia.",
@@ -366,6 +372,7 @@
   "Connection lost. Retry in 5 seconds...": "Połączenie zostało utracone. Ponów próbę za 5 sekund...",
   "cli to compose...": "cli do wprowadzania...",
   "View tutorial": "Zobacz poradnik",
+  "Add Source": "Więcej aplikacji",
   "More": "Więcej",
   "Search an app...": "Wyszukaj aplikację...",
   "Tips": "Wskazówki",
@@ -398,5 +405,6 @@
   "Rebulid error": "Błąd przebudowywania",
   "Installing {title}": "Instalowanie {title}",
   "Legacy app (To be rebuilt).": "Starsza aplikacja (Do przebudowania).",
-  "To be rebuilt.": "Do przebudowania."
+  "To be rebuilt.": "Do przebudowania.",
+  "launch-and-open": "Uruchom i otwórz"
 }
