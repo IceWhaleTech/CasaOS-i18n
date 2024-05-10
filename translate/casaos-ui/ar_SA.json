@@ -32,6 +32,8 @@
   "Create Account": "إنشاء حساب",
   "Username": "أسم مستخدم",
   "Confirm Password": "تأكيد كلمة المرور",
+  "User does not exist or password is invalid": "المستخدم غير موجود أو كلمة المرور غير صحيحة",
+  "Too many login requests": "طلبات تسجيل الدخول كثيرة جداً",
   "All things done!": "نحن جاهزون نستطيع الإكمال!",
   "Login": "تسجيل الدخول",
   "Password error!": "كلمة المرور خاطئة!",
@@ -104,6 +106,8 @@
   "Privileged": "الصلاحيات",
   "Container Command": "أمر الحاوية",
   "Container Capabilities (cap-add)": "قدرات الحاوية (إضافة حد)",
+  "Container Name": "اسم الحاوية",
+  "Name of app container": "اسم حاوية التطبيق",
   "Ports": "منفذ",
   "Volumes": "احجام التخزين",
   "Environment Variables": "متغيرات البيئة",
@@ -350,6 +354,8 @@
   "CheckThenUpdate": "تحقق من التحديثات ثم حدث",
   "Not compatible with {arch} devices.": "غير متوافق مع أجهزة {arch}.",
   "Connect Dropbox": "ربط Dropbox",
+  "Connect Google Drive": "ربط Google Drive",
+  "Connect OneDrive": "ربط OneDrive",
   "FilesDrop": "نقل الملفات",
   "You are using the device": "أنت تستخدم الجهاز",
   "Click to send the file to the device.": "اضغط لإرسال الملف إلى الجهاز.",
@@ -366,6 +372,7 @@
   "Connection lost. Retry in 5 seconds...": "فقد الاتصال. أعد المحاولة خلال 5 ثوان...",
   "cli to compose...": "استخدام واجهة الأوامر الكتابية للإرسال...",
   "View tutorial": "شاهد العرض التعليمي",
+  "Add Source": "المزيد من التطبيقات",
   "More": "المزيد",
   "Search an app...": "ابحث عن تطبيق...",
   "Tips": "تلميحات",
@@ -398,5 +405,6 @@
   "Rebulid error": "خطأ في اعادة البناء",
   "Installing {title}": "جارٍ تثبيت {title}",
   "Legacy app (To be rebuilt).": "التطبيق قديم (سيتم إعادة البناء).",
-  "To be rebuilt.": "سيتم إعادة بنائها."
+  "To be rebuilt.": "سيتم إعادة بنائها.",
+  "launch-and-open": "تشغيل وفتح"
 }
