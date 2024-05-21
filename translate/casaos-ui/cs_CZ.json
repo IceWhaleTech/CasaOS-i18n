@@ -1,4 +1,5 @@
 {
+  "lang_name": "Angličtina",
   "OK": "OK",
   "Cancel": "Zrušit",
   "Submit": "Odeslat",
@@ -372,6 +373,7 @@
   "Connection lost. Retry in 5 seconds...": "Připojení ztraceno. Opakujte za 5 sekund...",
   "cli to compose...": "cli pro compose...",
   "View tutorial": "Zobrazit tutoriál",
+  "Add Source": "Další aplikace",
   "More": "Více",
   "Search an app...": "Hledat aplikaci...",
   "Tips": "Tipy",
@@ -404,5 +406,6 @@
   "Rebulid error": "Chyba při obnovování",
   "Installing {title}": "Instaluji {title}",
   "Legacy app (To be rebuilt).": "Starší aplikace (K obnovení).",
-  "To be rebuilt.": "Znovu sestavit."
+  "To be rebuilt.": "Znovu sestavit.",
+  "launch-and-open": "Spustit a otevřít"
 }
