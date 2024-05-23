@@ -124,6 +124,7 @@
   "Available Total": "Tillgängligt Totalt",
   "Health": "Hälsa",
   "Healthy": "Bra hälsa",
+  "Damage": "Skadad",
   "Creation in progress": "Skapar",
   "Apply": "Tillämpa",
   "Used": "Använda",
@@ -180,5 +181,6 @@
   "Folder has been shared": "Katalogen har delats",
   "Follow the guide to start sharing your files on the local network.": "Följ guiden för att börja dela dina filer på det lokala nätverket.",
   "Username or password cannot be empty.": "Användarnamn eller lösenord får inte vara tomt.",
+  "Create File": "Skapa fil",
   "Local URL": "Lokal URL"
 }
