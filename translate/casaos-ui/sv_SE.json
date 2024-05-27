@@ -405,7 +405,7 @@
   "{title} rebulid completed": "{title} Rekonstruering slutförd",
   "Rebulid error": "Fel vid Rekonstruktion",
   "Installing {title}": "Installerar {title}",
-  "Legacy app (To be rebuilt).": "Legacy app (Ska rekonstrueras).",
+  "Legacy app (To be rebuilt).": "Äldre app (Ska rekonstrueras).",
   "To be rebuilt.": "Kommer att Rekonstrueras.",
   "launch-and-open": "Starta och öppna"
 }
