@@ -1,4 +1,5 @@
 {
+  "lang_name": "Αγγλικά",
   "OK": "OK",
   "Cancel": "Άκυρο",
   "Submit": "Υποβολή",
@@ -106,6 +107,8 @@
   "Privileged": "Δικαιώματα",
   "Container Command": "Εντολή Container",
   "Container Capabilities (cap-add)": "Δυνατότητες Container (cap-add)",
+  "Container Name": "Όνομα Container",
+  "Name of app container": "Όνομα Εφαρμογής",
   "Ports": "Θύρα",
   "Volumes": "Τόμοι",
   "Environment Variables": "Μεταβλητές Περιβάλλοντος",
@@ -352,6 +355,8 @@
   "CheckThenUpdate": "Έλεγχος & ενημέρωση",
   "Not compatible with {arch} devices.": "Δεν είναι συμβατό με συσκευές {arch}.",
   "Connect Dropbox": "Σύνδεση στο Dropbox",
+  "Connect Google Drive": "Σύνδεση με Google Drive",
+  "Connect OneDrive": "Σύνδεση με OneDrive",
   "FilesDrop": "FilesDrop",
   "You are using the device": "Χρησιμοποιείτε τη συσκευή",
   "Click to send the file to the device.": "Κάντε κλικ για να στείλετε το αρχείο στη συσκευή.",
@@ -368,6 +373,7 @@
   "Connection lost. Retry in 5 seconds...": "Η σύνδεση χάθηκε. Δοκιμή ξανά σε 5 δευτερόλεπτα...",
   "cli to compose...": "cli προς compose...",
   "View tutorial": "Προβολή Οδηγίων",
+  "Add Source": "Κι άλλες Εφαρμογές",
   "More": "Περισσότερα",
   "Search an app...": "Αναζήτηση μιας εφαρμογής...",
   "Tips": "Υποδείξεις",
@@ -400,5 +406,6 @@
   "Rebulid error": "Σφάλμα ανοικοδόμησης",
   "Installing {title}": "Εγκατάσταση {title}",
   "Legacy app (To be rebuilt).": "Παλαιού τύπου εφαρμογή (Θα ξαναχτιστεί).",
-  "To be rebuilt.": "Θα ξαναχτιστεί."
+  "To be rebuilt.": "Θα ξαναχτιστεί.",
+  "launch-and-open": "Εκκίνηση κι Άνοιγμα"
 }
