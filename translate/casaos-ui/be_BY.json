@@ -162,7 +162,7 @@
   "[Optional]": "Дадаткова",
   "Notice: If there are multiple services, only the first set can be analyzed correctly": "Калі ў файле Docker compose указана больш за 1 кантэйнер, пакуль імпартуецца толькі першы.",
   "There was an error loading the data, please try again!": "Адбылася памылка падчас загрузкі даных. Паспрабуйце яшчэ раз.",
-  "Port": "Парты",
+  "Port": "Порт",
   "Create Storage": "Стварыць сховішча",
   "Storage Manager": "Менеджар сховішча",
   "Storage": "Сховішча",
