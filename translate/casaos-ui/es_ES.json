@@ -26,7 +26,7 @@
   "This field confirmation does not match": "Este campo de confirmación no coincide",
   "This field must have 2 options": "Este campo debe tener 2 opciones",
   "This field must have more than 5 characters": "Este campo debe tener 5 caracteres o más.",
-  "You entered an invalid RFC1123 hostname": "Has introducido una hora no válida. Por favor, utilize el formato RFC1123.",
+  "You entered an invalid RFC1123 hostname": "Has introducido una hora no válida. Por favor, utilice el formato RFC1123.",
   "Welcome to CasaOS": "Bienvenido a CasaOS",
   "Let's create your initial account": "Vamos a crear tu cuenta",
   "Go →": "Ir →",
